@@ -25,7 +25,7 @@ def load_json(path):
 
 # === Intro Tab: Notation Definitions ===
 def show_intro():
-    st.title("🇺🇦 Narrative Analysis of Ukraine War Discourse")
+    st.title("Narrative Analysis of Ukraine War Discourse")
     st.markdown("### Codebook: Narrative, Themes, and Framing")
 
     st.markdown("#### 🧭 Narrative Codes")
