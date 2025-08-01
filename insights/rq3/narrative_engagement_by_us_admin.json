@@ -2,8 +2,14 @@
   {
     "created_month":"2022-02",
     "administration":"Biden",
+    "narrative":"N-1",
+    "total_engagement":626044
+  },
+  {
+    "created_month":"2022-02",
+    "administration":"Biden",
     "narrative":"N-3",
-    "total_engagement":42865
+    "total_engagement":34093
   },
   {
     "created_month":"2022-03",
@@ -15,7 +21,7 @@
     "created_month":"2022-03",
     "administration":"Biden",
     "narrative":"N-3",
-    "total_engagement":196211
+    "total_engagement":90124
   },
   {
     "created_month":"2022-04",
@@ -33,7 +39,7 @@
     "created_month":"2022-04",
     "administration":"Biden",
     "narrative":"N-3",
-    "total_engagement":105772
+    "total_engagement":16007
   },
   {
     "created_month":"2022-05",
@@ -45,7 +51,7 @@
     "created_month":"2022-05",
     "administration":"Biden",
     "narrative":"N-3",
-    "total_engagement":100248
+    "total_engagement":5592
   },
   {
     "created_month":"2022-06",
@@ -57,7 +63,7 @@
     "created_month":"2022-06",
     "administration":"Biden",
     "narrative":"N-3",
-    "total_engagement":793898
+    "total_engagement":4410
   },
   {
     "created_month":"2022-07",
@@ -69,7 +75,7 @@
     "created_month":"2022-07",
     "administration":"Biden",
     "narrative":"N-3",
-    "total_engagement":63223
+    "total_engagement":2476
   },
   {
     "created_month":"2022-08",
@@ -81,7 +87,7 @@
     "created_month":"2022-08",
     "administration":"Biden",
     "narrative":"N-3",
-    "total_engagement":76391
+    "total_engagement":5130
   },
   {
     "created_month":"2022-09",
@@ -93,7 +99,7 @@
     "created_month":"2022-09",
     "administration":"Biden",
     "narrative":"N-3",
-    "total_engagement":107158
+    "total_engagement":9882
   },
   {
     "created_month":"2022-10",
@@ -105,7 +111,7 @@
     "created_month":"2022-10",
     "administration":"Biden",
     "narrative":"N-3",
-    "total_engagement":179340
+    "total_engagement":19584
   },
   {
     "created_month":"2022-11",
@@ -117,7 +123,7 @@
     "created_month":"2022-11",
     "administration":"Biden",
     "narrative":"N-3",
-    "total_engagement":199304
+    "total_engagement":6424
   },
   {
     "created_month":"2022-12",
@@ -129,19 +135,13 @@
     "created_month":"2022-12",
     "administration":"Biden",
     "narrative":"N-3",
-    "total_engagement":261292
+    "total_engagement":14455
   },
   {
     "created_month":"2023-01",
     "administration":"Biden",
     "narrative":"N-1",
     "total_engagement":129314
-  },
-  {
-    "created_month":"2023-01",
-    "administration":"Biden",
-    "narrative":"N-3",
-    "total_engagement":103951
   },
   {
     "created_month":"2023-02",
@@ -153,19 +153,13 @@
     "created_month":"2023-02",
     "administration":"Biden",
     "narrative":"N-3",
-    "total_engagement":238203
+    "total_engagement":24423
   },
   {
     "created_month":"2023-03",
     "administration":"Biden",
     "narrative":"N-1",
     "total_engagement":64591
-  },
-  {
-    "created_month":"2023-03",
-    "administration":"Biden",
-    "narrative":"N-3",
-    "total_engagement":80401
   },
   {
     "created_month":"2023-04",
@@ -177,7 +171,7 @@
     "created_month":"2023-04",
     "administration":"Biden",
     "narrative":"N-3",
-    "total_engagement":70919
+    "total_engagement":1276
   },
   {
     "created_month":"2023-05",
@@ -189,7 +183,7 @@
     "created_month":"2023-05",
     "administration":"Biden",
     "narrative":"N-3",
-    "total_engagement":95938
+    "total_engagement":2892
   },
   {
     "created_month":"2023-06",
@@ -201,7 +195,7 @@
     "created_month":"2023-06",
     "administration":"Biden",
     "narrative":"N-3",
-    "total_engagement":153113
+    "total_engagement":3676
   },
   {
     "created_month":"2023-07",
@@ -213,7 +207,7 @@
     "created_month":"2023-07",
     "administration":"Biden",
     "narrative":"N-3",
-    "total_engagement":201481
+    "total_engagement":1607
   },
   {
     "created_month":"2023-08",
@@ -225,7 +219,7 @@
     "created_month":"2023-08",
     "administration":"Biden",
     "narrative":"N-3",
-    "total_engagement":278219
+    "total_engagement":6146
   },
   {
     "created_month":"2023-09",
@@ -237,7 +231,7 @@
     "created_month":"2023-09",
     "administration":"Biden",
     "narrative":"N-3",
-    "total_engagement":234698
+    "total_engagement":1584
   },
   {
     "created_month":"2023-10",
@@ -249,19 +243,13 @@
     "created_month":"2023-10",
     "administration":"Biden",
     "narrative":"N-3",
-    "total_engagement":125714
+    "total_engagement":4674
   },
   {
     "created_month":"2023-11",
     "administration":"Biden",
     "narrative":"N-1",
     "total_engagement":252874
-  },
-  {
-    "created_month":"2023-11",
-    "administration":"Biden",
-    "narrative":"N-3",
-    "total_engagement":143387
   },
   {
     "created_month":"2023-12",
@@ -273,19 +261,13 @@
     "created_month":"2023-12",
     "administration":"Biden",
     "narrative":"N-3",
-    "total_engagement":83304
+    "total_engagement":2274
   },
   {
     "created_month":"2024-01",
     "administration":"Biden",
     "narrative":"N-1",
     "total_engagement":42382
-  },
-  {
-    "created_month":"2024-01",
-    "administration":"Biden",
-    "narrative":"N-3",
-    "total_engagement":52774
   },
   {
     "created_month":"2024-02",
@@ -297,7 +279,7 @@
     "created_month":"2024-02",
     "administration":"Biden",
     "narrative":"N-3",
-    "total_engagement":124723
+    "total_engagement":1541
   },
   {
     "created_month":"2024-03",
@@ -315,7 +297,7 @@
     "created_month":"2024-03",
     "administration":"Biden",
     "narrative":"N-3",
-    "total_engagement":128299
+    "total_engagement":3310
   },
   {
     "created_month":"2024-04",
@@ -324,22 +306,10 @@
     "total_engagement":94730
   },
   {
-    "created_month":"2024-04",
-    "administration":"Biden",
-    "narrative":"N-3",
-    "total_engagement":93359
-  },
-  {
     "created_month":"2024-05",
     "administration":"Biden",
     "narrative":"N-1",
     "total_engagement":151675
-  },
-  {
-    "created_month":"2024-05",
-    "administration":"Biden",
-    "narrative":"N-3",
-    "total_engagement":100597
   },
   {
     "created_month":"2024-06",
@@ -351,19 +321,13 @@
     "created_month":"2024-06",
     "administration":"Biden",
     "narrative":"N-3",
-    "total_engagement":262767
+    "total_engagement":2853
   },
   {
     "created_month":"2024-07",
     "administration":"Trump",
     "narrative":"N-1",
     "total_engagement":84940
-  },
-  {
-    "created_month":"2024-07",
-    "administration":"Trump",
-    "narrative":"N-3",
-    "total_engagement":629262
   },
   {
     "created_month":"2024-08",
@@ -375,7 +339,7 @@
     "created_month":"2024-08",
     "administration":"Trump",
     "narrative":"N-3",
-    "total_engagement":435347
+    "total_engagement":1229
   },
   {
     "created_month":"2024-09",
@@ -388,12 +352,6 @@
     "administration":"Trump",
     "narrative":"N-2",
     "total_engagement":357496
-  },
-  {
-    "created_month":"2024-09",
-    "administration":"Trump",
-    "narrative":"N-3",
-    "total_engagement":192114
   },
   {
     "created_month":"2024-10",
@@ -411,7 +369,7 @@
     "created_month":"2024-10",
     "administration":"Trump",
     "narrative":"N-3",
-    "total_engagement":2483563
+    "total_engagement":2266
   },
   {
     "created_month":"2024-11",
@@ -420,34 +378,16 @@
     "total_engagement":6204
   },
   {
-    "created_month":"2024-11",
-    "administration":"Trump",
-    "narrative":"N-3",
-    "total_engagement":2857325
-  },
-  {
     "created_month":"2024-12",
     "administration":"Trump",
     "narrative":"N-1",
     "total_engagement":583399
   },
   {
-    "created_month":"2024-12",
-    "administration":"Trump",
-    "narrative":"N-3",
-    "total_engagement":1288126
-  },
-  {
     "created_month":"2025-01",
     "administration":"Trump",
     "narrative":"N-1",
     "total_engagement":122954
-  },
-  {
-    "created_month":"2025-01",
-    "administration":"Trump",
-    "narrative":"N-3",
-    "total_engagement":1066336
   },
   {
     "created_month":"2025-02",
@@ -465,7 +405,7 @@
     "created_month":"2025-02",
     "administration":"Trump",
     "narrative":"N-3",
-    "total_engagement":2197988
+    "total_engagement":476819
   },
   {
     "created_month":"2025-03",
@@ -483,7 +423,7 @@
     "created_month":"2025-03",
     "administration":"Trump",
     "narrative":"N-3",
-    "total_engagement":3406322
+    "total_engagement":1153375
   },
   {
     "created_month":"2025-04",
@@ -495,6 +435,6 @@
     "created_month":"2025-04",
     "administration":"Trump",
     "narrative":"N-3",
-    "total_engagement":2139309
+    "total_engagement":20027
   }
 ]

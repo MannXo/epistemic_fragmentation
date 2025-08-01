@@ -1,39 +1,39 @@
 [
   {
     "code":"F-1",
-    "count":25603,
-    "total_engagement":14364147,
-    "avg_engagement":561.03
+    "count":23478,
+    "total_engagement":12412481,
+    "avg_engagement":528.69
   },
   {
     "code":"F-2",
-    "count":23556,
-    "total_engagement":14686245,
-    "avg_engagement":623.46
+    "count":21010,
+    "total_engagement":11994417,
+    "avg_engagement":570.89
   },
   {
     "code":"F-3",
-    "count":45650,
-    "total_engagement":20861866,
-    "avg_engagement":457.0
+    "count":35251,
+    "total_engagement":17019932,
+    "avg_engagement":482.82
   },
   {
     "code":"F-4",
-    "count":30682,
-    "total_engagement":22008651,
-    "avg_engagement":717.31
+    "count":28478,
+    "total_engagement":18550216,
+    "avg_engagement":651.39
   },
   {
     "code":"F-5",
-    "count":14709,
-    "total_engagement":9655393,
-    "avg_engagement":656.43
+    "count":14468,
+    "total_engagement":7701386,
+    "avg_engagement":532.3
   },
   {
     "code":"F-6",
-    "count":12542,
-    "total_engagement":6709322,
-    "avg_engagement":534.95
+    "count":11038,
+    "total_engagement":5610750,
+    "avg_engagement":508.31
   },
   {
     "code":"F1",

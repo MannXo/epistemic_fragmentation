@@ -11,60 +11,9 @@
       "N-3": 100.0
     },
     "narrative_dist_native": {
-      "N-1": 41.9,
+      "N-1": 86.7,
       "N-2": 0.0,
-      "N-3": 58.099999999999994
-    }
-  },
-  {
-    "userName": "AbirAlsahlani",
-    "name": "AbirAlsahlani",
-    "native_lang": "sv",
-    "country": "Sweden",
-    "politicalGroup": "Renew Europe Group",
-    "narrative_dist_en": {
-      "N-1": 45.5,
-      "N-2": 0.0,
-      "N-3": 54.50000000000001
-    },
-    "narrative_dist_native": {
-      "N-1": 87.8,
-      "N-2": 5.4,
-      "N-3": 6.800000000000001
-    }
-  },
-  {
-    "userName": "AdamBielan",
-    "name": "Adam Bielan #Nawrocki2025",
-    "native_lang": "pl",
-    "country": "Poland",
-    "politicalGroup": "European Conservatives and Reformists Group",
-    "narrative_dist_en": {
-      "N-1": 0.0,
-      "N-2": 0.0,
-      "N-3": 100.0
-    },
-    "narrative_dist_native": {
-      "N-1": 72.7,
-      "N-2": 0.0,
-      "N-3": 27.3
-    }
-  },
-  {
-    "userName": "Adamowicz_Magda",
-    "name": "Magdalena Adamowicz",
-    "native_lang": "pl",
-    "country": "Poland",
-    "politicalGroup": "Group of the European People's Party (Christian Democrats)",
-    "narrative_dist_en": {
-      "N-1": 100.0,
-      "N-2": 0.0,
-      "N-3": 0.0
-    },
-    "narrative_dist_native": {
-      "N-1": 64.3,
-      "N-2": 1.2,
-      "N-3": 34.5
+      "N-3": 13.3
     }
   },
   {
@@ -79,26 +28,9 @@
       "N-3": 100.0
     },
     "narrative_dist_native": {
-      "N-1": 38.7,
-      "N-2": 6.7,
-      "N-3": 54.6
-    }
-  },
-  {
-    "userName": "Andreas_Schwab",
-    "name": "Andreas Schwab @ASchwab.bsky.social",
-    "native_lang": "de",
-    "country": "Germany",
-    "politicalGroup": "Group of the European People's Party (Christian Democrats)",
-    "narrative_dist_en": {
-      "N-1": 74.1,
-      "N-2": 1.9,
-      "N-3": 24.099999999999998
-    },
-    "narrative_dist_native": {
-      "N-1": 44.3,
-      "N-2": 0.0,
-      "N-3": 55.7
+      "N-1": 52.400000000000006,
+      "N-2": 9.1,
+      "N-3": 38.5
     }
   },
   {
@@ -108,9 +40,9 @@
     "country": "Bulgaria",
     "politicalGroup": "Group of the European People's Party (Christian Democrats)",
     "narrative_dist_en": {
-      "N-1": 8.3,
+      "N-1": 50.0,
       "N-2": 0.0,
-      "N-3": 91.7
+      "N-3": 50.0
     },
     "narrative_dist_native": {
       "N-1": 100.0,
@@ -119,37 +51,20 @@
     }
   },
   {
-    "userName": "AndrisAmeriks",
-    "name": "Andris Ameriks",
-    "native_lang": "lv",
+    "userName": "AnnaAsimakopoul",
+    "name": "Anna Michelle Asimakopoulou",
+    "native_lang": "el",
     "country": NaN,
     "politicalGroup": NaN,
     "narrative_dist_en": {
-      "N-1": 0.0,
+      "N-1": 54.2,
       "N-2": 0.0,
-      "N-3": 100.0
+      "N-3": 45.800000000000004
     },
     "narrative_dist_native": {
-      "N-1": 100.0,
+      "N-1": 29.099999999999998,
       "N-2": 0.0,
-      "N-3": 0.0
-    }
-  },
-  {
-    "userName": "AndrzejHalicki",
-    "name": "Andrzej Halicki MEP",
-    "native_lang": "pl",
-    "country": "Poland",
-    "politicalGroup": "Group of the European People's Party (Christian Democrats)",
-    "narrative_dist_en": {
-      "N-1": 85.0,
-      "N-2": 0.0,
-      "N-3": 15.0
-    },
-    "narrative_dist_native": {
-      "N-1": 39.7,
-      "N-2": 0.2,
-      "N-3": 60.099999999999994
+      "N-3": 70.89999999999999
     }
   },
   {
@@ -159,14 +74,14 @@
     "country": "Poland",
     "politicalGroup": "European Conservatives and Reformists Group",
     "narrative_dist_en": {
-      "N-1": 81.8,
+      "N-1": 100.0,
       "N-2": 0.0,
-      "N-3": 18.2
+      "N-3": 0.0
     },
     "narrative_dist_native": {
-      "N-1": 32.5,
-      "N-2": 6.5,
-      "N-3": 60.9
+      "N-1": 60.9,
+      "N-2": 12.2,
+      "N-3": 26.900000000000002
     }
   },
   {
@@ -181,9 +96,9 @@
       "N-3": 0.0
     },
     "narrative_dist_native": {
-      "N-1": 53.300000000000004,
-      "N-2": 6.7,
-      "N-3": 40.0
+      "N-1": 72.7,
+      "N-2": 9.1,
+      "N-3": 18.2
     }
   },
   {
@@ -198,26 +113,26 @@
       "N-3": 0.0
     },
     "narrative_dist_native": {
-      "N-1": 18.2,
-      "N-2": 3.6999999999999997,
-      "N-3": 78.10000000000001
+      "N-1": 65.4,
+      "N-2": 13.5,
+      "N-3": 21.2
     }
   },
   {
-    "userName": "AuraSalla",
-    "name": "Aura Salla",
-    "native_lang": "fi",
-    "country": "Finland",
-    "politicalGroup": "Group of the European People's Party (Christian Democrats)",
+    "userName": "ArnaudDanjean",
+    "name": "Arnaud Danjean",
+    "native_lang": "fr",
+    "country": NaN,
+    "politicalGroup": NaN,
     "narrative_dist_en": {
-      "N-1": 60.0,
+      "N-1": 100.0,
       "N-2": 0.0,
-      "N-3": 40.0
+      "N-3": 0.0
     },
     "narrative_dist_native": {
-      "N-1": 85.7,
+      "N-1": 72.2,
       "N-2": 0.0,
-      "N-3": 14.299999999999999
+      "N-3": 27.800000000000004
     }
   },
   {
@@ -227,14 +142,31 @@
     "country": "France",
     "politicalGroup": "Group of the Progressive Alliance of Socialists and Democrats in the\n            European Parliament",
     "narrative_dist_en": {
-      "N-1": 14.299999999999999,
+      "N-1": 33.300000000000004,
       "N-2": 0.0,
-      "N-3": 85.7
+      "N-3": 66.7
     },
     "narrative_dist_native": {
-      "N-1": 58.199999999999996,
+      "N-1": 80.7,
       "N-2": 0.0,
-      "N-3": 41.8
+      "N-3": 19.3
+    }
+  },
+  {
+    "userName": "BalazsHidveghi",
+    "name": "Hidv\u00e9ghi Bal\u00e1zs",
+    "native_lang": "fr",
+    "country": NaN,
+    "politicalGroup": NaN,
+    "narrative_dist_en": {
+      "N-1": 16.1,
+      "N-2": 33.900000000000006,
+      "N-3": 50.0
+    },
+    "narrative_dist_native": {
+      "N-1": 11.1,
+      "N-2": 55.60000000000001,
+      "N-3": 33.300000000000004
     }
   },
   {
@@ -244,31 +176,14 @@
     "country": NaN,
     "politicalGroup": NaN,
     "narrative_dist_en": {
-      "N-1": 66.7,
+      "N-1": 100.0,
       "N-2": 0.0,
-      "N-3": 33.300000000000004
+      "N-3": 0.0
     },
     "narrative_dist_native": {
-      "N-1": 36.6,
-      "N-2": 0.5,
-      "N-3": 63.0
-    }
-  },
-  {
-    "userName": "BeataSzydlo",
-    "name": "Beata Szyd\u0142o",
-    "native_lang": "pl",
-    "country": "Poland",
-    "politicalGroup": "European Conservatives and Reformists Group",
-    "narrative_dist_en": {
-      "N-1": 67.10000000000001,
-      "N-2": 2.9000000000000004,
-      "N-3": 30.0
-    },
-    "narrative_dist_native": {
-      "N-1": 34.4,
-      "N-2": 5.0,
-      "N-3": 60.6
+      "N-1": 79.4,
+      "N-2": 1.0,
+      "N-3": 19.6
     }
   },
   {
@@ -278,82 +193,31 @@
     "country": NaN,
     "politicalGroup": NaN,
     "narrative_dist_en": {
-      "N-1": 60.0,
-      "N-2": 0.0,
-      "N-3": 40.0
-    },
-    "narrative_dist_native": {
-      "N-1": 38.0,
-      "N-2": 0.0,
-      "N-3": 62.0
-    }
-  },
-  {
-    "userName": "BenoitLutgen",
-    "name": "Beno\u00eet Lutgen \ud83c\uddea\ud83c\uddfa",
-    "native_lang": "fr",
-    "country": NaN,
-    "politicalGroup": NaN,
-    "narrative_dist_en": {
-      "N-1": 0.0,
-      "N-2": 0.0,
-      "N-3": 100.0
-    },
-    "narrative_dist_native": {
-      "N-1": 76.5,
-      "N-2": 0.0,
-      "N-3": 23.5
-    }
-  },
-  {
-    "userName": "BergurLokke",
-    "name": "Bergur L\u00f8kke Rasmussen",
-    "native_lang": "da",
-    "country": NaN,
-    "politicalGroup": NaN,
-    "narrative_dist_en": {
       "N-1": 100.0,
       "N-2": 0.0,
       "N-3": 0.0
     },
     "narrative_dist_native": {
-      "N-1": 74.4,
+      "N-1": 63.3,
       "N-2": 0.0,
-      "N-3": 25.6
+      "N-3": 36.7
     }
   },
   {
-    "userName": "BillyKelleherEU",
-    "name": "Billy Kelleher MEP",
-    "native_lang": "qme",
-    "country": "Ireland",
-    "politicalGroup": "Renew Europe Group",
-    "narrative_dist_en": {
-      "N-1": 67.9,
-      "N-2": 0.2,
-      "N-3": 31.900000000000002
-    },
-    "narrative_dist_native": {
-      "N-1": 33.300000000000004,
-      "N-2": 0.0,
-      "N-3": 66.7
-    }
-  },
-  {
-    "userName": "BuchheitMarkus",
-    "name": "Markus Buchheit",
+    "userName": "BernhardZimniok",
+    "name": "Bernhard Zimniok",
     "native_lang": "de",
-    "country": "Germany",
-    "politicalGroup": "Europe of Sovereign Nations Group",
+    "country": NaN,
+    "politicalGroup": NaN,
     "narrative_dist_en": {
-      "N-1": 0.0,
-      "N-2": 0.0,
-      "N-3": 100.0
+      "N-1": 11.799999999999999,
+      "N-2": 41.199999999999996,
+      "N-3": 47.099999999999994
     },
     "narrative_dist_native": {
-      "N-1": 2.6,
-      "N-2": 30.8,
-      "N-3": 66.7
+      "N-1": 2.5,
+      "N-2": 73.8,
+      "N-3": 23.7
     }
   },
   {
@@ -363,116 +227,31 @@
     "country": NaN,
     "politicalGroup": NaN,
     "narrative_dist_en": {
-      "N-1": 65.60000000000001,
+      "N-1": 87.5,
       "N-2": 0.0,
-      "N-3": 34.4
+      "N-3": 12.5
     },
     "narrative_dist_native": {
-      "N-1": 23.1,
+      "N-1": 60.0,
       "N-2": 0.0,
-      "N-3": 76.9
-    }
-  },
-  {
-    "userName": "C_Nagtegaal",
-    "name": "Caroline Nagtegaal",
-    "native_lang": "nl",
-    "country": NaN,
-    "politicalGroup": NaN,
-    "narrative_dist_en": {
-      "N-1": 0.0,
-      "N-2": 0.0,
-      "N-3": 100.0
-    },
-    "narrative_dist_native": {
-      "N-1": 28.599999999999998,
-      "N-2": 0.0,
-      "N-3": 71.39999999999999
-    }
-  },
-  {
-    "userName": "CarolineRooseEU",
-    "name": "Caroline Roose \ud83c\udf0d \ud83d\udc1f \ud83c\udf3b",
-    "native_lang": "fr",
-    "country": NaN,
-    "politicalGroup": NaN,
-    "narrative_dist_en": {
-      "N-1": 33.300000000000004,
-      "N-2": 0.0,
-      "N-3": 66.7
-    },
-    "narrative_dist_native": {
-      "N-1": 61.1,
-      "N-2": 0.0,
-      "N-3": 38.9
-    }
-  },
-  {
-    "userName": "CathChabaud",
-    "name": "Catherine Chabaud",
-    "native_lang": "fr",
-    "country": NaN,
-    "politicalGroup": NaN,
-    "narrative_dist_en": {
-      "N-1": 0.0,
-      "N-2": 0.0,
-      "N-3": 100.0
-    },
-    "narrative_dist_native": {
-      "N-1": 75.0,
-      "N-2": 0.0,
-      "N-3": 25.0
-    }
-  },
-  {
-    "userName": "Cepeda",
-    "name": "Jos\u00e9 Cepeda",
-    "native_lang": "es",
-    "country": "Spain",
-    "politicalGroup": "Group of the Progressive Alliance of Socialists and Democrats in the\n            European Parliament",
-    "narrative_dist_en": {
-      "N-1": 100.0,
-      "N-2": 0.0,
-      "N-3": 0.0
-    },
-    "narrative_dist_native": {
-      "N-1": 33.300000000000004,
-      "N-2": 0.0,
-      "N-3": 66.7
+      "N-3": 40.0
     }
   },
   {
     "userName": "CiaranCuffe",
     "name": "Ciar\u00e1n Cuffe",
-    "native_lang": "de",
+    "native_lang": "cy",
     "country": NaN,
     "politicalGroup": NaN,
     "narrative_dist_en": {
-      "N-1": 37.5,
+      "N-1": 78.60000000000001,
       "N-2": 0.0,
-      "N-3": 62.5
+      "N-3": 21.4
     },
     "narrative_dist_native": {
-      "N-1": 0.0,
+      "N-1": 100.0,
       "N-2": 0.0,
-      "N-3": 100.0
-    }
-  },
-  {
-    "userName": "CiolosDacian",
-    "name": "Dacian Ciolo\u015f",
-    "native_lang": "ro",
-    "country": NaN,
-    "politicalGroup": NaN,
-    "narrative_dist_en": {
-      "N-1": 80.60000000000001,
-      "N-2": 0.0,
-      "N-3": 19.400000000000002
-    },
-    "narrative_dist_native": {
-      "N-1": 42.9,
-      "N-2": 0.0,
-      "N-3": 57.099999999999994
+      "N-3": 0.0
     }
   },
   {
@@ -487,9 +266,9 @@
       "N-3": 100.0
     },
     "narrative_dist_native": {
-      "N-1": 48.6,
+      "N-1": 60.699999999999996,
       "N-2": 0.0,
-      "N-3": 51.4
+      "N-3": 39.300000000000004
     }
   },
   {
@@ -499,14 +278,14 @@
     "country": NaN,
     "politicalGroup": NaN,
     "narrative_dist_en": {
-      "N-1": 33.300000000000004,
+      "N-1": 50.0,
       "N-2": 0.0,
-      "N-3": 66.7
+      "N-3": 50.0
     },
     "narrative_dist_native": {
-      "N-1": 63.3,
+      "N-1": 73.8,
       "N-2": 0.0,
-      "N-3": 36.7
+      "N-3": 26.200000000000003
     }
   },
   {
@@ -516,14 +295,14 @@
     "country": "Romania",
     "politicalGroup": "European Conservatives and Reformists Group",
     "narrative_dist_en": {
-      "N-1": 10.0,
-      "N-2": 30.0,
-      "N-3": 60.0
+      "N-1": 16.7,
+      "N-2": 50.0,
+      "N-3": 33.300000000000004
     },
     "narrative_dist_native": {
-      "N-1": 33.300000000000004,
-      "N-2": 33.300000000000004,
-      "N-3": 33.300000000000004
+      "N-1": 50.0,
+      "N-2": 50.0,
+      "N-3": 0.0
     }
   },
   {
@@ -533,82 +312,14 @@
     "country": NaN,
     "politicalGroup": NaN,
     "narrative_dist_en": {
-      "N-1": 39.0,
+      "N-1": 74.3,
       "N-2": 0.0,
-      "N-3": 61.0
+      "N-3": 25.7
     },
     "narrative_dist_native": {
       "N-1": 100.0,
       "N-2": 0.0,
       "N-3": 0.0
-    }
-  },
-  {
-    "userName": "CristianSBusoi",
-    "name": "Cristian Bu\u0219oi",
-    "native_lang": "ro",
-    "country": NaN,
-    "politicalGroup": NaN,
-    "narrative_dist_en": {
-      "N-1": 44.4,
-      "N-2": 0.0,
-      "N-3": 55.60000000000001
-    },
-    "narrative_dist_native": {
-      "N-1": 0.0,
-      "N-2": 0.0,
-      "N-3": 100.0
-    }
-  },
-  {
-    "userName": "CristianTerhes",
-    "name": "Cristian Terhes MEP",
-    "native_lang": "ro",
-    "country": "Romania",
-    "politicalGroup": "European Conservatives and Reformists Group",
-    "narrative_dist_en": {
-      "N-1": 50.0,
-      "N-2": 0.0,
-      "N-3": 50.0
-    },
-    "narrative_dist_native": {
-      "N-1": 100.0,
-      "N-2": 0.0,
-      "N-3": 0.0
-    }
-  },
-  {
-    "userName": "Dani_Rondinelli",
-    "name": "Daniela Rondinelli",
-    "native_lang": "it",
-    "country": NaN,
-    "politicalGroup": NaN,
-    "narrative_dist_en": {
-      "N-1": 0.0,
-      "N-2": 0.0,
-      "N-3": 100.0
-    },
-    "narrative_dist_native": {
-      "N-1": 59.8,
-      "N-2": 0.0,
-      "N-3": 40.2
-    }
-  },
-  {
-    "userName": "DanielObajtek",
-    "name": "Daniel Obajtek",
-    "native_lang": "pl",
-    "country": "Poland",
-    "politicalGroup": "European Conservatives and Reformists Group",
-    "narrative_dist_en": {
-      "N-1": 0.0,
-      "N-2": 0.0,
-      "N-3": 100.0
-    },
-    "narrative_dist_native": {
-      "N-1": 15.299999999999999,
-      "N-2": 8.5,
-      "N-3": 76.3
     }
   },
   {
@@ -623,304 +334,15 @@
       "N-3": 100.0
     },
     "narrative_dist_native": {
-      "N-1": 43.3,
+      "N-1": 86.7,
       "N-2": 0.0,
-      "N-3": 56.699999999999996
-    }
-  },
-  {
-    "userName": "Dariusz_Jonski",
-    "name": "Dariusz Jo\u0144ski MEP\ud83c\uddf5\ud83c\uddf1\ud83c\uddea\ud83c\uddfa",
-    "native_lang": "pl",
-    "country": "Poland",
-    "politicalGroup": "Group of the European People's Party (Christian Democrats)",
-    "narrative_dist_en": {
-      "N-1": 100.0,
-      "N-2": 0.0,
-      "N-3": 0.0
-    },
-    "narrative_dist_native": {
-      "N-1": 47.8,
-      "N-2": 0.6,
-      "N-3": 51.7
-    }
-  },
-  {
-    "userName": "DavidCasaMEP",
-    "name": "David Casa",
-    "native_lang": "ht",
-    "country": "Malta",
-    "politicalGroup": "Group of the European People's Party (Christian Democrats)",
-    "narrative_dist_en": {
-      "N-1": 43.8,
-      "N-2": 0.0,
-      "N-3": 56.2
-    },
-    "narrative_dist_native": {
-      "N-1": 0.0,
-      "N-2": 0.0,
-      "N-3": 100.0
-    }
-  },
-  {
-    "userName": "DavidCormand",
-    "name": "David Cormand\ud83c\udf3b\ud83c\uddea\ud83c\uddfa\ud83c\udf0d\ud83c\udf0f\ud83c\udf0e",
-    "native_lang": "fr",
-    "country": "France",
-    "politicalGroup": "Group of the Greens/European Free Alliance",
-    "narrative_dist_en": {
-      "N-1": 0.0,
-      "N-2": 0.0,
-      "N-3": 100.0
-    },
-    "narrative_dist_native": {
-      "N-1": 48.6,
-      "N-2": 1.9,
-      "N-3": 49.5
-    }
-  },
-  {
-    "userName": "DavidLega",
-    "name": "David Lega",
-    "native_lang": "sv",
-    "country": NaN,
-    "politicalGroup": NaN,
-    "narrative_dist_en": {
-      "N-1": 57.099999999999994,
-      "N-2": 0.0,
-      "N-3": 42.9
-    },
-    "narrative_dist_native": {
-      "N-1": 83.3,
-      "N-2": 0.0,
-      "N-3": 16.7
-    }
-  },
-  {
-    "userName": "DavorIvoStier",
-    "name": "Davor Ivo Stier",
-    "native_lang": "und",
-    "country": "Croatia",
-    "politicalGroup": "Group of the European People's Party (Christian Democrats)",
-    "narrative_dist_en": {
-      "N-1": 0.0,
-      "N-2": 0.0,
-      "N-3": 100.0
-    },
-    "narrative_dist_native": {
-      "N-1": 50.0,
-      "N-2": 0.0,
-      "N-3": 50.0
+      "N-3": 13.3
     }
   },
   {
     "userName": "DemPapadakis",
     "name": "Demetris Papadakis",
     "native_lang": "el",
-    "country": NaN,
-    "politicalGroup": NaN,
-    "narrative_dist_en": {
-      "N-1": 50.0,
-      "N-2": 0.0,
-      "N-3": 50.0
-    },
-    "narrative_dist_native": {
-      "N-1": 9.1,
-      "N-2": 0.0,
-      "N-3": 90.9
-    }
-  },
-  {
-    "userName": "DianaRibaGiner",
-    "name": "Diana Riba i Giner",
-    "native_lang": "ca",
-    "country": "Spain",
-    "politicalGroup": "Group of the Greens/European Free Alliance",
-    "narrative_dist_en": {
-      "N-1": 24.099999999999998,
-      "N-2": 0.0,
-      "N-3": 75.9
-    },
-    "narrative_dist_native": {
-      "N-1": 42.9,
-      "N-2": 1.3,
-      "N-3": 55.800000000000004
-    }
-  },
-  {
-    "userName": "Doleschal",
-    "name": "Christian Doleschal MdEP\ud83c\uddea\ud83c\uddfa",
-    "native_lang": "de",
-    "country": "Germany",
-    "politicalGroup": "Group of the European People's Party (Christian Democrats)",
-    "narrative_dist_en": {
-      "N-1": 0.0,
-      "N-2": 0.0,
-      "N-3": 100.0
-    },
-    "narrative_dist_native": {
-      "N-1": 29.599999999999998,
-      "N-2": 0.0,
-      "N-3": 70.39999999999999
-    }
-  },
-  {
-    "userName": "DolorsMM",
-    "name": "Dolors Montserrat",
-    "native_lang": "es",
-    "country": "Spain",
-    "politicalGroup": "Group of the European People's Party (Christian Democrats)",
-    "narrative_dist_en": {
-      "N-1": 100.0,
-      "N-2": 0.0,
-      "N-3": 0.0
-    },
-    "narrative_dist_native": {
-      "N-1": 49.1,
-      "N-2": 1.9,
-      "N-3": 49.1
-    }
-  },
-  {
-    "userName": "EGardiazabal",
-    "name": "Eider Gardiazabal",
-    "native_lang": "es",
-    "country": NaN,
-    "politicalGroup": NaN,
-    "narrative_dist_en": {
-      "N-1": 33.300000000000004,
-      "N-2": 0.0,
-      "N-3": 66.7
-    },
-    "narrative_dist_native": {
-      "N-1": 94.69999999999999,
-      "N-2": 0.0,
-      "N-3": 5.3
-    }
-  },
-  {
-    "userName": "EPP",
-    "name": "EPP",
-    "native_lang": "qme",
-    "country": NaN,
-    "politicalGroup": NaN,
-    "narrative_dist_en": {
-      "N-1": 68.0,
-      "N-2": 0.0,
-      "N-3": 32.0
-    },
-    "narrative_dist_native": {
-      "N-1": 100.0,
-      "N-2": 0.0,
-      "N-3": 0.0
-    }
-  },
-  {
-    "userName": "EPoptcheva",
-    "name": "Eva Poptcheva \ud83c\uddea\ud83c\uddfa\ud83c\uddea\ud83c\uddf8",
-    "native_lang": "es",
-    "country": NaN,
-    "politicalGroup": NaN,
-    "narrative_dist_en": {
-      "N-1": 16.7,
-      "N-2": 0.0,
-      "N-3": 83.3
-    },
-    "narrative_dist_native": {
-      "N-1": 36.8,
-      "N-2": 2.6,
-      "N-3": 60.5
-    }
-  },
-  {
-    "userName": "E_Rafalska",
-    "name": "El\u017cbieta Rafalska",
-    "native_lang": "pl",
-    "country": NaN,
-    "politicalGroup": NaN,
-    "narrative_dist_en": {
-      "N-1": 0.0,
-      "N-2": 100.0,
-      "N-3": 0.0
-    },
-    "narrative_dist_native": {
-      "N-1": 22.6,
-      "N-2": 4.8,
-      "N-3": 72.6
-    }
-  },
-  {
-    "userName": "ElsiKatainen",
-    "name": "Elsi Katainen",
-    "native_lang": "fi",
-    "country": "Finland",
-    "politicalGroup": "Renew Europe Group",
-    "narrative_dist_en": {
-      "N-1": 33.300000000000004,
-      "N-2": 0.0,
-      "N-3": 66.7
-    },
-    "narrative_dist_native": {
-      "N-1": 73.5,
-      "N-2": 0.0,
-      "N-3": 26.5
-    }
-  },
-  {
-    "userName": "EmmaRafowicz",
-    "name": "Emma Rafowicz",
-    "native_lang": "fr",
-    "country": "France",
-    "politicalGroup": "Group of the Progressive Alliance of Socialists and Democrats in the\n            European Parliament",
-    "narrative_dist_en": {
-      "N-1": 100.0,
-      "N-2": 0.0,
-      "N-3": 0.0
-    },
-    "narrative_dist_native": {
-      "N-1": 40.0,
-      "N-2": 0.0,
-      "N-3": 60.0
-    }
-  },
-  {
-    "userName": "EnginEroglu_FW",
-    "name": "Engin Eroglu",
-    "native_lang": "de",
-    "country": "Germany",
-    "politicalGroup": "Renew Europe Group",
-    "narrative_dist_en": {
-      "N-1": 65.8,
-      "N-2": 0.0,
-      "N-3": 34.2
-    },
-    "narrative_dist_native": {
-      "N-1": 26.900000000000002,
-      "N-2": 0.0,
-      "N-3": 73.1
-    }
-  },
-  {
-    "userName": "ErikMarquardt",
-    "name": "Erik Marquardt",
-    "native_lang": "de",
-    "country": "Germany",
-    "politicalGroup": "Group of the Greens/European Free Alliance",
-    "narrative_dist_en": {
-      "N-1": 57.099999999999994,
-      "N-2": 0.0,
-      "N-3": 42.9
-    },
-    "narrative_dist_native": {
-      "N-1": 26.700000000000003,
-      "N-2": 0.4,
-      "N-3": 73.0
-    }
-  },
-  {
-    "userName": "EugenJurzyca",
-    "name": "Eugen Jurzyca",
-    "native_lang": "und",
     "country": NaN,
     "politicalGroup": NaN,
     "narrative_dist_en": {
@@ -935,71 +357,105 @@
     }
   },
   {
-    "userName": "EuropaJens",
-    "name": "Jens Geier",
-    "native_lang": "de",
-    "country": "Germany",
-    "politicalGroup": "Group of the Progressive Alliance of Socialists and Democrats in the\n            European Parliament",
-    "narrative_dist_en": {
-      "N-1": 0.0,
-      "N-2": 0.0,
-      "N-3": 100.0
-    },
-    "narrative_dist_native": {
-      "N-1": 45.7,
-      "N-2": 0.0,
-      "N-3": 54.300000000000004
-    }
-  },
-  {
-    "userName": "EvaMaydell",
-    "name": "Eva Maydell (Paunova)",
-    "native_lang": "qme",
-    "country": "Bulgaria",
-    "politicalGroup": "Group of the European People's Party (Christian Democrats)",
-    "narrative_dist_en": {
-      "N-1": 72.3,
-      "N-2": 0.0,
-      "N-3": 27.700000000000003
-    },
-    "narrative_dist_native": {
-      "N-1": 50.0,
-      "N-2": 0.0,
-      "N-3": 50.0
-    }
-  },
-  {
-    "userName": "Evelyn_Regner",
-    "name": "Evelyn Regner",
-    "native_lang": "de",
-    "country": "Austria",
-    "politicalGroup": "Group of the Progressive Alliance of Socialists and Democrats in the\n            European Parliament",
-    "narrative_dist_en": {
-      "N-1": 0.0,
-      "N-2": 0.0,
-      "N-3": 100.0
-    },
-    "narrative_dist_native": {
-      "N-1": 24.0,
-      "N-2": 0.0,
-      "N-3": 76.0
-    }
-  },
-  {
-    "userName": "F_Alfonsi",
-    "name": "Fran\u00e7ois Alfonsi",
-    "native_lang": "fr",
+    "userName": "E_Rafalska",
+    "name": "El\u017cbieta Rafalska",
+    "native_lang": "pl",
     "country": NaN,
     "politicalGroup": NaN,
     "narrative_dist_en": {
       "N-1": 0.0,
-      "N-2": 0.0,
-      "N-3": 100.0
+      "N-2": 100.0,
+      "N-3": 0.0
     },
     "narrative_dist_native": {
-      "N-1": 44.4,
+      "N-1": 66.0,
+      "N-2": 14.000000000000002,
+      "N-3": 20.0
+    }
+  },
+  {
+    "userName": "ElenaKountoura",
+    "name": "\u0388\u03bb\u03b5\u03bd\u03b1 \u039a\u03bf\u03c5\u03bd\u03c4\u03bf\u03c5\u03c1\u03ac",
+    "native_lang": "el",
+    "country": "Greece",
+    "politicalGroup": "The Left group in the European Parliament - GUE/NGL",
+    "narrative_dist_en": {
+      "N-1": 100.0,
       "N-2": 0.0,
-      "N-3": 55.60000000000001
+      "N-3": 0.0
+    },
+    "narrative_dist_native": {
+      "N-1": 25.0,
+      "N-2": 0.0,
+      "N-3": 75.0
+    }
+  },
+  {
+    "userName": "ElenaYoncheva",
+    "name": "Elena Yoncheva",
+    "native_lang": "bg",
+    "country": "Bulgaria",
+    "politicalGroup": "Non-attached Members",
+    "narrative_dist_en": {
+      "N-1": 100.0,
+      "N-2": 0.0,
+      "N-3": 0.0
+    },
+    "narrative_dist_native": {
+      "N-1": 38.9,
+      "N-2": 19.400000000000002,
+      "N-3": 41.699999999999996
+    }
+  },
+  {
+    "userName": "EnginEroglu_FW",
+    "name": "Engin Eroglu",
+    "native_lang": "de",
+    "country": "Germany",
+    "politicalGroup": "Renew Europe Group",
+    "narrative_dist_en": {
+      "N-1": 87.9,
+      "N-2": 0.0,
+      "N-3": 12.1
+    },
+    "narrative_dist_native": {
+      "N-1": 63.6,
+      "N-2": 0.0,
+      "N-3": 36.4
+    }
+  },
+  {
+    "userName": "EricAndrieuEU",
+    "name": "Eric Andrieu",
+    "native_lang": "fr",
+    "country": NaN,
+    "politicalGroup": NaN,
+    "narrative_dist_en": {
+      "N-1": 100.0,
+      "N-2": 0.0,
+      "N-3": 0.0
+    },
+    "narrative_dist_native": {
+      "N-1": 66.7,
+      "N-2": 0.0,
+      "N-3": 33.300000000000004
+    }
+  },
+  {
+    "userName": "EugenJurzyca",
+    "name": "Eugen Jurzyca",
+    "native_lang": "und",
+    "country": NaN,
+    "politicalGroup": NaN,
+    "narrative_dist_en": {
+      "N-1": 100.0,
+      "N-2": 0.0,
+      "N-3": 0.0
+    },
+    "narrative_dist_native": {
+      "N-1": 33.300000000000004,
+      "N-2": 0.0,
+      "N-3": 66.7
     }
   },
   {
@@ -1014,26 +470,26 @@
       "N-3": 100.0
     },
     "narrative_dist_native": {
-      "N-1": 3.0,
-      "N-2": 23.3,
-      "N-3": 73.7
+      "N-1": 6.6000000000000005,
+      "N-2": 52.0,
+      "N-3": 41.4
     }
   },
   {
-    "userName": "FitzgeraldFrncs",
-    "name": "Frances Fitzgerald",
-    "native_lang": "und",
-    "country": NaN,
-    "politicalGroup": NaN,
+    "userName": "Fidias0",
+    "name": "Fidias Panayiotou",
+    "native_lang": "de",
+    "country": "Cyprus",
+    "politicalGroup": "Non-attached Members",
     "narrative_dist_en": {
-      "N-1": 57.9,
-      "N-2": 0.0,
-      "N-3": 42.1
+      "N-1": 11.799999999999999,
+      "N-2": 11.799999999999999,
+      "N-3": 76.5
     },
     "narrative_dist_native": {
-      "N-1": 100.0,
+      "N-1": 0.0,
       "N-2": 0.0,
-      "N-3": 0.0
+      "N-3": 100.0
     }
   },
   {
@@ -1043,48 +499,48 @@
     "country": NaN,
     "politicalGroup": NaN,
     "narrative_dist_en": {
-      "N-1": 22.2,
-      "N-2": 0.0,
-      "N-3": 77.8
-    },
-    "narrative_dist_native": {
-      "N-1": 53.1,
-      "N-2": 0.0,
-      "N-3": 46.9
-    }
-  },
-  {
-    "userName": "Frederiqueries",
-    "name": "Fr\u00e9d\u00e9rique Ries",
-    "native_lang": "fr",
-    "country": NaN,
-    "politicalGroup": NaN,
-    "narrative_dist_en": {
-      "N-1": 36.4,
-      "N-2": 0.0,
-      "N-3": 63.6
-    },
-    "narrative_dist_native": {
-      "N-1": 71.1,
-      "N-2": 0.0,
-      "N-3": 28.9
-    }
-  },
-  {
-    "userName": "GabrielMatoA",
-    "name": "Gabriel Mato Adrover",
-    "native_lang": "es",
-    "country": "Spain",
-    "politicalGroup": "Group of the European People's Party (Christian Democrats)",
-    "narrative_dist_en": {
       "N-1": 100.0,
       "N-2": 0.0,
       "N-3": 0.0
     },
     "narrative_dist_native": {
-      "N-1": 72.0,
+      "N-1": 75.4,
       "N-2": 0.0,
-      "N-3": 28.000000000000004
+      "N-3": 24.6
+    }
+  },
+  {
+    "userName": "GPiperea",
+    "name": "Gheorghe Piperea",
+    "native_lang": "ro",
+    "country": "Romania",
+    "politicalGroup": "European Conservatives and Reformists Group",
+    "narrative_dist_en": {
+      "N-1": 0.0,
+      "N-2": 100.0,
+      "N-3": 0.0
+    },
+    "narrative_dist_native": {
+      "N-1": 15.4,
+      "N-2": 30.8,
+      "N-3": 53.800000000000004
+    }
+  },
+  {
+    "userName": "GeukingHelmut",
+    "name": "Helmut Geuking",
+    "native_lang": "de",
+    "country": NaN,
+    "politicalGroup": NaN,
+    "narrative_dist_en": {
+      "N-1": 75.0,
+      "N-2": 6.2,
+      "N-3": 18.8
+    },
+    "narrative_dist_native": {
+      "N-1": 57.099999999999994,
+      "N-2": 0.0,
+      "N-3": 42.9
     }
   },
   {
@@ -1094,48 +550,14 @@
     "country": NaN,
     "politicalGroup": NaN,
     "narrative_dist_en": {
-      "N-1": 76.5,
+      "N-1": 96.3,
       "N-2": 0.0,
-      "N-3": 23.5
+      "N-3": 3.6999999999999997
     },
     "narrative_dist_native": {
-      "N-1": 45.1,
-      "N-2": 2.8000000000000003,
-      "N-3": 52.2
-    }
-  },
-  {
-    "userName": "GrudlerCh",
-    "name": "Christophe GRUDLER",
-    "native_lang": "fr",
-    "country": "France",
-    "politicalGroup": "Renew Europe Group",
-    "narrative_dist_en": {
-      "N-1": 42.1,
-      "N-2": 0.0,
-      "N-3": 57.9
-    },
-    "narrative_dist_native": {
-      "N-1": 74.5,
-      "N-2": 0.0,
-      "N-3": 25.5
-    }
-  },
-  {
-    "userName": "GrzegorzBraun_",
-    "name": "Grzegorz Braun",
-    "native_lang": "pl",
-    "country": "Poland",
-    "politicalGroup": "Non-attached Members",
-    "narrative_dist_en": {
-      "N-1": 0.0,
-      "N-2": 0.0,
-      "N-3": 100.0
-    },
-    "narrative_dist_native": {
-      "N-1": 3.1,
-      "N-2": 44.1,
-      "N-3": 52.800000000000004
+      "N-1": 58.699999999999996,
+      "N-2": 3.5999999999999996,
+      "N-3": 37.6
     }
   },
   {
@@ -1145,31 +567,14 @@
     "country": "Hungary",
     "politicalGroup": "Patriots for Europe Group",
     "narrative_dist_en": {
-      "N-1": 12.4,
-      "N-2": 15.6,
-      "N-3": 72.0
+      "N-1": 23.0,
+      "N-2": 28.999999999999996,
+      "N-3": 48.0
     },
     "narrative_dist_native": {
-      "N-1": 44.4,
+      "N-1": 100.0,
       "N-2": 0.0,
-      "N-3": 55.60000000000001
-    }
-  },
-  {
-    "userName": "HannesHeide",
-    "name": "Hannes Heide",
-    "native_lang": "de",
-    "country": "Austria",
-    "politicalGroup": "Group of the Progressive Alliance of Socialists and Democrats in the\n            European Parliament",
-    "narrative_dist_en": {
-      "N-1": 33.300000000000004,
-      "N-2": 0.0,
-      "N-3": 66.7
-    },
-    "narrative_dist_native": {
-      "N-1": 10.0,
-      "N-2": 0.0,
-      "N-3": 90.0
+      "N-3": 0.0
     }
   },
   {
@@ -1190,105 +595,20 @@
     }
   },
   {
-    "userName": "HlderSousaSilv1",
-    "name": "Helder Sousa Silva",
-    "native_lang": "pt",
-    "country": "Portugal",
-    "politicalGroup": "Group of the European People's Party (Christian Democrats)",
+    "userName": "IJoveva",
+    "name": "Irena Joveva",
+    "native_lang": "sl",
+    "country": "Slovenia",
+    "politicalGroup": "Renew Europe Group",
     "narrative_dist_en": {
-      "N-1": 0.0,
-      "N-2": 0.0,
-      "N-3": 100.0
-    },
-    "narrative_dist_native": {
-      "N-1": 51.9,
-      "N-2": 0.0,
-      "N-3": 48.1
-    }
-  },
-  {
-    "userName": "IneseVaidere",
-    "name": "Inese Vaidere",
-    "native_lang": "lv",
-    "country": "Latvia",
-    "politicalGroup": "Group of the European People's Party (Christian Democrats)",
-    "narrative_dist_en": {
-      "N-1": 71.39999999999999,
-      "N-2": 0.0,
-      "N-3": 28.599999999999998
-    },
-    "narrative_dist_native": {
-      "N-1": 93.2,
-      "N-2": 0.0,
-      "N-3": 6.800000000000001
-    }
-  },
-  {
-    "userName": "IoanDragosT",
-    "name": "Drago\u0219 Tudorache",
-    "native_lang": "und",
-    "country": NaN,
-    "politicalGroup": NaN,
-    "narrative_dist_en": {
-      "N-1": 75.9,
-      "N-2": 0.0,
-      "N-3": 24.099999999999998
-    },
-    "narrative_dist_native": {
       "N-1": 100.0,
       "N-2": 0.0,
       "N-3": 0.0
-    }
-  },
-  {
-    "userName": "IsabellaLovin",
-    "name": "Isabella L\u00f6vin \ud83c\udf3b",
-    "native_lang": "sv",
-    "country": "Sweden",
-    "politicalGroup": "Group of the Greens/European Free Alliance",
-    "narrative_dist_en": {
-      "N-1": 0.0,
-      "N-2": 0.0,
-      "N-3": 100.0
     },
     "narrative_dist_native": {
-      "N-1": 100.0,
-      "N-2": 0.0,
-      "N-3": 0.0
-    }
-  },
-  {
-    "userName": "IvanStefanec",
-    "name": "Ivan Stefanec MEP",
-    "native_lang": "und",
-    "country": NaN,
-    "politicalGroup": NaN,
-    "narrative_dist_en": {
-      "N-1": 57.099999999999994,
-      "N-2": 0.0,
-      "N-3": 42.9
-    },
-    "narrative_dist_native": {
-      "N-1": 100.0,
-      "N-2": 0.0,
-      "N-3": 0.0
-    }
-  },
-  {
-    "userName": "IzaskunBilbaoB",
-    "name": "Izaskun Bilbao",
-    "native_lang": "es",
-    "country": NaN,
-    "politicalGroup": NaN,
-    "narrative_dist_en": {
       "N-1": 50.0,
       "N-2": 0.0,
       "N-3": 50.0
-    },
-    "narrative_dist_native": {
-      "N-1": 77.10000000000001,
-      "N-2": 0.0,
-      "N-3": 22.900000000000002
     }
   },
   {
@@ -1303,26 +623,9 @@
       "N-3": 0.0
     },
     "narrative_dist_native": {
-      "N-1": 37.3,
-      "N-2": 21.6,
-      "N-3": 41.199999999999996
-    }
-  },
-  {
-    "userName": "JMFernandesEU",
-    "name": "Jos\u00e9 Manuel Fernandes",
-    "native_lang": "pt",
-    "country": NaN,
-    "politicalGroup": NaN,
-    "narrative_dist_en": {
-      "N-1": 58.3,
-      "N-2": 0.0,
-      "N-3": 41.699999999999996
-    },
-    "narrative_dist_native": {
-      "N-1": 80.9,
-      "N-2": 0.0,
-      "N-3": 19.1
+      "N-1": 57.599999999999994,
+      "N-2": 33.300000000000004,
+      "N-3": 9.1
     }
   },
   {
@@ -1338,25 +641,25 @@
     },
     "narrative_dist_native": {
       "N-1": 0.0,
-      "N-2": 21.4,
-      "N-3": 78.60000000000001
+      "N-2": 56.2,
+      "N-3": 43.8
     }
   },
   {
-    "userName": "J_Lewandowski",
-    "name": "Janusz Lewandowski",
-    "native_lang": "pl",
-    "country": "Poland",
-    "politicalGroup": "Group of the European People's Party (Christian Democrats)",
+    "userName": "JRBauza",
+    "name": "Jos\u00e9 Ram\u00f3n Bauz\u00e1",
+    "native_lang": "es",
+    "country": NaN,
+    "politicalGroup": NaN,
     "narrative_dist_en": {
       "N-1": 100.0,
       "N-2": 0.0,
       "N-3": 0.0
     },
     "narrative_dist_native": {
-      "N-1": 64.60000000000001,
-      "N-2": 0.4,
-      "N-3": 35.099999999999994
+      "N-1": 77.3,
+      "N-2": 2.3,
+      "N-3": 20.5
     }
   },
   {
@@ -1366,65 +669,31 @@
     "country": "Estonia",
     "politicalGroup": "European Conservatives and Reformists Group",
     "narrative_dist_en": {
-      "N-1": 69.6,
+      "N-1": 88.6,
       "N-2": 0.0,
-      "N-3": 30.4
+      "N-3": 11.4
     },
     "narrative_dist_native": {
-      "N-1": 44.5,
-      "N-2": 7.3,
-      "N-3": 48.199999999999996
+      "N-1": 68.10000000000001,
+      "N-2": 11.1,
+      "N-3": 20.8
     }
   },
   {
-    "userName": "JakopDalunde",
-    "name": "Jakop Dalunde",
-    "native_lang": "sv",
-    "country": NaN,
-    "politicalGroup": NaN,
-    "narrative_dist_en": {
-      "N-1": 16.7,
-      "N-2": 0.0,
-      "N-3": 83.3
-    },
-    "narrative_dist_native": {
-      "N-1": 74.3,
-      "N-2": 0.0,
-      "N-3": 25.7
-    }
-  },
-  {
-    "userName": "JaninaOchojska",
-    "name": "Janina Ochojska #MocKobiet",
+    "userName": "JanOlbrycht",
+    "name": "Jan Olbrycht",
     "native_lang": "pl",
     "country": NaN,
     "politicalGroup": NaN,
     "narrative_dist_en": {
-      "N-1": 72.5,
+      "N-1": 60.0,
       "N-2": 0.0,
-      "N-3": 27.500000000000004
+      "N-3": 40.0
     },
     "narrative_dist_native": {
-      "N-1": 48.0,
+      "N-1": 83.3,
       "N-2": 0.0,
-      "N-3": 52.0
-    }
-  },
-  {
-    "userName": "JarubasAdam",
-    "name": "Adam Jarubas",
-    "native_lang": "pl",
-    "country": "Poland",
-    "politicalGroup": "Group of the European People's Party (Christian Democrats)",
-    "narrative_dist_en": {
-      "N-1": 100.0,
-      "N-2": 0.0,
-      "N-3": 0.0
-    },
-    "narrative_dist_native": {
-      "N-1": 40.300000000000004,
-      "N-2": 0.0,
-      "N-3": 59.699999999999996
+      "N-3": 16.7
     }
   },
   {
@@ -1434,31 +703,48 @@
     "country": "Croatia",
     "politicalGroup": "Group of the Progressive Alliance of Socialists and Democrats in the\n            European Parliament",
     "narrative_dist_en": {
-      "N-1": 20.0,
+      "N-1": 100.0,
       "N-2": 0.0,
-      "N-3": 80.0
+      "N-3": 0.0
     },
     "narrative_dist_native": {
-      "N-1": 43.8,
+      "N-1": 77.8,
       "N-2": 0.0,
-      "N-3": 56.2
+      "N-3": 22.2
     }
   },
   {
-    "userName": "JerzyBuzek",
-    "name": "Jerzy Buzek",
-    "native_lang": "pl",
+    "userName": "Joachim_Kuhs",
+    "name": "Joachim Kuhs, MdEP iR",
+    "native_lang": "de",
     "country": NaN,
     "politicalGroup": NaN,
     "narrative_dist_en": {
-      "N-1": 86.4,
+      "N-1": 0.0,
       "N-2": 0.0,
-      "N-3": 13.600000000000001
+      "N-3": 100.0
     },
     "narrative_dist_native": {
-      "N-1": 59.4,
+      "N-1": 0.0,
+      "N-2": 40.0,
+      "N-3": 60.0
+    }
+  },
+  {
+    "userName": "Joerg_Meuthen",
+    "name": "J\u00f6rg Meuthen",
+    "native_lang": "de",
+    "country": NaN,
+    "politicalGroup": NaN,
+    "narrative_dist_en": {
+      "N-1": 0.0,
       "N-2": 0.0,
-      "N-3": 40.6
+      "N-3": 100.0
+    },
+    "narrative_dist_native": {
+      "N-1": 100.0,
+      "N-2": 0.0,
+      "N-3": 0.0
     }
   },
   {
@@ -1473,9 +759,9 @@
       "N-3": 0.0
     },
     "narrative_dist_native": {
-      "N-1": 40.0,
+      "N-1": 57.099999999999994,
       "N-2": 0.0,
-      "N-3": 60.0
+      "N-3": 42.9
     }
   },
   {
@@ -1485,14 +771,14 @@
     "country": "Spain",
     "politicalGroup": "Patriots for Europe Group",
     "narrative_dist_en": {
-      "N-1": 50.0,
+      "N-1": 100.0,
       "N-2": 0.0,
-      "N-3": 50.0
+      "N-3": 0.0
     },
     "narrative_dist_native": {
-      "N-1": 9.8,
-      "N-2": 2.4,
-      "N-3": 87.8
+      "N-1": 53.800000000000004,
+      "N-2": 13.5,
+      "N-3": 32.7
     }
   },
   {
@@ -1507,77 +793,26 @@
       "N-3": 0.0
     },
     "narrative_dist_native": {
-      "N-1": 21.7,
-      "N-2": 1.6,
-      "N-3": 76.7
+      "N-1": 32.9,
+      "N-2": 2.4,
+      "N-3": 64.7
     }
   },
   {
-    "userName": "K_Smiszek",
-    "name": "Krzysztof \u015amiszek",
-    "native_lang": "pl",
-    "country": "Poland",
-    "politicalGroup": "Group of the Progressive Alliance of Socialists and Democrats in the\n            European Parliament",
+    "userName": "KRLS",
+    "name": "krls.eth / Carles Puigdemont",
+    "native_lang": "ca",
+    "country": NaN,
+    "politicalGroup": NaN,
     "narrative_dist_en": {
-      "N-1": 0.0,
+      "N-1": 100.0,
       "N-2": 0.0,
-      "N-3": 100.0
+      "N-3": 0.0
     },
     "narrative_dist_native": {
-      "N-1": 61.0,
+      "N-1": 65.60000000000001,
       "N-2": 0.0,
-      "N-3": 39.0
-    }
-  },
-  {
-    "userName": "KarloRessler",
-    "name": "Karlo Ressler",
-    "native_lang": "und",
-    "country": "Croatia",
-    "politicalGroup": "Group of the European People's Party (Christian Democrats)",
-    "narrative_dist_en": {
-      "N-1": 53.6,
-      "N-2": 0.0,
-      "N-3": 46.400000000000006
-    },
-    "narrative_dist_native": {
-      "N-1": 81.8,
-      "N-2": 0.0,
-      "N-3": 18.2
-    }
-  },
-  {
-    "userName": "Kira_MPH",
-    "name": "Kira M. Peter-Hansen",
-    "native_lang": "da",
-    "country": "Denmark",
-    "politicalGroup": "Group of the Greens/European Free Alliance",
-    "narrative_dist_en": {
-      "N-1": 11.1,
-      "N-2": 0.0,
-      "N-3": 88.9
-    },
-    "narrative_dist_native": {
-      "N-1": 68.4,
-      "N-2": 2.1,
-      "N-3": 29.5
-    }
-  },
-  {
-    "userName": "Konecna_K",
-    "name": "Kate\u0159ina Kone\u010dn\u00e1",
-    "native_lang": "cs",
-    "country": "Czechia",
-    "politicalGroup": "Non-attached Members",
-    "narrative_dist_en": {
-      "N-1": 0.0,
-      "N-2": 0.0,
-      "N-3": 100.0
-    },
-    "narrative_dist_native": {
-      "N-1": 2.3,
-      "N-2": 59.3,
-      "N-3": 38.4
+      "N-3": 34.4
     }
   },
   {
@@ -1587,65 +822,14 @@
     "country": "Poland",
     "politicalGroup": "European Conservatives and Reformists Group",
     "narrative_dist_en": {
-      "N-1": 62.5,
+      "N-1": 100.0,
       "N-2": 0.0,
-      "N-3": 37.5
+      "N-3": 0.0
     },
     "narrative_dist_native": {
-      "N-1": 38.9,
+      "N-1": 78.5,
       "N-2": 0.0,
-      "N-3": 61.1
-    }
-  },
-  {
-    "userName": "KrahMax",
-    "name": "Dr. Maximilian Krah MdB",
-    "native_lang": "de",
-    "country": NaN,
-    "politicalGroup": NaN,
-    "narrative_dist_en": {
-      "N-1": 0.0,
-      "N-2": 66.7,
-      "N-3": 33.300000000000004
-    },
-    "narrative_dist_native": {
-      "N-1": 0.4,
-      "N-2": 40.2,
-      "N-3": 59.4
-    }
-  },
-  {
-    "userName": "Kympouropoulos",
-    "name": "S. Kympouropoulos",
-    "native_lang": "el",
-    "country": NaN,
-    "politicalGroup": NaN,
-    "narrative_dist_en": {
-      "N-1": 7.7,
-      "N-2": 0.0,
-      "N-3": 92.30000000000001
-    },
-    "narrative_dist_native": {
-      "N-1": 42.9,
-      "N-2": 0.0,
-      "N-3": 57.099999999999994
-    }
-  },
-  {
-    "userName": "LNBDublin",
-    "name": "Lynn Boylan \ud83c\udf77\ud83d\udcd6\ud83d\udc3e",
-    "native_lang": "qme",
-    "country": "Ireland",
-    "politicalGroup": "The Left group in the European Parliament - GUE/NGL",
-    "narrative_dist_en": {
-      "N-1": 22.2,
-      "N-2": 5.6000000000000005,
-      "N-3": 72.2
-    },
-    "narrative_dist_native": {
-      "N-1": 0.0,
-      "N-2": 0.0,
-      "N-3": 100.0
+      "N-3": 21.5
     }
   },
   {
@@ -1660,43 +844,9 @@
       "N-3": 0.0
     },
     "narrative_dist_native": {
-      "N-1": 21.2,
-      "N-2": 7.8,
-      "N-3": 71.0
-    }
-  },
-  {
-    "userName": "LeitaoMarquesEP",
-    "name": "Maria Manuel Leit\u00e3o Marques",
-    "native_lang": "pt",
-    "country": NaN,
-    "politicalGroup": NaN,
-    "narrative_dist_en": {
-      "N-1": 18.8,
-      "N-2": 0.0,
-      "N-3": 81.2
-    },
-    "narrative_dist_native": {
-      "N-1": 55.900000000000006,
-      "N-2": 0.0,
-      "N-3": 44.1
-    }
-  },
-  {
-    "userName": "LenaDuepontMdEP",
-    "name": "Lena D\u00fcpont",
-    "native_lang": "de",
-    "country": "Germany",
-    "politicalGroup": "Group of the European People's Party (Christian Democrats)",
-    "narrative_dist_en": {
-      "N-1": 50.0,
-      "N-2": 0.0,
-      "N-3": 50.0
-    },
-    "narrative_dist_native": {
-      "N-1": 81.8,
-      "N-2": 0.0,
-      "N-3": 18.2
+      "N-1": 43.6,
+      "N-2": 16.0,
+      "N-3": 40.400000000000006
     }
   },
   {
@@ -1711,43 +861,9 @@
       "N-3": 100.0
     },
     "narrative_dist_native": {
-      "N-1": 18.2,
-      "N-2": 8.799999999999999,
-      "N-3": 73.1
-    }
-  },
-  {
-    "userName": "Loekkegaard_MEP",
-    "name": "Morten L\u00f8kkegaard",
-    "native_lang": "da",
-    "country": "Denmark",
-    "politicalGroup": "Renew Europe Group",
-    "narrative_dist_en": {
-      "N-1": 0.0,
-      "N-2": 0.0,
-      "N-3": 100.0
-    },
-    "narrative_dist_native": {
-      "N-1": 86.0,
-      "N-2": 0.0,
-      "N-3": 14.000000000000002
-    }
-  },
-  {
-    "userName": "LubicaKarvasova",
-    "name": "Lubica Karvasova",
-    "native_lang": "fr",
-    "country": "Slovakia",
-    "politicalGroup": "Renew Europe Group",
-    "narrative_dist_en": {
-      "N-1": 78.9,
-      "N-2": 0.0,
-      "N-3": 21.099999999999998
-    },
-    "narrative_dist_native": {
-      "N-1": 0.0,
-      "N-2": 0.0,
-      "N-3": 100.0
+      "N-1": 30.099999999999998,
+      "N-2": 14.499999999999998,
+      "N-3": 55.300000000000004
     }
   },
   {
@@ -1757,65 +873,48 @@
     "country": "Germany",
     "politicalGroup": "Non-attached Members",
     "narrative_dist_en": {
-      "N-1": 50.0,
+      "N-1": 85.7,
       "N-2": 0.0,
-      "N-3": 50.0
+      "N-3": 14.299999999999999
     },
     "narrative_dist_native": {
-      "N-1": 20.0,
+      "N-1": 33.300000000000004,
       "N-2": 0.0,
-      "N-3": 80.0
+      "N-3": 66.7
     }
   },
   {
-    "userName": "LukaszKohut",
-    "name": "\u0141ukasz Kohut \ud83c\uddea\ud83c\uddfa",
-    "native_lang": "pl",
-    "country": "Poland",
-    "politicalGroup": "Group of the European People's Party (Christian Democrats)",
-    "narrative_dist_en": {
-      "N-1": 100.0,
-      "N-2": 0.0,
-      "N-3": 0.0
-    },
-    "narrative_dist_native": {
-      "N-1": 68.30000000000001,
-      "N-2": 1.7999999999999998,
-      "N-3": 29.799999999999997
-    }
-  },
-  {
-    "userName": "MEPNicolas",
-    "name": "Nicol\u00e1s Pascual de la Parte",
-    "native_lang": "es",
-    "country": "Spain",
-    "politicalGroup": "Group of the European People's Party (Christian Democrats)",
-    "narrative_dist_en": {
-      "N-1": 50.0,
-      "N-2": 0.0,
-      "N-3": 50.0
-    },
-    "narrative_dist_native": {
-      "N-1": 80.0,
-      "N-2": 0.0,
-      "N-3": 20.0
-    }
-  },
-  {
-    "userName": "MMGosiewska",
-    "name": "Ma\u0142gorzata Gosiewska",
-    "native_lang": "pl",
-    "country": "Poland",
+    "userName": "MGTeodorescu",
+    "name": "Maria-Georgiana Teodorescu",
+    "native_lang": "ro",
+    "country": "Romania",
     "politicalGroup": "European Conservatives and Reformists Group",
     "narrative_dist_en": {
-      "N-1": 100.0,
-      "N-2": 0.0,
-      "N-3": 0.0
+      "N-1": 14.299999999999999,
+      "N-2": 28.599999999999998,
+      "N-3": 57.099999999999994
     },
     "narrative_dist_native": {
-      "N-1": 36.0,
+      "N-1": 0.0,
       "N-2": 0.0,
-      "N-3": 64.0
+      "N-3": 100.0
+    }
+  },
+  {
+    "userName": "MPHoogeveen",
+    "name": "Michiel Hoogeveen",
+    "native_lang": "nl",
+    "country": NaN,
+    "politicalGroup": NaN,
+    "narrative_dist_en": {
+      "N-1": 50.0,
+      "N-2": 0.0,
+      "N-3": 50.0
+    },
+    "narrative_dist_native": {
+      "N-1": 18.2,
+      "N-2": 31.8,
+      "N-3": 50.0
     }
   },
   {
@@ -1830,32 +929,15 @@
       "N-3": 0.0
     },
     "narrative_dist_native": {
-      "N-1": 36.0,
-      "N-2": 0.2,
-      "N-3": 63.800000000000004
+      "N-1": 63.2,
+      "N-2": 0.4,
+      "N-3": 36.4
     }
   },
   {
-    "userName": "MargaPisa",
-    "name": "Margarita de la Pisa",
-    "native_lang": "es",
-    "country": "Spain",
-    "politicalGroup": "Patriots for Europe Group",
-    "narrative_dist_en": {
-      "N-1": 0.0,
-      "N-2": 0.0,
-      "N-3": 100.0
-    },
-    "narrative_dist_native": {
-      "N-1": 17.599999999999998,
-      "N-2": 17.599999999999998,
-      "N-3": 64.7
-    }
-  },
-  {
-    "userName": "MariaSpyraki",
-    "name": "Maria Spyraki",
-    "native_lang": "el",
+    "userName": "Marcozanni86",
+    "name": "Marco Zanni",
+    "native_lang": "it",
     "country": NaN,
     "politicalGroup": NaN,
     "narrative_dist_en": {
@@ -1864,21 +946,21 @@
       "N-3": 100.0
     },
     "narrative_dist_native": {
-      "N-1": 50.0,
-      "N-2": 0.0,
-      "N-3": 50.0
+      "N-1": 12.1,
+      "N-2": 8.799999999999999,
+      "N-3": 79.10000000000001
     }
   },
   {
     "userName": "MariaWalshEU",
     "name": "Maria Walsh MEP",
-    "native_lang": "pl",
+    "native_lang": "und",
     "country": "Ireland",
     "politicalGroup": "Group of the European People's Party (Christian Democrats)",
     "narrative_dist_en": {
-      "N-1": 26.900000000000002,
+      "N-1": 89.1,
       "N-2": 0.0,
-      "N-3": 73.1
+      "N-3": 10.9
     },
     "narrative_dist_native": {
       "N-1": 0.0,
@@ -1893,31 +975,14 @@
     "country": NaN,
     "politicalGroup": NaN,
     "narrative_dist_en": {
-      "N-1": 83.3,
+      "N-1": 93.8,
       "N-2": 0.0,
-      "N-3": 16.7
+      "N-3": 6.2
     },
     "narrative_dist_native": {
       "N-1": 33.300000000000004,
       "N-2": 0.0,
       "N-3": 66.7
-    }
-  },
-  {
-    "userName": "MariePierreV",
-    "name": "Marie-Pierre Vedrenne",
-    "native_lang": "fr",
-    "country": "France",
-    "politicalGroup": "Renew Europe Group",
-    "narrative_dist_en": {
-      "N-1": 0.0,
-      "N-2": 0.0,
-      "N-3": 100.0
-    },
-    "narrative_dist_native": {
-      "N-1": 76.1,
-      "N-2": 0.0,
-      "N-3": 23.9
     }
   },
   {
@@ -1932,43 +997,9 @@
       "N-3": 100.0
     },
     "narrative_dist_native": {
-      "N-1": 27.3,
+      "N-1": 100.0,
       "N-2": 0.0,
-      "N-3": 72.7
-    }
-  },
-  {
-    "userName": "MaritMaij",
-    "name": "Marit Maij",
-    "native_lang": "nl",
-    "country": "Netherlands",
-    "politicalGroup": "Group of the Progressive Alliance of Socialists and Democrats in the\n            European Parliament",
-    "narrative_dist_en": {
-      "N-1": 50.0,
-      "N-2": 0.0,
-      "N-3": 50.0
-    },
-    "narrative_dist_native": {
-      "N-1": 0.0,
-      "N-2": 0.0,
-      "N-3": 100.0
-    }
-  },
-  {
-    "userName": "MarkusFerber",
-    "name": "Markus Ferber",
-    "native_lang": "de",
-    "country": "Germany",
-    "politicalGroup": "Group of the European People's Party (Christian Democrats)",
-    "narrative_dist_en": {
-      "N-1": 0.0,
-      "N-2": 0.0,
-      "N-3": 100.0
-    },
-    "narrative_dist_native": {
-      "N-1": 28.9,
-      "N-2": 0.0,
-      "N-3": 71.1
+      "N-3": 0.0
     }
   },
   {
@@ -1983,9 +1014,9 @@
       "N-3": 0.0
     },
     "narrative_dist_native": {
-      "N-1": 35.0,
+      "N-1": 58.9,
       "N-2": 0.0,
-      "N-3": 65.0
+      "N-3": 41.099999999999994
     }
   },
   {
@@ -2000,26 +1031,26 @@
       "N-3": 100.0
     },
     "narrative_dist_native": {
-      "N-1": 36.8,
+      "N-1": 53.800000000000004,
       "N-2": 0.0,
-      "N-3": 63.2
+      "N-3": 46.2
     }
   },
   {
-    "userName": "Matteo_Gazzini",
-    "name": "Matteo Gazzini",
-    "native_lang": "it",
-    "country": NaN,
-    "politicalGroup": NaN,
+    "userName": "MattEcke",
+    "name": "Matthias Ecke \ud83c\uddea\ud83c\uddfa \ud83c\udf39",
+    "native_lang": "de",
+    "country": "Germany",
+    "politicalGroup": "Group of the Progressive Alliance of Socialists and Democrats in the\n            European Parliament",
     "narrative_dist_en": {
-      "N-1": 0.0,
+      "N-1": 66.7,
       "N-2": 0.0,
-      "N-3": 100.0
+      "N-3": 33.300000000000004
     },
     "narrative_dist_native": {
-      "N-1": 10.5,
-      "N-2": 21.099999999999998,
-      "N-3": 68.4
+      "N-1": 94.8,
+      "N-2": 0.0,
+      "N-3": 5.2
     }
   },
   {
@@ -2034,9 +1065,9 @@
       "N-3": 0.0
     },
     "narrative_dist_native": {
-      "N-1": 25.0,
+      "N-1": 50.0,
       "N-2": 0.0,
-      "N-3": 75.0
+      "N-3": 50.0
     }
   },
   {
@@ -2046,99 +1077,14 @@
     "country": NaN,
     "politicalGroup": NaN,
     "narrative_dist_en": {
-      "N-1": 7.7,
+      "N-1": 50.0,
       "N-2": 0.0,
-      "N-3": 92.30000000000001
+      "N-3": 50.0
     },
     "narrative_dist_native": {
-      "N-1": 68.2,
+      "N-1": 88.2,
       "N-2": 0.0,
-      "N-3": 31.8
-    }
-  },
-  {
-    "userName": "MicWawrykiewicz",
-    "name": "Micha\u0142 Wawrykiewicz MEP\ud83c\uddf5\ud83c\uddf1\ud83c\uddea\ud83c\uddfa",
-    "native_lang": "pl",
-    "country": "Poland",
-    "politicalGroup": "Group of the European People's Party (Christian Democrats)",
-    "narrative_dist_en": {
-      "N-1": 66.7,
-      "N-2": 0.0,
-      "N-3": 33.300000000000004
-    },
-    "narrative_dist_native": {
-      "N-1": 37.3,
-      "N-2": 2.0,
-      "N-3": 60.8
-    }
-  },
-  {
-    "userName": "MichalSzczerba",
-    "name": "Micha\u0142 Szczerba",
-    "native_lang": "pl",
-    "country": "Poland",
-    "politicalGroup": "Group of the European People's Party (Christian Democrats)",
-    "narrative_dist_en": {
-      "N-1": 86.4,
-      "N-2": 0.0,
-      "N-3": 13.600000000000001
-    },
-    "narrative_dist_native": {
-      "N-1": 56.699999999999996,
-      "N-2": 1.6,
-      "N-3": 41.699999999999996
-    }
-  },
-  {
-    "userName": "MichalWiezik",
-    "name": "Michal Wiezik MEP",
-    "native_lang": "und",
-    "country": "Slovakia",
-    "politicalGroup": "Renew Europe Group",
-    "narrative_dist_en": {
-      "N-1": 54.50000000000001,
-      "N-2": 0.0,
-      "N-3": 45.5
-    },
-    "narrative_dist_native": {
-      "N-1": 100.0,
-      "N-2": 0.0,
-      "N-3": 0.0
-    }
-  },
-  {
-    "userName": "MicheleRivasi",
-    "name": "Mich\u00e8le Rivasi \ud83c\udf0d",
-    "native_lang": "fr",
-    "country": NaN,
-    "politicalGroup": NaN,
-    "narrative_dist_en": {
-      "N-1": 0.0,
-      "N-2": 0.0,
-      "N-3": 100.0
-    },
-    "narrative_dist_native": {
-      "N-1": 64.8,
-      "N-2": 0.0,
-      "N-3": 35.199999999999996
-    }
-  },
-  {
-    "userName": "MikaAaltola",
-    "name": "Mika Aaltola",
-    "native_lang": "fi",
-    "country": "Finland",
-    "politicalGroup": "Group of the European People's Party (Christian Democrats)",
-    "narrative_dist_en": {
-      "N-1": 50.6,
-      "N-2": 2.4,
-      "N-3": 47.099999999999994
-    },
-    "narrative_dist_native": {
-      "N-1": 71.7,
-      "N-2": 2.3,
-      "N-3": 25.900000000000002
+      "N-3": 11.799999999999999
     }
   },
   {
@@ -2153,60 +1099,9 @@
       "N-3": 50.0
     },
     "narrative_dist_native": {
-      "N-1": 1.4000000000000001,
-      "N-2": 80.60000000000001,
-      "N-3": 18.0
-    }
-  },
-  {
-    "userName": "MonicaSemedoLux",
-    "name": "Monica Semedo MEP",
-    "native_lang": "de",
-    "country": NaN,
-    "politicalGroup": NaN,
-    "narrative_dist_en": {
-      "N-1": 13.600000000000001,
-      "N-2": 0.0,
-      "N-3": 86.4
-    },
-    "narrative_dist_native": {
-      "N-1": 50.0,
-      "N-2": 0.0,
-      "N-3": 50.0
-    }
-  },
-  {
-    "userName": "MonicaSilvanaG",
-    "name": "M\u00f3nica Silvana Gonz\u00e1lez /\u2764\ufe0f",
-    "native_lang": "es",
-    "country": NaN,
-    "politicalGroup": NaN,
-    "narrative_dist_en": {
-      "N-1": 28.000000000000004,
-      "N-2": 0.0,
-      "N-3": 72.0
-    },
-    "narrative_dist_native": {
-      "N-1": 51.7,
-      "N-2": 0.8999999999999999,
-      "N-3": 47.4
-    }
-  },
-  {
-    "userName": "MonikaVana",
-    "name": "Monika Vana",
-    "native_lang": "de",
-    "country": NaN,
-    "politicalGroup": NaN,
-    "narrative_dist_en": {
-      "N-1": 100.0,
-      "N-2": 0.0,
-      "N-3": 0.0
-    },
-    "narrative_dist_native": {
-      "N-1": 40.0,
-      "N-2": 0.0,
-      "N-3": 60.0
+      "N-1": 1.6,
+      "N-2": 88.2,
+      "N-3": 10.2
     }
   },
   {
@@ -2216,31 +1111,14 @@
     "country": "France",
     "politicalGroup": "Group of the Greens/European Free Alliance",
     "narrative_dist_en": {
-      "N-1": 25.0,
+      "N-1": 100.0,
       "N-2": 0.0,
-      "N-3": 75.0
+      "N-3": 0.0
     },
     "narrative_dist_native": {
-      "N-1": 47.0,
+      "N-1": 79.5,
       "N-2": 0.0,
-      "N-3": 53.0
-    }
-  },
-  {
-    "userName": "NKizilyurek",
-    "name": "Niyazi K\u0131z\u0131ly\u00fcrek, MEP",
-    "native_lang": "el",
-    "country": NaN,
-    "politicalGroup": NaN,
-    "narrative_dist_en": {
-      "N-1": 0.0,
-      "N-2": 0.0,
-      "N-3": 100.0
-    },
-    "narrative_dist_native": {
-      "N-1": 20.0,
-      "N-2": 20.0,
-      "N-3": 60.0
+      "N-3": 20.5
     }
   },
   {
@@ -2250,48 +1128,14 @@
     "country": "Italy",
     "politicalGroup": "European Conservatives and Reformists Group",
     "narrative_dist_en": {
-      "N-1": 50.0,
+      "N-1": 100.0,
       "N-2": 0.0,
-      "N-3": 50.0
+      "N-3": 0.0
     },
     "narrative_dist_native": {
-      "N-1": 27.3,
+      "N-1": 64.3,
       "N-2": 0.0,
-      "N-3": 72.7
-    }
-  },
-  {
-    "userName": "NachoSAmor",
-    "name": "Nacho S\u00e1nchez Amor",
-    "native_lang": "es",
-    "country": "Spain",
-    "politicalGroup": "Group of the Progressive Alliance of Socialists and Democrats in the\n            European Parliament",
-    "narrative_dist_en": {
-      "N-1": 38.6,
-      "N-2": 0.0,
-      "N-3": 61.4
-    },
-    "narrative_dist_native": {
-      "N-1": 63.2,
-      "N-2": 0.0,
-      "N-3": 36.8
-    }
-  },
-  {
-    "userName": "NielsFuglsang",
-    "name": "Niels Fuglsang",
-    "native_lang": "da",
-    "country": "Denmark",
-    "politicalGroup": "Group of the Progressive Alliance of Socialists and Democrats in the\n            European Parliament",
-    "narrative_dist_en": {
-      "N-1": 48.0,
-      "N-2": 0.0,
-      "N-3": 52.0
-    },
-    "narrative_dist_native": {
-      "N-1": 81.39999999999999,
-      "N-2": 0.4,
-      "N-3": 18.2
+      "N-3": 35.699999999999996
     }
   },
   {
@@ -2301,9 +1145,9 @@
     "country": NaN,
     "politicalGroup": NaN,
     "narrative_dist_en": {
-      "N-1": 50.0,
+      "N-1": 60.0,
       "N-2": 0.0,
-      "N-3": 50.0
+      "N-3": 40.0
     },
     "narrative_dist_native": {
       "N-1": 92.30000000000001,
@@ -2312,54 +1156,20 @@
     }
   },
   {
-    "userName": "OKovarikMEP",
-    "name": "Ond\u0159ej Kova\u0159\u00edk",
-    "native_lang": "cs",
-    "country": "Czechia",
+    "userName": "PR_Thionnet",
+    "name": "Pierre-Romain Thionnet",
+    "native_lang": "fr",
+    "country": "France",
     "politicalGroup": "Patriots for Europe Group",
     "narrative_dist_en": {
-      "N-1": 23.5,
+      "N-1": 50.0,
       "N-2": 0.0,
-      "N-3": 76.5
+      "N-3": 50.0
     },
     "narrative_dist_native": {
-      "N-1": 56.2,
-      "N-2": 0.0,
-      "N-3": 43.8
-    }
-  },
-  {
-    "userName": "PabloAriasE",
-    "name": "Pablo Arias",
-    "native_lang": "es",
-    "country": "Spain",
-    "politicalGroup": "Group of the European People's Party (Christian Democrats)",
-    "narrative_dist_en": {
-      "N-1": 0.0,
-      "N-2": 0.0,
-      "N-3": 100.0
-    },
-    "narrative_dist_native": {
-      "N-1": 33.300000000000004,
-      "N-2": 0.0,
-      "N-3": 66.7
-    }
-  },
-  {
-    "userName": "ParHolmgren",
-    "name": "P\u00e4r Holmgren",
-    "native_lang": "sv",
-    "country": "Sweden",
-    "politicalGroup": "Group of the Greens/European Free Alliance",
-    "narrative_dist_en": {
-      "N-1": 25.0,
-      "N-2": 0.0,
-      "N-3": 75.0
-    },
-    "narrative_dist_native": {
-      "N-1": 74.2,
-      "N-2": 0.0,
-      "N-3": 25.8
+      "N-1": 75.7,
+      "N-2": 2.9000000000000004,
+      "N-3": 21.4
     }
   },
   {
@@ -2369,48 +1179,31 @@
     "country": "Poland",
     "politicalGroup": "European Conservatives and Reformists Group",
     "narrative_dist_en": {
-      "N-1": 50.0,
-      "N-2": 0.0,
-      "N-3": 50.0
-    },
-    "narrative_dist_native": {
-      "N-1": 17.299999999999997,
-      "N-2": 11.4,
-      "N-3": 71.2
-    }
-  },
-  {
-    "userName": "PauloCunhaVNF",
-    "name": "Paulo Cunha",
-    "native_lang": "pt",
-    "country": "Portugal",
-    "politicalGroup": "Group of the European People's Party (Christian Democrats)",
-    "narrative_dist_en": {
       "N-1": 100.0,
       "N-2": 0.0,
       "N-3": 0.0
     },
     "narrative_dist_native": {
-      "N-1": 50.0,
-      "N-2": 0.0,
-      "N-3": 50.0
+      "N-1": 46.2,
+      "N-2": 30.4,
+      "N-3": 23.400000000000002
     }
   },
   {
-    "userName": "PauloRangel_pt",
-    "name": "Paulo Rangel",
-    "native_lang": "pt",
-    "country": NaN,
-    "politicalGroup": NaN,
+    "userName": "PerClausen3",
+    "name": "Per Clausen",
+    "native_lang": "da",
+    "country": "Denmark",
+    "politicalGroup": "The Left group in the European Parliament - GUE/NGL",
     "narrative_dist_en": {
-      "N-1": 60.699999999999996,
+      "N-1": 50.0,
       "N-2": 0.0,
-      "N-3": 39.300000000000004
+      "N-3": 50.0
     },
     "narrative_dist_native": {
-      "N-1": 81.2,
-      "N-2": 0.0,
-      "N-3": 18.8
+      "N-1": 81.0,
+      "N-2": 2.0,
+      "N-3": 17.0
     }
   },
   {
@@ -2421,8 +1214,8 @@
     "politicalGroup": "Europe of Sovereign Nations Group",
     "narrative_dist_en": {
       "N-1": 0.0,
-      "N-2": 78.3,
-      "N-3": 21.7
+      "N-2": 85.7,
+      "N-3": 14.299999999999999
     },
     "narrative_dist_native": {
       "N-1": 0.0,
@@ -2443,76 +1236,8 @@
     },
     "narrative_dist_native": {
       "N-1": 0.0,
-      "N-2": 30.5,
-      "N-3": 69.5
-    }
-  },
-  {
-    "userName": "PetrosKokkalis",
-    "name": "Petros Kokkalis",
-    "native_lang": "el",
-    "country": NaN,
-    "politicalGroup": NaN,
-    "narrative_dist_en": {
-      "N-1": 28.599999999999998,
-      "N-2": 0.0,
-      "N-3": 71.39999999999999
-    },
-    "narrative_dist_native": {
-      "N-1": 44.4,
-      "N-2": 5.6000000000000005,
-      "N-3": 50.0
-    }
-  },
-  {
-    "userName": "RLanschot",
-    "name": "Reinier van Lanschot",
-    "native_lang": "nl",
-    "country": "Netherlands",
-    "politicalGroup": "Group of the Greens/European Free Alliance",
-    "narrative_dist_en": {
-      "N-1": 60.0,
-      "N-2": 0.0,
-      "N-3": 40.0
-    },
-    "narrative_dist_native": {
-      "N-1": 100.0,
-      "N-2": 0.0,
-      "N-3": 0.0
-    }
-  },
-  {
-    "userName": "RadtkeMdEP",
-    "name": "Dennis Radtke",
-    "native_lang": "de",
-    "country": "Germany",
-    "politicalGroup": "Group of the European People's Party (Christian Democrats)",
-    "narrative_dist_en": {
-      "N-1": 70.8,
-      "N-2": 8.3,
-      "N-3": 20.8
-    },
-    "narrative_dist_native": {
-      "N-1": 50.5,
-      "N-2": 0.8,
-      "N-3": 48.8
-    }
-  },
-  {
-    "userName": "RobertBiedron",
-    "name": "Robert Biedro\u0144",
-    "native_lang": "pl",
-    "country": "Poland",
-    "politicalGroup": "Group of the Progressive Alliance of Socialists and Democrats in the\n            European Parliament",
-    "narrative_dist_en": {
-      "N-1": 96.0,
-      "N-2": 0.0,
-      "N-3": 4.0
-    },
-    "narrative_dist_native": {
-      "N-1": 49.1,
-      "N-2": 0.0,
-      "N-3": 50.9
+      "N-2": 87.8,
+      "N-3": 12.2
     }
   },
   {
@@ -2522,82 +1247,14 @@
     "country": NaN,
     "politicalGroup": NaN,
     "narrative_dist_en": {
-      "N-1": 30.0,
+      "N-1": 60.0,
       "N-2": 0.0,
-      "N-3": 70.0
+      "N-3": 40.0
     },
     "narrative_dist_native": {
-      "N-1": 66.7,
+      "N-1": 81.89999999999999,
       "N-2": 0.0,
-      "N-3": 33.300000000000004
-    }
-  },
-  {
-    "userName": "SabriPignedoli",
-    "name": "Sabrina Pignedoli",
-    "native_lang": "it",
-    "country": NaN,
-    "politicalGroup": NaN,
-    "narrative_dist_en": {
-      "N-1": 0.0,
-      "N-2": 0.0,
-      "N-3": 100.0
-    },
-    "narrative_dist_native": {
-      "N-1": 40.0,
-      "N-2": 10.0,
-      "N-3": 50.0
-    }
-  },
-  {
-    "userName": "SalisIlaria",
-    "name": "Ilaria Salis",
-    "native_lang": "it",
-    "country": "Italy",
-    "politicalGroup": "The Left group in the European Parliament - GUE/NGL",
-    "narrative_dist_en": {
-      "N-1": 50.0,
-      "N-2": 0.0,
-      "N-3": 50.0
-    },
-    "narrative_dist_native": {
-      "N-1": 0.0,
-      "N-2": 0.0,
-      "N-3": 100.0
-    }
-  },
-  {
-    "userName": "SchaldemoseMEP",
-    "name": "Christel Schaldemose",
-    "native_lang": "da",
-    "country": "Denmark",
-    "politicalGroup": "Group of the Progressive Alliance of Socialists and Democrats in the\n            European Parliament",
-    "narrative_dist_en": {
-      "N-1": 57.099999999999994,
-      "N-2": 0.0,
-      "N-3": 42.9
-    },
-    "narrative_dist_native": {
-      "N-1": 83.0,
-      "N-2": 0.0,
-      "N-3": 17.0
-    }
-  },
-  {
-    "userName": "SeanKellyMEP",
-    "name": "Se\u00e1n Kelly MEP",
-    "native_lang": "und",
-    "country": "Ireland",
-    "politicalGroup": "Group of the European People's Party (Christian Democrats)",
-    "narrative_dist_en": {
-      "N-1": 43.5,
-      "N-2": 0.0,
-      "N-3": 56.49999999999999
-    },
-    "narrative_dist_native": {
-      "N-1": 100.0,
-      "N-2": 0.0,
-      "N-3": 0.0
+      "N-3": 18.099999999999998
     }
   },
   {
@@ -2612,60 +1269,9 @@
       "N-3": 0.0
     },
     "narrative_dist_native": {
-      "N-1": 27.3,
-      "N-2": 9.1,
-      "N-3": 63.6
-    }
-  },
-  {
-    "userName": "SiegbertDroese",
-    "name": "Siegbert Droese",
-    "native_lang": "de",
-    "country": "Germany",
-    "politicalGroup": "Europe of Sovereign Nations Group",
-    "narrative_dist_en": {
-      "N-1": 3.4000000000000004,
-      "N-2": 78.10000000000001,
-      "N-3": 18.5
-    },
-    "narrative_dist_native": {
-      "N-1": 0.3,
-      "N-2": 58.199999999999996,
-      "N-3": 41.5
-    }
-  },
-  {
-    "userName": "SteliosKoul",
-    "name": "Stelios Kouloglou",
-    "native_lang": "el",
-    "country": NaN,
-    "politicalGroup": NaN,
-    "narrative_dist_en": {
-      "N-1": 0.0,
-      "N-2": 0.0,
-      "N-3": 100.0
-    },
-    "narrative_dist_native": {
-      "N-1": 39.4,
-      "N-2": 4.5,
-      "N-3": 56.10000000000001
-    }
-  },
-  {
-    "userName": "StjepoBartulica",
-    "name": "Stephen Nikola Bartulica",
-    "native_lang": "und",
-    "country": "Croatia",
-    "politicalGroup": "European Conservatives and Reformists Group",
-    "narrative_dist_en": {
-      "N-1": 0.0,
-      "N-2": 0.0,
-      "N-3": 100.0
-    },
-    "narrative_dist_native": {
-      "N-1": 12.5,
+      "N-1": 37.5,
       "N-2": 12.5,
-      "N-3": 75.0
+      "N-3": 50.0
     }
   },
   {
@@ -2676,64 +1282,47 @@
     "politicalGroup": "Patriots for Europe Group",
     "narrative_dist_en": {
       "N-1": 0.0,
-      "N-2": 50.0,
-      "N-3": 50.0
+      "N-2": 100.0,
+      "N-3": 0.0
     },
     "narrative_dist_native": {
-      "N-1": 15.4,
-      "N-2": 6.7,
-      "N-3": 77.9
+      "N-1": 37.1,
+      "N-2": 16.1,
+      "N-3": 46.800000000000004
     }
   },
   {
-    "userName": "Sylvia_Limmer",
-    "name": "Dr. Sylvia Limmer",
-    "native_lang": "de",
-    "country": NaN,
-    "politicalGroup": NaN,
-    "narrative_dist_en": {
-      "N-1": 50.0,
-      "N-2": 0.0,
-      "N-3": 50.0
-    },
-    "narrative_dist_native": {
-      "N-1": 24.7,
-      "N-2": 4.9,
-      "N-3": 70.39999999999999
-    }
-  },
-  {
-    "userName": "TABochenski",
-    "name": "Tobiasz Boche\u0144ski",
-    "native_lang": "pl",
-    "country": "Poland",
-    "politicalGroup": "European Conservatives and Reformists Group",
-    "narrative_dist_en": {
-      "N-1": 50.0,
-      "N-2": 0.0,
-      "N-3": 50.0
-    },
-    "narrative_dist_native": {
-      "N-1": 25.8,
-      "N-2": 6.5,
-      "N-3": 67.7
-    }
-  },
-  {
-    "userName": "TFrankowski21",
-    "name": "Tomasz Frankowski",
-    "native_lang": "pl",
-    "country": NaN,
-    "politicalGroup": NaN,
+    "userName": "TPicula",
+    "name": "Tonino Picula",
+    "native_lang": "und",
+    "country": "Croatia",
+    "politicalGroup": "Group of the Progressive Alliance of Socialists and Democrats in the\n            European Parliament",
     "narrative_dist_en": {
       "N-1": 100.0,
       "N-2": 0.0,
       "N-3": 0.0
     },
     "narrative_dist_native": {
-      "N-1": 57.49999999999999,
+      "N-1": 79.5,
       "N-2": 0.0,
-      "N-3": 42.5
+      "N-3": 20.5
+    }
+  },
+  {
+    "userName": "ThierryMARIANI",
+    "name": "Thierry MARIANI",
+    "native_lang": "fr",
+    "country": "France",
+    "politicalGroup": "Patriots for Europe Group",
+    "narrative_dist_en": {
+      "N-1": 0.0,
+      "N-2": 100.0,
+      "N-3": 0.0
+    },
+    "narrative_dist_native": {
+      "N-1": 2.4,
+      "N-2": 76.4,
+      "N-3": 21.099999999999998
     }
   },
   {
@@ -2748,213 +1337,60 @@
       "N-3": 100.0
     },
     "narrative_dist_native": {
-      "N-1": 8.200000000000001,
-      "N-2": 24.5,
-      "N-3": 67.30000000000001
+      "N-1": 14.299999999999999,
+      "N-2": 42.9,
+      "N-3": 42.9
     }
   },
   {
-    "userName": "VTrillet_Lenoir",
-    "name": "V\u00e9ronique Trillet-Lenoir \ud83c\uddea\ud83c\uddfa\ud83c\uddeb\ud83c\uddf7\ud83d\udc99\ud83d\udc9b",
-    "native_lang": "fr",
-    "country": NaN,
-    "politicalGroup": NaN,
-    "narrative_dist_en": {
-      "N-1": 56.2,
-      "N-2": 0.0,
-      "N-3": 43.8
-    },
-    "narrative_dist_native": {
-      "N-1": 87.5,
-      "N-2": 0.0,
-      "N-3": 12.5
-    }
-  },
-  {
-    "userName": "ValerieHayer",
-    "name": "Val\u00e9rie Hayer",
-    "native_lang": "fr",
-    "country": "France",
-    "politicalGroup": "Renew Europe Group",
-    "narrative_dist_en": {
-      "N-1": 63.0,
-      "N-2": 0.0,
-      "N-3": 37.0
-    },
-    "narrative_dist_native": {
-      "N-1": 84.8,
-      "N-2": 0.0,
-      "N-3": 15.2
-    }
-  },
-  {
-    "userName": "ValterFlego",
-    "name": "Valter Flego",
-    "native_lang": "und",
-    "country": NaN,
-    "politicalGroup": NaN,
+    "userName": "TomaszFroelich",
+    "name": "Tomasz Froelich",
+    "native_lang": "de",
+    "country": "Germany",
+    "politicalGroup": "Europe of Sovereign Nations Group",
     "narrative_dist_en": {
       "N-1": 20.0,
-      "N-2": 0.0,
+      "N-2": 40.0,
+      "N-3": 40.0
+    },
+    "narrative_dist_native": {
+      "N-1": 6.5,
+      "N-2": 62.1,
+      "N-3": 31.5
+    }
+  },
+  {
+    "userName": "ZahradilJan",
+    "name": "Jan Zahradil",
+    "native_lang": "cs",
+    "country": NaN,
+    "politicalGroup": NaN,
+    "narrative_dist_en": {
+      "N-1": 17.5,
+      "N-2": 2.5,
       "N-3": 80.0
     },
     "narrative_dist_native": {
-      "N-1": 66.7,
-      "N-2": 0.0,
-      "N-3": 33.300000000000004
+      "N-1": 27.700000000000003,
+      "N-2": 16.6,
+      "N-3": 55.7
     }
   },
   {
-    "userName": "VeronikaCifrova",
-    "name": "Veronika Cifrova Ostrihonova",
-    "native_lang": "und",
-    "country": "Slovakia",
-    "politicalGroup": "Renew Europe Group",
-    "narrative_dist_en": {
-      "N-1": 33.300000000000004,
-      "N-2": 2.8000000000000003,
-      "N-3": 63.9
-    },
-    "narrative_dist_native": {
-      "N-1": 100.0,
-      "N-2": 0.0,
-      "N-3": 0.0
-    }
-  },
-  {
-    "userName": "VladDanGheorghe",
-    "name": "MEP Vlad Dan Gheorghe",
-    "native_lang": "ro",
-    "country": NaN,
-    "politicalGroup": NaN,
-    "narrative_dist_en": {
-      "N-1": 87.5,
-      "N-2": 0.2,
-      "N-3": 12.3
-    },
-    "narrative_dist_native": {
-      "N-1": 61.1,
-      "N-2": 0.0,
-      "N-3": 38.9
-    }
-  },
-  {
-    "userName": "VladGheorgheNi1",
-    "name": "Vlad Gheorghe Nistor",
-    "native_lang": "ro",
-    "country": NaN,
-    "politicalGroup": NaN,
-    "narrative_dist_en": {
-      "N-1": 100.0,
-      "N-2": 0.0,
-      "N-3": 0.0
-    },
-    "narrative_dist_native": {
-      "N-1": 73.7,
-      "N-2": 0.0,
-      "N-3": 26.3
-    }
-  },
-  {
-    "userName": "VladoBilcik",
-    "name": "Vladim\u00edr Bil\u010d\u00edk",
-    "native_lang": "und",
-    "country": NaN,
-    "politicalGroup": NaN,
-    "narrative_dist_en": {
-      "N-1": 68.30000000000001,
-      "N-2": 0.0,
-      "N-3": 31.7
-    },
-    "narrative_dist_native": {
-      "N-1": 90.9,
-      "N-2": 0.0,
-      "N-3": 9.1
-    }
-  },
-  {
-    "userName": "YVerougstraete",
-    "name": "Yvan Verougstraete",
-    "native_lang": "fr",
-    "country": "Belgium",
-    "politicalGroup": "Renew Europe Group",
-    "narrative_dist_en": {
-      "N-1": 0.0,
-      "N-2": 0.0,
-      "N-3": 100.0
-    },
-    "narrative_dist_native": {
-      "N-1": 42.9,
-      "N-2": 3.5999999999999996,
-      "N-3": 53.6
-    }
-  },
-  {
-    "userName": "_AMaldonado_",
-    "name": "Adriana Maldonado",
-    "native_lang": "es",
-    "country": NaN,
-    "politicalGroup": NaN,
-    "narrative_dist_en": {
-      "N-1": 0.0,
-      "N-2": 0.0,
-      "N-3": 100.0
-    },
-    "narrative_dist_native": {
-      "N-1": 60.9,
-      "N-2": 0.0,
-      "N-3": 39.1
-    }
-  },
-  {
-    "userName": "ale_moretti",
-    "name": "Alessandra Moretti",
-    "native_lang": "it",
-    "country": "Italy",
+    "userName": "acmendes73",
+    "name": "Ana Catarina Mendes",
+    "native_lang": "pt",
+    "country": "Portugal",
     "politicalGroup": "Group of the Progressive Alliance of Socialists and Democrats in the\n            European Parliament",
     "narrative_dist_en": {
-      "N-1": 0.0,
+      "N-1": 100.0,
       "N-2": 0.0,
-      "N-3": 100.0
+      "N-3": 0.0
     },
     "narrative_dist_native": {
-      "N-1": 75.7,
-      "N-2": 0.0,
-      "N-3": 24.3
-    }
-  },
-  {
-    "userName": "alicemedce",
-    "name": "Alice Teodorescu M\u00e5we",
-    "native_lang": "sv",
-    "country": "Sweden",
-    "politicalGroup": "Group of the European People's Party (Christian Democrats)",
-    "narrative_dist_en": {
       "N-1": 50.0,
       "N-2": 0.0,
       "N-3": 50.0
-    },
-    "narrative_dist_native": {
-      "N-1": 81.10000000000001,
-      "N-2": 0.0,
-      "N-3": 18.9
-    }
-  },
-  {
-    "userName": "aliciahoms",
-    "name": "Al\u00edcia Homs",
-    "native_lang": "es",
-    "country": "Spain",
-    "politicalGroup": "Group of the Progressive Alliance of Socialists and Democrats in the\n            European Parliament",
-    "narrative_dist_en": {
-      "N-1": 33.300000000000004,
-      "N-2": 0.0,
-      "N-3": 66.7
-    },
-    "narrative_dist_native": {
-      "N-1": 75.8,
-      "N-2": 0.0,
-      "N-3": 24.2
     }
   },
   {
@@ -2964,9 +1400,9 @@
     "country": "Bulgaria",
     "politicalGroup": "Group of the European People's Party (Christian Democrats)",
     "narrative_dist_en": {
-      "N-1": 65.9,
-      "N-2": 4.5,
-      "N-3": 29.5
+      "N-1": 90.60000000000001,
+      "N-2": 6.2,
+      "N-3": 3.1
     },
     "narrative_dist_native": {
       "N-1": 50.0,
@@ -2975,190 +1411,20 @@
     }
   },
   {
-    "userName": "androulakisnick",
-    "name": "Nikos Androulakis",
-    "native_lang": "el",
-    "country": NaN,
-    "politicalGroup": NaN,
+    "userName": "arekmularczyk",
+    "name": "Arkadiusz Mularczyk MEP",
+    "native_lang": "pl",
+    "country": "Poland",
+    "politicalGroup": "European Conservatives and Reformists Group",
     "narrative_dist_en": {
-      "N-1": 0.0,
-      "N-2": 0.0,
-      "N-3": 100.0
-    },
-    "narrative_dist_native": {
-      "N-1": 50.0,
-      "N-2": 0.0,
-      "N-3": 50.0
-    }
-  },
-  {
-    "userName": "anna_maja",
-    "name": "Anna-Maja Henriksson",
-    "native_lang": "fi",
-    "country": "Finland",
-    "politicalGroup": "Renew Europe Group",
-    "narrative_dist_en": {
-      "N-1": 100.0,
-      "N-2": 0.0,
+      "N-1": 95.7,
+      "N-2": 4.3,
       "N-3": 0.0
     },
     "narrative_dist_native": {
-      "N-1": 75.0,
-      "N-2": 0.0,
-      "N-3": 25.0
-    }
-  },
-  {
-    "userName": "botos_vlad",
-    "name": "Vlad Boto\u0219",
-    "native_lang": "und",
-    "country": NaN,
-    "politicalGroup": NaN,
-    "narrative_dist_en": {
-      "N-1": 76.6,
-      "N-2": 1.3,
-      "N-3": 22.1
-    },
-    "narrative_dist_native": {
-      "N-1": 100.0,
-      "N-2": 0.0,
-      "N-3": 0.0
-    }
-  },
-  {
-    "userName": "brandobenifei",
-    "name": "Brando Benifei",
-    "native_lang": "it",
-    "country": "Italy",
-    "politicalGroup": "Group of the Progressive Alliance of Socialists and Democrats in the\n            European Parliament",
-    "narrative_dist_en": {
-      "N-1": 100.0,
-      "N-2": 0.0,
-      "N-3": 0.0
-    },
-    "narrative_dist_native": {
-      "N-1": 58.699999999999996,
-      "N-2": 0.3,
-      "N-3": 41.0
-    }
-  },
-  {
-    "userName": "carlatavares_ps",
-    "name": "Carla Tavares",
-    "native_lang": "pt",
-    "country": "Portugal",
-    "politicalGroup": "Group of the Progressive Alliance of Socialists and Democrats in the\n            European Parliament",
-    "narrative_dist_en": {
-      "N-1": 50.0,
-      "N-2": 0.0,
-      "N-3": 50.0
-    },
-    "narrative_dist_native": {
-      "N-1": 100.0,
-      "N-2": 0.0,
-      "N-3": 0.0
-    }
-  },
-  {
-    "userName": "cesarluena",
-    "name": "C\u00e9sar Luena / \u2764\ufe0f\ud83c\uddea\ud83c\uddfa",
-    "native_lang": "es",
-    "country": "Spain",
-    "politicalGroup": "Group of the Progressive Alliance of Socialists and Democrats in the\n            European Parliament",
-    "narrative_dist_en": {
-      "N-1": 0.0,
-      "N-2": 0.0,
-      "N-3": 100.0
-    },
-    "narrative_dist_native": {
-      "N-1": 66.10000000000001,
-      "N-2": 0.8,
-      "N-3": 33.1
-    }
-  },
-  {
-    "userName": "charanzova",
-    "name": "Dita Charanzov\u00e1",
-    "native_lang": "cs",
-    "country": NaN,
-    "politicalGroup": NaN,
-    "narrative_dist_en": {
-      "N-1": 71.39999999999999,
-      "N-2": 0.0,
-      "N-3": 28.599999999999998
-    },
-    "narrative_dist_native": {
-      "N-1": 94.19999999999999,
-      "N-2": 0.0,
-      "N-3": 5.800000000000001
-    }
-  },
-  {
-    "userName": "crismaestre",
-    "name": "Cristina Maestre \ud83c\uddea\ud83c\uddfa",
-    "native_lang": "es",
-    "country": "Spain",
-    "politicalGroup": "Group of the Progressive Alliance of Socialists and Democrats in the\n            European Parliament",
-    "narrative_dist_en": {
-      "N-1": 0.0,
-      "N-2": 0.0,
-      "N-3": 100.0
-    },
-    "narrative_dist_native": {
-      "N-1": 30.8,
-      "N-2": 0.0,
-      "N-3": 69.19999999999999
-    }
-  },
-  {
-    "userName": "czorrinho",
-    "name": "Carlos Zorrinho",
-    "native_lang": "pt",
-    "country": NaN,
-    "politicalGroup": NaN,
-    "narrative_dist_en": {
-      "N-1": 26.1,
-      "N-2": 0.0,
-      "N-3": 73.9
-    },
-    "narrative_dist_native": {
-      "N-1": 48.6,
-      "N-2": 0.0,
-      "N-3": 51.4
-    }
-  },
-  {
-    "userName": "danusenerudova",
-    "name": "Danu\u0161e Nerudov\u00e1",
-    "native_lang": "cs",
-    "country": "Czechia",
-    "politicalGroup": "Group of the European People's Party (Christian Democrats)",
-    "narrative_dist_en": {
-      "N-1": 60.0,
-      "N-2": 0.0,
-      "N-3": 40.0
-    },
-    "narrative_dist_native": {
-      "N-1": 88.3,
-      "N-2": 0.0,
-      "N-3": 11.700000000000001
-    }
-  },
-  {
-    "userName": "davidmcallister",
-    "name": "davidmcallister",
-    "native_lang": "de",
-    "country": "Germany",
-    "politicalGroup": "Group of the European People's Party (Christian Democrats)",
-    "narrative_dist_en": {
-      "N-1": 70.1,
-      "N-2": 0.0,
-      "N-3": 29.9
-    },
-    "narrative_dist_native": {
-      "N-1": 50.0,
-      "N-2": 0.0,
-      "N-3": 50.0
+      "N-1": 64.3,
+      "N-2": 16.7,
+      "N-3": 19.0
     }
   },
   {
@@ -3168,65 +1434,48 @@
     "country": "Spain",
     "politicalGroup": "Group of the European People's Party (Christian Democrats)",
     "narrative_dist_en": {
-      "N-1": 25.0,
+      "N-1": 100.0,
       "N-2": 0.0,
-      "N-3": 75.0
+      "N-3": 0.0
     },
     "narrative_dist_native": {
-      "N-1": 45.5,
+      "N-1": 62.5,
       "N-2": 0.0,
-      "N-3": 54.50000000000001
+      "N-3": 37.5
     }
   },
   {
-    "userName": "dieGamon",
-    "name": "Claudia Gamon \ud83c\uddea\ud83c\uddfa\ud83c\uddfa\ud83c\udde6",
+    "userName": "djambazki",
+    "name": "\u0414\u0436\u0430\u043c\u0431\u0430\u0437\u043a\u0438",
+    "native_lang": "bg",
+    "country": NaN,
+    "politicalGroup": NaN,
+    "narrative_dist_en": {
+      "N-1": 83.3,
+      "N-2": 6.7,
+      "N-3": 10.0
+    },
+    "narrative_dist_native": {
+      "N-1": 62.5,
+      "N-2": 12.5,
+      "N-3": 25.0
+    }
+  },
+  {
+    "userName": "echo_pbreyer",
+    "name": "Patrick Breyer #JoinMastodon",
     "native_lang": "de",
     "country": NaN,
     "politicalGroup": NaN,
     "narrative_dist_en": {
-      "N-1": 66.7,
+      "N-1": 75.0,
       "N-2": 0.0,
-      "N-3": 33.300000000000004
+      "N-3": 25.0
     },
     "narrative_dist_native": {
-      "N-1": 36.6,
-      "N-2": 0.0,
-      "N-3": 63.4
-    }
-  },
-  {
-    "userName": "e_fragkos",
-    "name": "FRAGKOS EMMANOUIL FRAGKOULIS MEP\ud83c\uddec\ud83c\uddf7",
-    "native_lang": "el",
-    "country": "Greece",
-    "politicalGroup": "European Conservatives and Reformists Group",
-    "narrative_dist_en": {
-      "N-1": 0.0,
-      "N-2": 25.0,
-      "N-3": 75.0
-    },
-    "narrative_dist_native": {
-      "N-1": 2.1999999999999997,
-      "N-2": 56.49999999999999,
-      "N-3": 41.3
-    }
-  },
-  {
-    "userName": "elukacijewska",
-    "name": "El\u017cbieta \u0141ukacijewska",
-    "native_lang": "pl",
-    "country": "Poland",
-    "politicalGroup": "Group of the European People's Party (Christian Democrats)",
-    "narrative_dist_en": {
-      "N-1": 0.0,
-      "N-2": 0.0,
-      "N-3": 100.0
-    },
-    "narrative_dist_native": {
-      "N-1": 50.2,
-      "N-2": 0.0,
-      "N-3": 49.8
+      "N-1": 50.0,
+      "N-2": 9.1,
+      "N-3": 40.9
     }
   },
   {
@@ -3236,21 +1485,21 @@
     "country": "Romania",
     "politicalGroup": "Renew Europe Group",
     "narrative_dist_en": {
-      "N-1": 90.7,
+      "N-1": 94.19999999999999,
       "N-2": 0.0,
-      "N-3": 9.3
+      "N-3": 5.800000000000001
     },
     "narrative_dist_native": {
-      "N-1": 50.0,
+      "N-1": 60.0,
       "N-2": 0.0,
-      "N-3": 50.0
+      "N-3": 40.0
     }
   },
   {
-    "userName": "francoiskalfon",
-    "name": "Fran\u00e7ois Kalfon",
-    "native_lang": "fr",
-    "country": "France",
+    "userName": "gabischoff",
+    "name": "Gaby Bischoff \ud83c\uddea\ud83c\uddfa",
+    "native_lang": "de",
+    "country": "Germany",
     "politicalGroup": "Group of the Progressive Alliance of Socialists and Democrats in the\n            European Parliament",
     "narrative_dist_en": {
       "N-1": 100.0,
@@ -3258,43 +1507,9 @@
       "N-3": 0.0
     },
     "narrative_dist_native": {
-      "N-1": 56.10000000000001,
+      "N-1": 75.6,
       "N-2": 0.0,
-      "N-3": 43.9
-    }
-  },
-  {
-    "userName": "gannemans",
-    "name": "Gerolf Annemans",
-    "native_lang": "nl",
-    "country": "Belgium",
-    "politicalGroup": "Patriots for Europe Group",
-    "narrative_dist_en": {
-      "N-1": 0.0,
-      "N-2": 0.0,
-      "N-3": 100.0
-    },
-    "narrative_dist_native": {
-      "N-1": 12.5,
-      "N-2": 15.6,
-      "N-3": 71.89999999999999
-    }
-  },
-  {
-    "userName": "giannagancia",
-    "name": "Gianna Gancia",
-    "native_lang": "it",
-    "country": NaN,
-    "politicalGroup": NaN,
-    "narrative_dist_en": {
-      "N-1": 0.0,
-      "N-2": 0.0,
-      "N-3": 100.0
-    },
-    "narrative_dist_native": {
-      "N-1": 58.3,
-      "N-2": 0.0,
-      "N-3": 41.699999999999996
+      "N-3": 24.4
     }
   },
   {
@@ -3304,65 +1519,14 @@
     "country": "Spain",
     "politicalGroup": "Group of the European People's Party (Christian Democrats)",
     "narrative_dist_en": {
-      "N-1": 91.7,
+      "N-1": 100.0,
       "N-2": 0.0,
-      "N-3": 8.3
+      "N-3": 0.0
     },
     "narrative_dist_native": {
-      "N-1": 36.6,
-      "N-2": 3.6999999999999997,
-      "N-3": 59.8
-    }
-  },
-  {
-    "userName": "henrikehahn",
-    "name": "Henrike Hahn \ud83c\uddea\ud83c\uddfa",
-    "native_lang": "de",
-    "country": NaN,
-    "politicalGroup": NaN,
-    "narrative_dist_en": {
-      "N-1": 50.0,
-      "N-2": 0.0,
-      "N-3": 50.0
-    },
-    "narrative_dist_native": {
-      "N-1": 9.1,
-      "N-2": 0.0,
-      "N-3": 90.9
-    }
-  },
-  {
-    "userName": "hermanntertsch",
-    "name": "Hermann Tertsch",
-    "native_lang": "es",
-    "country": "Spain",
-    "politicalGroup": "Patriots for Europe Group",
-    "narrative_dist_en": {
-      "N-1": 45.5,
-      "N-2": 15.2,
-      "N-3": 39.4
-    },
-    "narrative_dist_native": {
-      "N-1": 22.400000000000002,
-      "N-2": 9.0,
-      "N-3": 68.60000000000001
-    }
-  },
-  {
-    "userName": "hildebentele",
-    "name": "Hildegard Bentele",
-    "native_lang": "de",
-    "country": "Germany",
-    "politicalGroup": "Group of the European People's Party (Christian Democrats)",
-    "narrative_dist_en": {
-      "N-1": 54.800000000000004,
-      "N-2": 0.0,
-      "N-3": 45.2
-    },
-    "narrative_dist_native": {
-      "N-1": 34.5,
-      "N-2": 1.4000000000000001,
-      "N-3": 64.1
+      "N-1": 61.199999999999996,
+      "N-2": 6.1,
+      "N-3": 32.7
     }
   },
   {
@@ -3377,77 +1541,43 @@
       "N-3": 100.0
     },
     "narrative_dist_native": {
-      "N-1": 35.4,
-      "N-2": 1.2,
-      "N-3": 63.4
+      "N-1": 67.4,
+      "N-2": 2.3,
+      "N-3": 30.2
     }
   },
   {
-    "userName": "ijabs",
-    "name": "Ivars Ijabs",
-    "native_lang": "lv",
-    "country": "Latvia",
-    "politicalGroup": "Renew Europe Group",
-    "narrative_dist_en": {
-      "N-1": 40.0,
-      "N-2": 0.0,
-      "N-3": 60.0
-    },
-    "narrative_dist_native": {
-      "N-1": 73.2,
-      "N-2": 0.0,
-      "N-3": 26.8
-    }
-  },
-  {
-    "userName": "istvan_ujhelyi",
-    "name": "Istv\u00e1n Ujhelyi",
-    "native_lang": "hu",
+    "userName": "ignaziocorrao",
+    "name": "Ignazio Corrao",
+    "native_lang": "it",
     "country": NaN,
     "politicalGroup": NaN,
     "narrative_dist_en": {
-      "N-1": 75.5,
-      "N-2": 3.5999999999999996,
-      "N-3": 20.9
+      "N-1": 86.7,
+      "N-2": 0.0,
+      "N-3": 13.3
     },
     "narrative_dist_native": {
-      "N-1": 0.0,
-      "N-2": 0.0,
-      "N-3": 100.0
+      "N-1": 60.6,
+      "N-2": 1.7000000000000002,
+      "N-3": 37.7
     }
   },
   {
-    "userName": "itinagli",
-    "name": "Irene Tinagli",
-    "native_lang": "it",
-    "country": "Italy",
+    "userName": "jalloul_hana",
+    "name": "Hana Jalloul Muro",
+    "native_lang": "es",
+    "country": "Spain",
     "politicalGroup": "Group of the Progressive Alliance of Socialists and Democrats in the\n            European Parliament",
-    "narrative_dist_en": {
-      "N-1": 0.0,
-      "N-2": 0.0,
-      "N-3": 100.0
-    },
-    "narrative_dist_native": {
-      "N-1": 52.5,
-      "N-2": 0.0,
-      "N-3": 47.5
-    }
-  },
-  {
-    "userName": "j_wisniewska",
-    "name": "Jadwiga Wi\u015bniewska",
-    "native_lang": "pl",
-    "country": "Poland",
-    "politicalGroup": "European Conservatives and Reformists Group",
     "narrative_dist_en": {
       "N-1": 100.0,
       "N-2": 0.0,
       "N-3": 0.0
     },
     "narrative_dist_native": {
-      "N-1": 32.2,
+      "N-1": 33.300000000000004,
       "N-2": 0.0,
-      "N-3": 67.80000000000001
+      "N-3": 66.7
     }
   },
   {
@@ -3457,116 +1587,31 @@
     "country": "Spain",
     "politicalGroup": "Group of the Progressive Alliance of Socialists and Democrats in the\n            European Parliament",
     "narrative_dist_en": {
-      "N-1": 16.7,
+      "N-1": 100.0,
       "N-2": 0.0,
-      "N-3": 83.3
+      "N-3": 0.0
     },
     "narrative_dist_native": {
-      "N-1": 55.7,
+      "N-1": 72.8,
       "N-2": 0.0,
-      "N-3": 44.3
+      "N-3": 27.200000000000003
     }
   },
   {
-    "userName": "jerome_riviere",
-    "name": "Jerome Riviere \ud83c\uddeb\ud83c\uddf7",
-    "native_lang": "fr",
-    "country": NaN,
-    "politicalGroup": NaN,
-    "narrative_dist_en": {
-      "N-1": 0.0,
-      "N-2": 0.0,
-      "N-3": 100.0
-    },
-    "narrative_dist_native": {
-      "N-1": 7.6,
-      "N-2": 20.1,
-      "N-3": 72.3
-    }
-  },
-  {
-    "userName": "jessicapolfjard",
-    "name": "Jessica Polfj\u00e4rd",
-    "native_lang": "sv",
-    "country": "Sweden",
+    "userName": "jeroen_lenaers",
+    "name": "Jeroen Lenaers",
+    "native_lang": "nl",
+    "country": "Netherlands",
     "politicalGroup": "Group of the European People's Party (Christian Democrats)",
     "narrative_dist_en": {
-      "N-1": 0.0,
+      "N-1": 100.0,
       "N-2": 0.0,
-      "N-3": 100.0
+      "N-3": 0.0
     },
     "narrative_dist_native": {
-      "N-1": 63.3,
+      "N-1": 71.39999999999999,
       "N-2": 0.0,
-      "N-3": 36.7
-    }
-  },
-  {
-    "userName": "jhuitema",
-    "name": "Jan Huitema",
-    "native_lang": "nl",
-    "country": NaN,
-    "politicalGroup": NaN,
-    "narrative_dist_en": {
-      "N-1": 0.0,
-      "N-2": 0.0,
-      "N-3": 100.0
-    },
-    "narrative_dist_native": {
-      "N-1": 53.800000000000004,
-      "N-2": 0.0,
-      "N-3": 46.2
-    }
-  },
-  {
-    "userName": "jonasfernandez",
-    "name": "Jon\u00e1s Fern\u00e1ndez",
-    "native_lang": "es",
-    "country": "Spain",
-    "politicalGroup": "Group of the Progressive Alliance of Socialists and Democrats in the\n            European Parliament",
-    "narrative_dist_en": {
-      "N-1": 25.0,
-      "N-2": 0.0,
-      "N-3": 75.0
-    },
-    "narrative_dist_native": {
-      "N-1": 61.1,
-      "N-2": 0.0,
-      "N-3": 38.9
-    }
-  },
-  {
-    "userName": "jordi_canyas",
-    "name": "Jordi Ca\u00f1as",
-    "native_lang": "es",
-    "country": NaN,
-    "politicalGroup": NaN,
-    "narrative_dist_en": {
-      "N-1": 57.099999999999994,
-      "N-2": 0.0,
-      "N-3": 42.9
-    },
-    "narrative_dist_native": {
-      "N-1": 82.3,
-      "N-2": 2.5,
-      "N-3": 15.2
-    }
-  },
-  {
-    "userName": "jordisolef",
-    "name": "Jordi Sol\u00e9 \ud83c\uddea\ud83c\uddfa||||",
-    "native_lang": "ca",
-    "country": NaN,
-    "politicalGroup": NaN,
-    "narrative_dist_en": {
-      "N-1": 30.8,
-      "N-2": 0.0,
-      "N-3": 69.19999999999999
-    },
-    "narrative_dist_native": {
-      "N-1": 69.69999999999999,
-      "N-2": 0.0,
-      "N-3": 30.3
+      "N-3": 28.599999999999998
     }
   },
   {
@@ -3576,150 +1621,14 @@
     "country": "Sweden",
     "politicalGroup": "Group of the European People's Party (Christian Democrats)",
     "narrative_dist_en": {
-      "N-1": 35.0,
+      "N-1": 77.8,
       "N-2": 0.0,
-      "N-3": 65.0
+      "N-3": 22.2
     },
     "narrative_dist_native": {
       "N-1": 100.0,
       "N-2": 0.0,
       "N-3": 0.0
-    }
-  },
-  {
-    "userName": "joseggusmao",
-    "name": "Jos\u00e9 Gusm\u00e3o",
-    "native_lang": "pt",
-    "country": NaN,
-    "politicalGroup": NaN,
-    "narrative_dist_en": {
-      "N-1": 0.0,
-      "N-2": 0.0,
-      "N-3": 100.0
-    },
-    "narrative_dist_native": {
-      "N-1": 37.7,
-      "N-2": 3.5000000000000004,
-      "N-3": 58.8
-    }
-  },
-  {
-    "userName": "jsjostedt",
-    "name": "Jonas Sj\u00f6stedt",
-    "native_lang": "sv",
-    "country": "Sweden",
-    "politicalGroup": "The Left group in the European Parliament - GUE/NGL",
-    "narrative_dist_en": {
-      "N-1": 50.0,
-      "N-2": 0.0,
-      "N-3": 50.0
-    },
-    "narrative_dist_native": {
-      "N-1": 80.60000000000001,
-      "N-2": 0.0,
-      "N-3": 19.400000000000002
-    }
-  },
-  {
-    "userName": "jussisaramo",
-    "name": "Jussi Saramo",
-    "native_lang": "fi",
-    "country": "Finland",
-    "politicalGroup": "The Left group in the European Parliament - GUE/NGL",
-    "narrative_dist_en": {
-      "N-1": 100.0,
-      "N-2": 0.0,
-      "N-3": 0.0
-    },
-    "narrative_dist_native": {
-      "N-1": 77.4,
-      "N-2": 0.0,
-      "N-3": 22.6
-    }
-  },
-  {
-    "userName": "karstenlucke",
-    "name": "Karsten Lucke",
-    "native_lang": "de",
-    "country": NaN,
-    "politicalGroup": NaN,
-    "narrative_dist_en": {
-      "N-1": 68.8,
-      "N-2": 1.2,
-      "N-3": 30.0
-    },
-    "narrative_dist_native": {
-      "N-1": 48.1,
-      "N-2": 0.5,
-      "N-3": 51.4
-    }
-  },
-  {
-    "userName": "katka_cseh",
-    "name": "Katalin Cseh",
-    "native_lang": "hu",
-    "country": NaN,
-    "politicalGroup": NaN,
-    "narrative_dist_en": {
-      "N-1": 84.8,
-      "N-2": 0.0,
-      "N-3": 15.2
-    },
-    "narrative_dist_native": {
-      "N-1": 50.0,
-      "N-2": 0.0,
-      "N-3": 50.0
-    }
-  },
-  {
-    "userName": "krzysztofbrejza",
-    "name": "Krzysztof Brejza",
-    "native_lang": "pl",
-    "country": "Poland",
-    "politicalGroup": "Group of the European People's Party (Christian Democrats)",
-    "narrative_dist_en": {
-      "N-1": 100.0,
-      "N-2": 0.0,
-      "N-3": 0.0
-    },
-    "narrative_dist_native": {
-      "N-1": 68.30000000000001,
-      "N-2": 0.8,
-      "N-3": 30.8
-    }
-  },
-  {
-    "userName": "larawoltersEU",
-    "name": "Lara Wolters",
-    "native_lang": "nl",
-    "country": "Netherlands",
-    "politicalGroup": "Group of the Progressive Alliance of Socialists and Democrats in the\n            European Parliament",
-    "narrative_dist_en": {
-      "N-1": 50.0,
-      "N-2": 0.0,
-      "N-3": 50.0
-    },
-    "narrative_dist_native": {
-      "N-1": 83.3,
-      "N-2": 0.0,
-      "N-3": 16.7
-    }
-  },
-  {
-    "userName": "larrouturou",
-    "name": "Pierre Larrouturou",
-    "native_lang": "fr",
-    "country": NaN,
-    "politicalGroup": NaN,
-    "narrative_dist_en": {
-      "N-1": 25.0,
-      "N-2": 0.0,
-      "N-3": 75.0
-    },
-    "narrative_dist_native": {
-      "N-1": 69.1,
-      "N-2": 1.5,
-      "N-3": 29.4
     }
   },
   {
@@ -3729,48 +1638,14 @@
     "country": "Hungary",
     "politicalGroup": "Patriots for Europe Group",
     "narrative_dist_en": {
-      "N-1": 1.3,
-      "N-2": 29.9,
-      "N-3": 68.8
+      "N-1": 1.7000000000000002,
+      "N-2": 40.9,
+      "N-3": 57.4
     },
     "narrative_dist_native": {
       "N-1": 0.0,
       "N-2": 0.0,
       "N-3": 100.0
-    }
-  },
-  {
-    "userName": "leilachaibi",
-    "name": "Le\u00efla Chaibi",
-    "native_lang": "fr",
-    "country": "France",
-    "politicalGroup": "The Left group in the European Parliament - GUE/NGL",
-    "narrative_dist_en": {
-      "N-1": 0.0,
-      "N-2": 0.0,
-      "N-3": 100.0
-    },
-    "narrative_dist_native": {
-      "N-1": 29.4,
-      "N-2": 0.0,
-      "N-3": 70.6
-    }
-  },
-  {
-    "userName": "loucas_fourlas",
-    "name": "Loucas Fourlas",
-    "native_lang": "el",
-    "country": "Cyprus",
-    "politicalGroup": "Group of the European People's Party (Christian Democrats)",
-    "narrative_dist_en": {
-      "N-1": 16.7,
-      "N-2": 0.0,
-      "N-3": 83.3
-    },
-    "narrative_dist_native": {
-      "N-1": 64.7,
-      "N-2": 0.0,
-      "N-3": 35.3
     }
   },
   {
@@ -3780,65 +1655,14 @@
     "country": "Ireland",
     "politicalGroup": "The Left group in the European Parliament - GUE/NGL",
     "narrative_dist_en": {
-      "N-1": 33.5,
-      "N-2": 3.8,
-      "N-3": 62.7
+      "N-1": 68.30000000000001,
+      "N-2": 7.7,
+      "N-3": 24.0
     },
     "narrative_dist_native": {
       "N-1": 100.0,
       "N-2": 0.0,
       "N-3": 0.0
-    }
-  },
-  {
-    "userName": "marcofalconect",
-    "name": "Marco Falcone",
-    "native_lang": "it",
-    "country": "Italy",
-    "politicalGroup": "Group of the European People's Party (Christian Democrats)",
-    "narrative_dist_en": {
-      "N-1": 0.0,
-      "N-2": 0.0,
-      "N-3": 100.0
-    },
-    "narrative_dist_native": {
-      "N-1": 71.39999999999999,
-      "N-2": 0.0,
-      "N-3": 28.599999999999998
-    }
-  },
-  {
-    "userName": "marietouss1",
-    "name": "Marie Toussaint \ud83c\udf0d\ud83c\udf0f",
-    "native_lang": "fr",
-    "country": "France",
-    "politicalGroup": "Group of the Greens/European Free Alliance",
-    "narrative_dist_en": {
-      "N-1": 100.0,
-      "N-2": 0.0,
-      "N-3": 0.0
-    },
-    "narrative_dist_native": {
-      "N-1": 60.8,
-      "N-2": 0.0,
-      "N-3": 39.2
-    }
-  },
-  {
-    "userName": "markuspieperMEP",
-    "name": "Markus Pieper",
-    "native_lang": "de",
-    "country": NaN,
-    "politicalGroup": NaN,
-    "narrative_dist_en": {
-      "N-1": 0.0,
-      "N-2": 0.0,
-      "N-3": 100.0
-    },
-    "narrative_dist_native": {
-      "N-1": 28.000000000000004,
-      "N-2": 0.0,
-      "N-3": 72.0
     }
   },
   {
@@ -3848,133 +1672,14 @@
     "country": NaN,
     "politicalGroup": NaN,
     "narrative_dist_en": {
-      "N-1": 50.0,
-      "N-2": 0.0,
-      "N-3": 50.0
-    },
-    "narrative_dist_native": {
-      "N-1": 19.0,
-      "N-2": 0.0,
-      "N-3": 81.0
-    }
-  },
-  {
-    "userName": "micha_bloss",
-    "name": "Michael Bloss",
-    "native_lang": "de",
-    "country": "Germany",
-    "politicalGroup": "Group of the Greens/European Free Alliance",
-    "narrative_dist_en": {
-      "N-1": 72.39999999999999,
-      "N-2": 0.0,
-      "N-3": 27.6
-    },
-    "narrative_dist_native": {
-      "N-1": 47.699999999999996,
-      "N-2": 0.6,
-      "N-3": 51.6
-    }
-  },
-  {
-    "userName": "milan_brglez",
-    "name": "Milan Brglez",
-    "native_lang": "sl",
-    "country": NaN,
-    "politicalGroup": NaN,
-    "narrative_dist_en": {
-      "N-1": 11.1,
-      "N-2": 0.0,
-      "N-3": 88.9
-    },
-    "narrative_dist_native": {
-      "N-1": 45.0,
-      "N-2": 0.0,
-      "N-3": 55.00000000000001
-    }
-  },
-  {
-    "userName": "moritzkoerner",
-    "name": "Moritz K\u00f6rner",
-    "native_lang": "de",
-    "country": "Germany",
-    "politicalGroup": "Renew Europe Group",
-    "narrative_dist_en": {
-      "N-1": 70.0,
-      "N-2": 10.0,
-      "N-3": 20.0
-    },
-    "narrative_dist_native": {
-      "N-1": 46.0,
-      "N-2": 0.8999999999999999,
-      "N-3": 53.0
-    }
-  },
-  {
-    "userName": "mortenhelveg",
-    "name": "Morten Helveg",
-    "native_lang": "da",
-    "country": NaN,
-    "politicalGroup": NaN,
-    "narrative_dist_en": {
-      "N-1": 59.4,
-      "N-2": 0.0,
-      "N-3": 40.6
-    },
-    "narrative_dist_native": {
-      "N-1": 86.2,
-      "N-2": 0.0,
-      "N-3": 13.8
-    }
-  },
-  {
-    "userName": "mrossemp",
-    "name": "Marcos Ros Sempere",
-    "native_lang": "es",
-    "country": "Spain",
-    "politicalGroup": "Group of the Progressive Alliance of Socialists and Democrats in the\n            European Parliament",
-    "narrative_dist_en": {
       "N-1": 100.0,
       "N-2": 0.0,
       "N-3": 0.0
     },
     "narrative_dist_native": {
-      "N-1": 71.8,
+      "N-1": 34.4,
       "N-2": 0.0,
-      "N-3": 28.199999999999996
-    }
-  },
-  {
-    "userName": "msaraswati",
-    "name": "Sara Matthieu \ud83c\uddea\ud83c\uddfa",
-    "native_lang": "nl",
-    "country": "Belgium",
-    "politicalGroup": "Group of the Greens/European Free Alliance",
-    "narrative_dist_en": {
-      "N-1": 63.0,
-      "N-2": 0.0,
-      "N-3": 37.0
-    },
-    "narrative_dist_native": {
-      "N-1": 42.6,
-      "N-2": 0.0,
-      "N-3": 57.4
-    }
-  },
-  {
-    "userName": "negrescuvictor",
-    "name": "Victor NEGRESCU",
-    "native_lang": "qme",
-    "country": "Romania",
-    "politicalGroup": "Group of the Progressive Alliance of Socialists and Democrats in the\n            European Parliament",
-    "narrative_dist_en": {
-      "N-1": 50.0,
-      "N-2": 0.0,
-      "N-3": 50.0
-    },
-    "narrative_dist_native": {
-      "N-1": 100.0,
-      "N-2": 0.0,
-      "N-3": 0.0
+      "N-3": 65.60000000000001
     }
   },
   {
@@ -3984,133 +1689,31 @@
     "country": "Spain",
     "politicalGroup": "Group of the Progressive Alliance of Socialists and Democrats in the\n            European Parliament",
     "narrative_dist_en": {
-      "N-1": 22.2,
-      "N-2": 0.0,
-      "N-3": 77.8
-    },
-    "narrative_dist_native": {
-      "N-1": 48.9,
-      "N-2": 0.0,
-      "N-3": 51.1
-    }
-  },
-  {
-    "userName": "nvillumsen",
-    "name": "Nikolaj Villumsen",
-    "native_lang": "da",
-    "country": NaN,
-    "politicalGroup": NaN,
-    "narrative_dist_en": {
-      "N-1": 51.5,
-      "N-2": 0.0,
-      "N-3": 48.5
-    },
-    "narrative_dist_native": {
-      "N-1": 83.39999999999999,
-      "N-2": 0.0,
-      "N-3": 16.6
-    }
-  },
-  {
-    "userName": "papadimoulis",
-    "name": "Dim. Papadimoulis",
-    "native_lang": "el",
-    "country": NaN,
-    "politicalGroup": NaN,
-    "narrative_dist_en": {
-      "N-1": 0.0,
-      "N-2": 0.0,
-      "N-3": 100.0
-    },
-    "narrative_dist_native": {
-      "N-1": 26.700000000000003,
-      "N-2": 3.9,
-      "N-3": 69.39999999999999
-    }
-  },
-  {
-    "userName": "pascal_arimont",
-    "name": "Pascal Arimont",
-    "native_lang": "de",
-    "country": "Belgium",
-    "politicalGroup": "Group of the European People's Party (Christian Democrats)",
-    "narrative_dist_en": {
-      "N-1": 66.7,
-      "N-2": 0.0,
-      "N-3": 33.300000000000004
-    },
-    "narrative_dist_native": {
       "N-1": 100.0,
       "N-2": 0.0,
       "N-3": 0.0
+    },
+    "narrative_dist_native": {
+      "N-1": 75.4,
+      "N-2": 0.0,
+      "N-3": 24.6
     }
   },
   {
-    "userName": "paultang",
-    "name": "Paul Tang",
-    "native_lang": "nl",
-    "country": NaN,
-    "politicalGroup": NaN,
+    "userName": "poznaks",
+    "name": "UkReinis Poz\u0146aks",
+    "native_lang": "lv",
+    "country": "Latvia",
+    "politicalGroup": "European Conservatives and Reformists Group",
     "narrative_dist_en": {
-      "N-1": 44.3,
-      "N-2": 0.0,
-      "N-3": 55.7
-    },
-    "narrative_dist_native": {
       "N-1": 66.7,
-      "N-2": 0.0,
-      "N-3": 33.300000000000004
-    }
-  },
-  {
-    "userName": "pcanfin",
-    "name": "Pascal Canfin",
-    "native_lang": "fr",
-    "country": "France",
-    "politicalGroup": "Renew Europe Group",
-    "narrative_dist_en": {
-      "N-1": 40.699999999999996,
-      "N-2": 0.0,
-      "N-3": 59.3
+      "N-2": 11.1,
+      "N-3": 22.2
     },
     "narrative_dist_native": {
-      "N-1": 75.0,
-      "N-2": 1.2,
-      "N-3": 23.799999999999997
-    }
-  },
-  {
-    "userName": "peterliese",
-    "name": "Peter Liese MEP",
-    "native_lang": "de",
-    "country": "Germany",
-    "politicalGroup": "Group of the European People's Party (Christian Democrats)",
-    "narrative_dist_en": {
-      "N-1": 55.800000000000004,
+      "N-1": 92.0,
       "N-2": 0.0,
-      "N-3": 44.2
-    },
-    "narrative_dist_native": {
-      "N-1": 34.8,
-      "N-2": 0.0,
-      "N-3": 65.2
-    }
-  },
-  {
-    "userName": "petras_petras",
-    "name": "Petras Austrevicius",
-    "native_lang": "und",
-    "country": "Lithuania",
-    "politicalGroup": "Renew Europe Group",
-    "narrative_dist_en": {
-      "N-1": 89.8,
-      "N-2": 1.7000000000000002,
-      "N-3": 8.6
-    },
-    "narrative_dist_native": {
-      "N-1": 50.0,
-      "N-2": 0.0,
-      "N-3": 50.0
+      "N-3": 8.0
     }
   },
   {
@@ -4120,9 +1723,9 @@
     "country": NaN,
     "politicalGroup": NaN,
     "narrative_dist_en": {
-      "N-1": 9.1,
-      "N-2": 27.3,
-      "N-3": 63.6
+      "N-1": 20.0,
+      "N-2": 60.0,
+      "N-3": 20.0
     },
     "narrative_dist_native": {
       "N-1": 50.0,
@@ -4131,88 +1734,20 @@
     }
   },
   {
-    "userName": "radeksikorski",
-    "name": "Radek Sikorski",
-    "native_lang": "qme",
-    "country": NaN,
-    "politicalGroup": NaN,
-    "narrative_dist_en": {
-      "N-1": 74.8,
-      "N-2": 1.6,
-      "N-3": 23.7
-    },
-    "narrative_dist_native": {
-      "N-1": 33.300000000000004,
-      "N-2": 0.0,
-      "N-3": 66.7
-    }
-  },
-  {
-    "userName": "s_yoncourtin",
-    "name": "St\u00e9phanie Yon-Courtin",
-    "native_lang": "fr",
-    "country": "France",
-    "politicalGroup": "Renew Europe Group",
-    "narrative_dist_en": {
-      "N-1": 16.7,
-      "N-2": 0.0,
-      "N-3": 83.3
-    },
-    "narrative_dist_native": {
-      "N-1": 70.1,
-      "N-2": 0.0,
-      "N-3": 29.9
-    }
-  },
-  {
-    "userName": "salima_yenbou",
-    "name": "Salima Yenbou",
-    "native_lang": "fr",
-    "country": NaN,
-    "politicalGroup": NaN,
-    "narrative_dist_en": {
-      "N-1": 0.0,
-      "N-2": 0.0,
-      "N-3": 100.0
-    },
-    "narrative_dist_native": {
-      "N-1": 66.7,
-      "N-2": 0.0,
-      "N-3": 33.300000000000004
-    }
-  },
-  {
-    "userName": "salv_de_meo",
-    "name": "Salvatore De Meo",
+    "userName": "rosadamato634",
+    "name": "Rosa D'Amato",
     "native_lang": "it",
-    "country": "Italy",
-    "politicalGroup": "Group of the European People's Party (Christian Democrats)",
+    "country": NaN,
+    "politicalGroup": NaN,
     "narrative_dist_en": {
-      "N-1": 100.0,
-      "N-2": 0.0,
-      "N-3": 0.0
-    },
-    "narrative_dist_native": {
-      "N-1": 62.5,
-      "N-2": 0.0,
-      "N-3": 37.5
-    }
-  },
-  {
-    "userName": "sandersmitwzn",
-    "name": "Sander Smit (BBB MEP) \u0646\ud83c\udf40\ud83c\udf97\ufe0f",
-    "native_lang": "nl",
-    "country": "Netherlands",
-    "politicalGroup": "Group of the European People's Party (Christian Democrats)",
-    "narrative_dist_en": {
-      "N-1": 66.7,
-      "N-2": 0.0,
-      "N-3": 33.300000000000004
-    },
-    "narrative_dist_native": {
       "N-1": 25.0,
       "N-2": 0.0,
       "N-3": 75.0
+    },
+    "narrative_dist_native": {
+      "N-1": 37.5,
+      "N-2": 11.200000000000001,
+      "N-3": 51.2
     }
   },
   {
@@ -4222,82 +1757,14 @@
     "country": NaN,
     "politicalGroup": NaN,
     "narrative_dist_en": {
-      "N-1": 8.3,
+      "N-1": 100.0,
       "N-2": 0.0,
-      "N-3": 91.7
+      "N-3": 0.0
     },
     "narrative_dist_native": {
-      "N-1": 46.2,
+      "N-1": 75.0,
       "N-2": 0.0,
-      "N-3": 53.800000000000004
-    }
-  },
-  {
-    "userName": "saskiabricmont",
-    "name": "Saskia Bricmont",
-    "native_lang": "fr",
-    "country": "Belgium",
-    "politicalGroup": "Group of the Greens/European Free Alliance",
-    "narrative_dist_en": {
-      "N-1": 31.8,
-      "N-2": 0.0,
-      "N-3": 68.2
-    },
-    "narrative_dist_native": {
-      "N-1": 62.3,
-      "N-2": 0.0,
-      "N-3": 37.7
-    }
-  },
-  {
-    "userName": "schirdewan",
-    "name": "Martin Schirdewan",
-    "native_lang": "de",
-    "country": "Germany",
-    "politicalGroup": "The Left group in the European Parliament - GUE/NGL",
-    "narrative_dist_en": {
-      "N-1": 0.0,
-      "N-2": 0.0,
-      "N-3": 100.0
-    },
-    "narrative_dist_native": {
-      "N-1": 22.3,
-      "N-2": 1.6,
-      "N-3": 76.1
-    }
-  },
-  {
-    "userName": "smith51_a",
-    "name": "Anthony Smith \u270a",
-    "native_lang": "fr",
-    "country": "France",
-    "politicalGroup": "The Left group in the European Parliament - GUE/NGL",
-    "narrative_dist_en": {
-      "N-1": 0.0,
-      "N-2": 0.0,
-      "N-3": 100.0
-    },
-    "narrative_dist_native": {
-      "N-1": 5.8999999999999995,
-      "N-2": 14.7,
-      "N-3": 79.4
-    }
-  },
-  {
-    "userName": "sorayarr_",
-    "name": "Soraya Rodr\u00edguez",
-    "native_lang": "es",
-    "country": NaN,
-    "politicalGroup": NaN,
-    "narrative_dist_en": {
-      "N-1": 24.0,
-      "N-2": 0.0,
-      "N-3": 76.0
-    },
-    "narrative_dist_native": {
-      "N-1": 64.60000000000001,
-      "N-2": 0.0,
-      "N-3": 35.4
+      "N-3": 25.0
     }
   },
   {
@@ -4307,48 +1774,14 @@
     "country": "Finland",
     "politicalGroup": "Group of the European People's Party (Christian Democrats)",
     "narrative_dist_en": {
-      "N-1": 7.1,
+      "N-1": 50.0,
       "N-2": 0.0,
-      "N-3": 92.9
+      "N-3": 50.0
     },
     "narrative_dist_native": {
-      "N-1": 69.8,
+      "N-1": 80.4,
       "N-2": 0.0,
-      "N-3": 30.2
-    }
-  },
-  {
-    "userName": "stanislavpolcak",
-    "name": "Stanislav Pol\u010d\u00e1k",
-    "native_lang": "cs",
-    "country": NaN,
-    "politicalGroup": NaN,
-    "narrative_dist_en": {
-      "N-1": 0.0,
-      "N-2": 0.0,
-      "N-3": 100.0
-    },
-    "narrative_dist_native": {
-      "N-1": 75.0,
-      "N-2": 0.0,
-      "N-3": 25.0
-    }
-  },
-  {
-    "userName": "steph_sejourne",
-    "name": "St\u00e9phane S\u00e9journ\u00e9",
-    "native_lang": "fr",
-    "country": NaN,
-    "politicalGroup": NaN,
-    "narrative_dist_en": {
-      "N-1": 64.3,
-      "N-2": 0.0,
-      "N-3": 35.699999999999996
-    },
-    "narrative_dist_native": {
-      "N-1": 84.8,
-      "N-2": 0.0,
-      "N-3": 15.2
+      "N-3": 19.6
     }
   },
   {
@@ -4358,48 +1791,14 @@
     "country": "Spain",
     "politicalGroup": "Group of the European People's Party (Christian Democrats)",
     "narrative_dist_en": {
-      "N-1": 66.7,
-      "N-2": 0.0,
-      "N-3": 33.300000000000004
-    },
-    "narrative_dist_native": {
-      "N-1": 38.1,
-      "N-2": 0.0,
-      "N-3": 61.9
-    }
-  },
-  {
-    "userName": "tmoreiradesa",
-    "name": "Tiago Moreira de S\u00e1",
-    "native_lang": "pt",
-    "country": "Portugal",
-    "politicalGroup": "Patriots for Europe Group",
-    "narrative_dist_en": {
-      "N-1": 0.0,
-      "N-2": 0.0,
-      "N-3": 100.0
-    },
-    "narrative_dist_native": {
-      "N-1": 28.000000000000004,
-      "N-2": 0.0,
-      "N-3": 72.0
-    }
-  },
-  {
-    "userName": "toiapatrizia",
-    "name": "Patrizia Toia",
-    "native_lang": "it",
-    "country": NaN,
-    "politicalGroup": NaN,
-    "narrative_dist_en": {
-      "N-1": 0.0,
-      "N-2": 0.0,
-      "N-3": 100.0
-    },
-    "narrative_dist_native": {
       "N-1": 100.0,
       "N-2": 0.0,
       "N-3": 0.0
+    },
+    "narrative_dist_native": {
+      "N-1": 74.1,
+      "N-2": 0.0,
+      "N-3": 25.900000000000002
     }
   },
   {
@@ -4410,30 +1809,13 @@
     "politicalGroup": "Patriots for Europe Group",
     "narrative_dist_en": {
       "N-1": 0.0,
-      "N-2": 9.1,
-      "N-3": 90.9
+      "N-2": 50.0,
+      "N-3": 50.0
     },
     "narrative_dist_native": {
-      "N-1": 18.0,
-      "N-2": 14.000000000000002,
-      "N-3": 68.0
-    }
-  },
-  {
-    "userName": "v_joron",
-    "name": "Virginie Joron",
-    "native_lang": "fr",
-    "country": "France",
-    "politicalGroup": "Patriots for Europe Group",
-    "narrative_dist_en": {
-      "N-1": 0.0,
-      "N-2": 0.0,
-      "N-3": 100.0
-    },
-    "narrative_dist_native": {
-      "N-1": 3.9,
-      "N-2": 25.0,
-      "N-3": 71.1
+      "N-1": 28.1,
+      "N-2": 21.9,
+      "N-3": 50.0
     }
   },
   {
@@ -4443,48 +1825,31 @@
     "country": "Greece",
     "politicalGroup": "Group of the European People's Party (Christian Democrats)",
     "narrative_dist_en": {
-      "N-1": 20.0,
+      "N-1": 100.0,
       "N-2": 0.0,
-      "N-3": 80.0
+      "N-3": 0.0
     },
     "narrative_dist_native": {
-      "N-1": 55.7,
+      "N-1": 73.9,
       "N-2": 0.0,
-      "N-3": 44.3
+      "N-3": 26.1
     }
   },
   {
-    "userName": "yjadot",
-    "name": "Yannick Jadot",
-    "native_lang": "fr",
-    "country": NaN,
-    "politicalGroup": NaN,
+    "userName": "woelken",
+    "name": "Tiemo W\u00f6lken \ud83c\uddea\ud83c\uddfa",
+    "native_lang": "de",
+    "country": "Germany",
+    "politicalGroup": "Group of the Progressive Alliance of Socialists and Democrats in the\n            European Parliament",
     "narrative_dist_en": {
-      "N-1": 0.0,
+      "N-1": 66.7,
       "N-2": 0.0,
-      "N-3": 100.0
+      "N-3": 33.300000000000004
     },
     "narrative_dist_native": {
-      "N-1": 76.3,
+      "N-1": 92.30000000000001,
       "N-2": 0.0,
-      "N-3": 23.7
-    }
-  },
-  {
-    "userName": "zoidoJI",
-    "name": "Juan Ignacio Zoido",
-    "native_lang": "es",
-    "country": "Spain",
-    "politicalGroup": "Group of the European People's Party (Christian Democrats)",
-    "narrative_dist_en": {
-      "N-1": 0.0,
-      "N-2": 0.0,
-      "N-3": 100.0
-    },
-    "narrative_dist_native": {
-      "N-1": 40.6,
-      "N-2": 0.0,
-      "N-3": 59.4
+      "N-3": 7.7
     }
   }
 ]

@@ -3,18 +3,18 @@
     "group":"US_Admin",
     "narrative":"N-1",
     "count":1695,
-    "percent":54.05
+    "percent":94.38
   },
   {
     "group":"US_Admin",
     "narrative":"N-2",
     "count":11,
-    "percent":0.35
+    "percent":0.61
   },
   {
     "group":"US_Admin",
     "narrative":"N-3",
-    "count":1430,
-    "percent":45.6
+    "count":90,
+    "percent":5.01
   }
 ]

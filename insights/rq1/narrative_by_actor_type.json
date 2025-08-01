@@ -3,36 +3,36 @@
     "actor_type":"MEP",
     "narrative":"N-1",
     "count":59471,
-    "percent":49.99
+    "percent":75.36
   },
   {
     "actor_type":"MEP",
     "narrative":"N-2",
     "count":7160,
-    "percent":6.02
+    "percent":9.07
   },
   {
     "actor_type":"MEP",
     "narrative":"N-3",
-    "count":52329,
-    "percent":43.99
+    "count":12289,
+    "percent":15.57
   },
   {
     "actor_type":"US_Admin",
     "narrative":"N-1",
     "count":1695,
-    "percent":54.05
+    "percent":94.38
   },
   {
     "actor_type":"US_Admin",
     "narrative":"N-2",
     "count":11,
-    "percent":0.35
+    "percent":0.61
   },
   {
     "actor_type":"US_Admin",
     "narrative":"N-3",
-    "count":1430,
-    "percent":45.6
+    "count":90,
+    "percent":5.01
   }
 ]

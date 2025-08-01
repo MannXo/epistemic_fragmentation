@@ -9,7 +9,7 @@
     "created_month":"2022-02",
     "administration":"Biden",
     "narrative":"N-3",
-    "avg_engagement":8573.0
+    "avg_engagement":8523.25
   },
   {
     "created_month":"2022-03",
@@ -21,7 +21,7 @@
     "created_month":"2022-03",
     "administration":"Biden",
     "narrative":"N-3",
-    "avg_engagement":4360.24
+    "avg_engagement":7510.33
   },
   {
     "created_month":"2022-04",
@@ -39,7 +39,7 @@
     "created_month":"2022-04",
     "administration":"Biden",
     "narrative":"N-3",
-    "avg_engagement":2938.11
+    "avg_engagement":2667.83
   },
   {
     "created_month":"2022-05",
@@ -51,7 +51,7 @@
     "created_month":"2022-05",
     "administration":"Biden",
     "narrative":"N-3",
-    "avg_engagement":2864.23
+    "avg_engagement":2796.0
   },
   {
     "created_month":"2022-06",
@@ -63,7 +63,7 @@
     "created_month":"2022-06",
     "administration":"Biden",
     "narrative":"N-3",
-    "avg_engagement":16539.54
+    "avg_engagement":1470.0
   },
   {
     "created_month":"2022-07",
@@ -75,7 +75,7 @@
     "created_month":"2022-07",
     "administration":"Biden",
     "narrative":"N-3",
-    "avg_engagement":1915.85
+    "avg_engagement":1238.0
   },
   {
     "created_month":"2022-08",
@@ -87,7 +87,7 @@
     "created_month":"2022-08",
     "administration":"Biden",
     "narrative":"N-3",
-    "avg_engagement":1863.2
+    "avg_engagement":2565.0
   },
   {
     "created_month":"2022-09",
@@ -99,7 +99,7 @@
     "created_month":"2022-09",
     "administration":"Biden",
     "narrative":"N-3",
-    "avg_engagement":3151.71
+    "avg_engagement":3294.0
   },
   {
     "created_month":"2022-10",
@@ -111,7 +111,7 @@
     "created_month":"2022-10",
     "administration":"Biden",
     "narrative":"N-3",
-    "avg_engagement":4847.03
+    "avg_engagement":3264.0
   },
   {
     "created_month":"2022-11",
@@ -123,7 +123,7 @@
     "created_month":"2022-11",
     "administration":"Biden",
     "narrative":"N-3",
-    "avg_engagement":4634.98
+    "avg_engagement":2141.33
   },
   {
     "created_month":"2022-12",
@@ -135,19 +135,13 @@
     "created_month":"2022-12",
     "administration":"Biden",
     "narrative":"N-3",
-    "avg_engagement":5938.45
+    "avg_engagement":3613.75
   },
   {
     "created_month":"2023-01",
     "administration":"Biden",
     "narrative":"N-1",
     "avg_engagement":3232.85
-  },
-  {
-    "created_month":"2023-01",
-    "administration":"Biden",
-    "narrative":"N-3",
-    "avg_engagement":3465.03
   },
   {
     "created_month":"2023-02",
@@ -159,19 +153,13 @@
     "created_month":"2023-02",
     "administration":"Biden",
     "narrative":"N-3",
-    "avg_engagement":4580.83
+    "avg_engagement":6105.75
   },
   {
     "created_month":"2023-03",
     "administration":"Biden",
     "narrative":"N-1",
     "avg_engagement":2227.28
-  },
-  {
-    "created_month":"2023-03",
-    "administration":"Biden",
-    "narrative":"N-3",
-    "avg_engagement":2977.81
   },
   {
     "created_month":"2023-04",
@@ -183,7 +171,7 @@
     "created_month":"2023-04",
     "administration":"Biden",
     "narrative":"N-3",
-    "avg_engagement":2727.65
+    "avg_engagement":1276.0
   },
   {
     "created_month":"2023-05",
@@ -195,7 +183,7 @@
     "created_month":"2023-05",
     "administration":"Biden",
     "narrative":"N-3",
-    "avg_engagement":2339.95
+    "avg_engagement":1446.0
   },
   {
     "created_month":"2023-06",
@@ -207,7 +195,7 @@
     "created_month":"2023-06",
     "administration":"Biden",
     "narrative":"N-3",
-    "avg_engagement":3734.46
+    "avg_engagement":1838.0
   },
   {
     "created_month":"2023-07",
@@ -219,7 +207,7 @@
     "created_month":"2023-07",
     "administration":"Biden",
     "narrative":"N-3",
-    "avg_engagement":3007.18
+    "avg_engagement":1607.0
   },
   {
     "created_month":"2023-08",
@@ -231,7 +219,7 @@
     "created_month":"2023-08",
     "administration":"Biden",
     "narrative":"N-3",
-    "avg_engagement":7949.11
+    "avg_engagement":3073.0
   },
   {
     "created_month":"2023-09",
@@ -243,7 +231,7 @@
     "created_month":"2023-09",
     "administration":"Biden",
     "narrative":"N-3",
-    "avg_engagement":5724.34
+    "avg_engagement":1584.0
   },
   {
     "created_month":"2023-10",
@@ -255,19 +243,13 @@
     "created_month":"2023-10",
     "administration":"Biden",
     "narrative":"N-3",
-    "avg_engagement":3591.83
+    "avg_engagement":2337.0
   },
   {
     "created_month":"2023-11",
     "administration":"Biden",
     "narrative":"N-1",
     "avg_engagement":7662.85
-  },
-  {
-    "created_month":"2023-11",
-    "administration":"Biden",
-    "narrative":"N-3",
-    "avg_engagement":4345.06
   },
   {
     "created_month":"2023-12",
@@ -279,19 +261,13 @@
     "created_month":"2023-12",
     "administration":"Biden",
     "narrative":"N-3",
-    "avg_engagement":2975.14
+    "avg_engagement":2274.0
   },
   {
     "created_month":"2024-01",
     "administration":"Biden",
     "narrative":"N-1",
     "avg_engagement":3027.29
-  },
-  {
-    "created_month":"2024-01",
-    "administration":"Biden",
-    "narrative":"N-3",
-    "avg_engagement":2198.92
   },
   {
     "created_month":"2024-02",
@@ -303,7 +279,7 @@
     "created_month":"2024-02",
     "administration":"Biden",
     "narrative":"N-3",
-    "avg_engagement":6236.15
+    "avg_engagement":1541.0
   },
   {
     "created_month":"2024-03",
@@ -321,7 +297,7 @@
     "created_month":"2024-03",
     "administration":"Biden",
     "narrative":"N-3",
-    "avg_engagement":5345.79
+    "avg_engagement":1655.0
   },
   {
     "created_month":"2024-04",
@@ -330,22 +306,10 @@
     "avg_engagement":2560.27
   },
   {
-    "created_month":"2024-04",
-    "administration":"Biden",
-    "narrative":"N-3",
-    "avg_engagement":3011.58
-  },
-  {
     "created_month":"2024-05",
     "administration":"Biden",
     "narrative":"N-1",
     "avg_engagement":5416.96
-  },
-  {
-    "created_month":"2024-05",
-    "administration":"Biden",
-    "narrative":"N-3",
-    "avg_engagement":2647.29
   },
   {
     "created_month":"2024-06",
@@ -357,19 +321,13 @@
     "created_month":"2024-06",
     "administration":"Biden",
     "narrative":"N-3",
-    "avg_engagement":7101.81
+    "avg_engagement":2853.0
   },
   {
     "created_month":"2024-07",
     "administration":"Trump",
     "narrative":"N-1",
     "avg_engagement":3145.93
-  },
-  {
-    "created_month":"2024-07",
-    "administration":"Trump",
-    "narrative":"N-3",
-    "avg_engagement":13679.61
   },
   {
     "created_month":"2024-08",
@@ -381,7 +339,7 @@
     "created_month":"2024-08",
     "administration":"Trump",
     "narrative":"N-3",
-    "avg_engagement":16123.96
+    "avg_engagement":614.5
   },
   {
     "created_month":"2024-09",
@@ -394,12 +352,6 @@
     "administration":"Trump",
     "narrative":"N-2",
     "avg_engagement":178748.0
-  },
-  {
-    "created_month":"2024-09",
-    "administration":"Trump",
-    "narrative":"N-3",
-    "avg_engagement":6624.62
   },
   {
     "created_month":"2024-10",
@@ -417,7 +369,7 @@
     "created_month":"2024-10",
     "administration":"Trump",
     "narrative":"N-3",
-    "avg_engagement":51740.9
+    "avg_engagement":2266.0
   },
   {
     "created_month":"2024-11",
@@ -426,34 +378,16 @@
     "avg_engagement":1240.8
   },
   {
-    "created_month":"2024-11",
-    "administration":"Trump",
-    "narrative":"N-3",
-    "avg_engagement":129878.41
-  },
-  {
     "created_month":"2024-12",
     "administration":"Trump",
     "narrative":"N-1",
     "avg_engagement":48616.58
   },
   {
-    "created_month":"2024-12",
-    "administration":"Trump",
-    "narrative":"N-3",
-    "avg_engagement":25762.52
-  },
-  {
     "created_month":"2025-01",
     "administration":"Trump",
     "narrative":"N-1",
     "avg_engagement":5854.95
-  },
-  {
-    "created_month":"2025-01",
-    "administration":"Trump",
-    "narrative":"N-3",
-    "avg_engagement":82025.85
   },
   {
     "created_month":"2025-02",
@@ -471,7 +405,7 @@
     "created_month":"2025-02",
     "administration":"Trump",
     "narrative":"N-3",
-    "avg_engagement":47782.35
+    "avg_engagement":79469.83
   },
   {
     "created_month":"2025-03",
@@ -489,7 +423,7 @@
     "created_month":"2025-03",
     "administration":"Trump",
     "narrative":"N-3",
-    "avg_engagement":77416.41
+    "avg_engagement":192229.17
   },
   {
     "created_month":"2025-04",
@@ -501,6 +435,6 @@
     "created_month":"2025-04",
     "administration":"Trump",
     "narrative":"N-3",
-    "avg_engagement":50935.93
+    "avg_engagement":10013.5
   }
 ]

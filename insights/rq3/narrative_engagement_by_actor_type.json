@@ -15,7 +15,7 @@
     "created_month":"2022-02",
     "actor_type":"MEP",
     "narrative":"N-3",
-    "total_engagement":159516
+    "total_engagement":113140
   },
   {
     "created_month":"2022-02",
@@ -27,7 +27,7 @@
     "created_month":"2022-02",
     "actor_type":"US_Admin",
     "narrative":"N-3",
-    "total_engagement":42865
+    "total_engagement":34093
   },
   {
     "created_month":"2022-03",
@@ -45,7 +45,7 @@
     "created_month":"2022-03",
     "actor_type":"MEP",
     "narrative":"N-3",
-    "total_engagement":694320
+    "total_engagement":338052
   },
   {
     "created_month":"2022-03",
@@ -57,7 +57,7 @@
     "created_month":"2022-03",
     "actor_type":"US_Admin",
     "narrative":"N-3",
-    "total_engagement":196211
+    "total_engagement":90124
   },
   {
     "created_month":"2022-04",
@@ -75,7 +75,7 @@
     "created_month":"2022-04",
     "actor_type":"MEP",
     "narrative":"N-3",
-    "total_engagement":359155
+    "total_engagement":133124
   },
   {
     "created_month":"2022-04",
@@ -93,7 +93,7 @@
     "created_month":"2022-04",
     "actor_type":"US_Admin",
     "narrative":"N-3",
-    "total_engagement":105772
+    "total_engagement":16007
   },
   {
     "created_month":"2022-05",
@@ -111,7 +111,7 @@
     "created_month":"2022-05",
     "actor_type":"MEP",
     "narrative":"N-3",
-    "total_engagement":222686
+    "total_engagement":78398
   },
   {
     "created_month":"2022-05",
@@ -123,7 +123,7 @@
     "created_month":"2022-05",
     "actor_type":"US_Admin",
     "narrative":"N-3",
-    "total_engagement":100248
+    "total_engagement":5592
   },
   {
     "created_month":"2022-06",
@@ -141,7 +141,7 @@
     "created_month":"2022-06",
     "actor_type":"MEP",
     "narrative":"N-3",
-    "total_engagement":220657
+    "total_engagement":69063
   },
   {
     "created_month":"2022-06",
@@ -153,7 +153,7 @@
     "created_month":"2022-06",
     "actor_type":"US_Admin",
     "narrative":"N-3",
-    "total_engagement":793898
+    "total_engagement":4410
   },
   {
     "created_month":"2022-07",
@@ -171,7 +171,7 @@
     "created_month":"2022-07",
     "actor_type":"MEP",
     "narrative":"N-3",
-    "total_engagement":219555
+    "total_engagement":44393
   },
   {
     "created_month":"2022-07",
@@ -183,7 +183,7 @@
     "created_month":"2022-07",
     "actor_type":"US_Admin",
     "narrative":"N-3",
-    "total_engagement":63223
+    "total_engagement":2476
   },
   {
     "created_month":"2022-08",
@@ -201,7 +201,7 @@
     "created_month":"2022-08",
     "actor_type":"MEP",
     "narrative":"N-3",
-    "total_engagement":266262
+    "total_engagement":58531
   },
   {
     "created_month":"2022-08",
@@ -213,7 +213,7 @@
     "created_month":"2022-08",
     "actor_type":"US_Admin",
     "narrative":"N-3",
-    "total_engagement":76391
+    "total_engagement":5130
   },
   {
     "created_month":"2022-09",
@@ -231,7 +231,7 @@
     "created_month":"2022-09",
     "actor_type":"MEP",
     "narrative":"N-3",
-    "total_engagement":326592
+    "total_engagement":118154
   },
   {
     "created_month":"2022-09",
@@ -243,7 +243,7 @@
     "created_month":"2022-09",
     "actor_type":"US_Admin",
     "narrative":"N-3",
-    "total_engagement":107158
+    "total_engagement":9882
   },
   {
     "created_month":"2022-10",
@@ -261,7 +261,7 @@
     "created_month":"2022-10",
     "actor_type":"MEP",
     "narrative":"N-3",
-    "total_engagement":361123
+    "total_engagement":87151
   },
   {
     "created_month":"2022-10",
@@ -273,7 +273,7 @@
     "created_month":"2022-10",
     "actor_type":"US_Admin",
     "narrative":"N-3",
-    "total_engagement":179340
+    "total_engagement":19584
   },
   {
     "created_month":"2022-11",
@@ -291,7 +291,7 @@
     "created_month":"2022-11",
     "actor_type":"MEP",
     "narrative":"N-3",
-    "total_engagement":297451
+    "total_engagement":95997
   },
   {
     "created_month":"2022-11",
@@ -303,7 +303,7 @@
     "created_month":"2022-11",
     "actor_type":"US_Admin",
     "narrative":"N-3",
-    "total_engagement":199304
+    "total_engagement":6424
   },
   {
     "created_month":"2022-12",
@@ -321,7 +321,7 @@
     "created_month":"2022-12",
     "actor_type":"MEP",
     "narrative":"N-3",
-    "total_engagement":227537
+    "total_engagement":88347
   },
   {
     "created_month":"2022-12",
@@ -333,7 +333,7 @@
     "created_month":"2022-12",
     "actor_type":"US_Admin",
     "narrative":"N-3",
-    "total_engagement":261292
+    "total_engagement":14455
   },
   {
     "created_month":"2023-01",
@@ -351,19 +351,13 @@
     "created_month":"2023-01",
     "actor_type":"MEP",
     "narrative":"N-3",
-    "total_engagement":248835
+    "total_engagement":75230
   },
   {
     "created_month":"2023-01",
     "actor_type":"US_Admin",
     "narrative":"N-1",
     "total_engagement":129314
-  },
-  {
-    "created_month":"2023-01",
-    "actor_type":"US_Admin",
-    "narrative":"N-3",
-    "total_engagement":103951
   },
   {
     "created_month":"2023-02",
@@ -381,7 +375,7 @@
     "created_month":"2023-02",
     "actor_type":"MEP",
     "narrative":"N-3",
-    "total_engagement":286116
+    "total_engagement":115031
   },
   {
     "created_month":"2023-02",
@@ -393,7 +387,7 @@
     "created_month":"2023-02",
     "actor_type":"US_Admin",
     "narrative":"N-3",
-    "total_engagement":238203
+    "total_engagement":24423
   },
   {
     "created_month":"2023-03",
@@ -411,19 +405,13 @@
     "created_month":"2023-03",
     "actor_type":"MEP",
     "narrative":"N-3",
-    "total_engagement":267880
+    "total_engagement":107085
   },
   {
     "created_month":"2023-03",
     "actor_type":"US_Admin",
     "narrative":"N-1",
     "total_engagement":64591
-  },
-  {
-    "created_month":"2023-03",
-    "actor_type":"US_Admin",
-    "narrative":"N-3",
-    "total_engagement":80401
   },
   {
     "created_month":"2023-04",
@@ -441,7 +429,7 @@
     "created_month":"2023-04",
     "actor_type":"MEP",
     "narrative":"N-3",
-    "total_engagement":209305
+    "total_engagement":52447
   },
   {
     "created_month":"2023-04",
@@ -453,7 +441,7 @@
     "created_month":"2023-04",
     "actor_type":"US_Admin",
     "narrative":"N-3",
-    "total_engagement":70919
+    "total_engagement":1276
   },
   {
     "created_month":"2023-05",
@@ -471,7 +459,7 @@
     "created_month":"2023-05",
     "actor_type":"MEP",
     "narrative":"N-3",
-    "total_engagement":271937
+    "total_engagement":61416
   },
   {
     "created_month":"2023-05",
@@ -483,7 +471,7 @@
     "created_month":"2023-05",
     "actor_type":"US_Admin",
     "narrative":"N-3",
-    "total_engagement":95938
+    "total_engagement":2892
   },
   {
     "created_month":"2023-06",
@@ -501,7 +489,7 @@
     "created_month":"2023-06",
     "actor_type":"MEP",
     "narrative":"N-3",
-    "total_engagement":276974
+    "total_engagement":59122
   },
   {
     "created_month":"2023-06",
@@ -513,7 +501,7 @@
     "created_month":"2023-06",
     "actor_type":"US_Admin",
     "narrative":"N-3",
-    "total_engagement":153113
+    "total_engagement":3676
   },
   {
     "created_month":"2023-07",
@@ -531,7 +519,7 @@
     "created_month":"2023-07",
     "actor_type":"MEP",
     "narrative":"N-3",
-    "total_engagement":313390
+    "total_engagement":79053
   },
   {
     "created_month":"2023-07",
@@ -543,7 +531,7 @@
     "created_month":"2023-07",
     "actor_type":"US_Admin",
     "narrative":"N-3",
-    "total_engagement":201481
+    "total_engagement":1607
   },
   {
     "created_month":"2023-08",
@@ -561,7 +549,7 @@
     "created_month":"2023-08",
     "actor_type":"MEP",
     "narrative":"N-3",
-    "total_engagement":220041
+    "total_engagement":29869
   },
   {
     "created_month":"2023-08",
@@ -573,7 +561,7 @@
     "created_month":"2023-08",
     "actor_type":"US_Admin",
     "narrative":"N-3",
-    "total_engagement":278219
+    "total_engagement":6146
   },
   {
     "created_month":"2023-09",
@@ -591,7 +579,7 @@
     "created_month":"2023-09",
     "actor_type":"MEP",
     "narrative":"N-3",
-    "total_engagement":414403
+    "total_engagement":111781
   },
   {
     "created_month":"2023-09",
@@ -603,7 +591,7 @@
     "created_month":"2023-09",
     "actor_type":"US_Admin",
     "narrative":"N-3",
-    "total_engagement":234698
+    "total_engagement":1584
   },
   {
     "created_month":"2023-10",
@@ -621,7 +609,7 @@
     "created_month":"2023-10",
     "actor_type":"MEP",
     "narrative":"N-3",
-    "total_engagement":575612
+    "total_engagement":99459
   },
   {
     "created_month":"2023-10",
@@ -633,7 +621,7 @@
     "created_month":"2023-10",
     "actor_type":"US_Admin",
     "narrative":"N-3",
-    "total_engagement":125714
+    "total_engagement":4674
   },
   {
     "created_month":"2023-11",
@@ -651,19 +639,13 @@
     "created_month":"2023-11",
     "actor_type":"MEP",
     "narrative":"N-3",
-    "total_engagement":473989
+    "total_engagement":27277
   },
   {
     "created_month":"2023-11",
     "actor_type":"US_Admin",
     "narrative":"N-1",
     "total_engagement":252874
-  },
-  {
-    "created_month":"2023-11",
-    "actor_type":"US_Admin",
-    "narrative":"N-3",
-    "total_engagement":143387
   },
   {
     "created_month":"2023-12",
@@ -681,7 +663,7 @@
     "created_month":"2023-12",
     "actor_type":"MEP",
     "narrative":"N-3",
-    "total_engagement":315287
+    "total_engagement":46217
   },
   {
     "created_month":"2023-12",
@@ -693,7 +675,7 @@
     "created_month":"2023-12",
     "actor_type":"US_Admin",
     "narrative":"N-3",
-    "total_engagement":83304
+    "total_engagement":2274
   },
   {
     "created_month":"2024-01",
@@ -711,19 +693,13 @@
     "created_month":"2024-01",
     "actor_type":"MEP",
     "narrative":"N-3",
-    "total_engagement":382347
+    "total_engagement":42923
   },
   {
     "created_month":"2024-01",
     "actor_type":"US_Admin",
     "narrative":"N-1",
     "total_engagement":42382
-  },
-  {
-    "created_month":"2024-01",
-    "actor_type":"US_Admin",
-    "narrative":"N-3",
-    "total_engagement":52774
   },
   {
     "created_month":"2024-02",
@@ -741,7 +717,7 @@
     "created_month":"2024-02",
     "actor_type":"MEP",
     "narrative":"N-3",
-    "total_engagement":403239
+    "total_engagement":80987
   },
   {
     "created_month":"2024-02",
@@ -753,7 +729,7 @@
     "created_month":"2024-02",
     "actor_type":"US_Admin",
     "narrative":"N-3",
-    "total_engagement":124723
+    "total_engagement":1541
   },
   {
     "created_month":"2024-03",
@@ -771,7 +747,7 @@
     "created_month":"2024-03",
     "actor_type":"MEP",
     "narrative":"N-3",
-    "total_engagement":498211
+    "total_engagement":124017
   },
   {
     "created_month":"2024-03",
@@ -789,7 +765,7 @@
     "created_month":"2024-03",
     "actor_type":"US_Admin",
     "narrative":"N-3",
-    "total_engagement":128299
+    "total_engagement":3310
   },
   {
     "created_month":"2024-04",
@@ -807,19 +783,13 @@
     "created_month":"2024-04",
     "actor_type":"MEP",
     "narrative":"N-3",
-    "total_engagement":333755
+    "total_engagement":39283
   },
   {
     "created_month":"2024-04",
     "actor_type":"US_Admin",
     "narrative":"N-1",
     "total_engagement":94730
-  },
-  {
-    "created_month":"2024-04",
-    "actor_type":"US_Admin",
-    "narrative":"N-3",
-    "total_engagement":93359
   },
   {
     "created_month":"2024-05",
@@ -837,19 +807,13 @@
     "created_month":"2024-05",
     "actor_type":"MEP",
     "narrative":"N-3",
-    "total_engagement":461882
+    "total_engagement":49582
   },
   {
     "created_month":"2024-05",
     "actor_type":"US_Admin",
     "narrative":"N-1",
     "total_engagement":151675
-  },
-  {
-    "created_month":"2024-05",
-    "actor_type":"US_Admin",
-    "narrative":"N-3",
-    "total_engagement":100597
   },
   {
     "created_month":"2024-06",
@@ -867,7 +831,7 @@
     "created_month":"2024-06",
     "actor_type":"MEP",
     "narrative":"N-3",
-    "total_engagement":463394
+    "total_engagement":60236
   },
   {
     "created_month":"2024-06",
@@ -879,7 +843,7 @@
     "created_month":"2024-06",
     "actor_type":"US_Admin",
     "narrative":"N-3",
-    "total_engagement":262767
+    "total_engagement":2853
   },
   {
     "created_month":"2024-07",
@@ -897,19 +861,13 @@
     "created_month":"2024-07",
     "actor_type":"MEP",
     "narrative":"N-3",
-    "total_engagement":605940
+    "total_engagement":81872
   },
   {
     "created_month":"2024-07",
     "actor_type":"US_Admin",
     "narrative":"N-1",
     "total_engagement":84940
-  },
-  {
-    "created_month":"2024-07",
-    "actor_type":"US_Admin",
-    "narrative":"N-3",
-    "total_engagement":629262
   },
   {
     "created_month":"2024-08",
@@ -927,7 +885,7 @@
     "created_month":"2024-08",
     "actor_type":"MEP",
     "narrative":"N-3",
-    "total_engagement":510463
+    "total_engagement":41542
   },
   {
     "created_month":"2024-08",
@@ -939,7 +897,7 @@
     "created_month":"2024-08",
     "actor_type":"US_Admin",
     "narrative":"N-3",
-    "total_engagement":435347
+    "total_engagement":1229
   },
   {
     "created_month":"2024-09",
@@ -957,7 +915,7 @@
     "created_month":"2024-09",
     "actor_type":"MEP",
     "narrative":"N-3",
-    "total_engagement":495396
+    "total_engagement":97260
   },
   {
     "created_month":"2024-09",
@@ -970,12 +928,6 @@
     "actor_type":"US_Admin",
     "narrative":"N-2",
     "total_engagement":357496
-  },
-  {
-    "created_month":"2024-09",
-    "actor_type":"US_Admin",
-    "narrative":"N-3",
-    "total_engagement":192114
   },
   {
     "created_month":"2024-10",
@@ -993,7 +945,7 @@
     "created_month":"2024-10",
     "actor_type":"MEP",
     "narrative":"N-3",
-    "total_engagement":491422
+    "total_engagement":54941
   },
   {
     "created_month":"2024-10",
@@ -1011,7 +963,7 @@
     "created_month":"2024-10",
     "actor_type":"US_Admin",
     "narrative":"N-3",
-    "total_engagement":2483563
+    "total_engagement":2266
   },
   {
     "created_month":"2024-11",
@@ -1029,19 +981,13 @@
     "created_month":"2024-11",
     "actor_type":"MEP",
     "narrative":"N-3",
-    "total_engagement":819560
+    "total_engagement":167124
   },
   {
     "created_month":"2024-11",
     "actor_type":"US_Admin",
     "narrative":"N-1",
     "total_engagement":6204
-  },
-  {
-    "created_month":"2024-11",
-    "actor_type":"US_Admin",
-    "narrative":"N-3",
-    "total_engagement":2857325
   },
   {
     "created_month":"2024-12",
@@ -1059,19 +1005,13 @@
     "created_month":"2024-12",
     "actor_type":"MEP",
     "narrative":"N-3",
-    "total_engagement":515414
+    "total_engagement":56059
   },
   {
     "created_month":"2024-12",
     "actor_type":"US_Admin",
     "narrative":"N-1",
     "total_engagement":583399
-  },
-  {
-    "created_month":"2024-12",
-    "actor_type":"US_Admin",
-    "narrative":"N-3",
-    "total_engagement":1288126
   },
   {
     "created_month":"2025-01",
@@ -1089,19 +1029,13 @@
     "created_month":"2025-01",
     "actor_type":"MEP",
     "narrative":"N-3",
-    "total_engagement":683115
+    "total_engagement":87072
   },
   {
     "created_month":"2025-01",
     "actor_type":"US_Admin",
     "narrative":"N-1",
     "total_engagement":122954
-  },
-  {
-    "created_month":"2025-01",
-    "actor_type":"US_Admin",
-    "narrative":"N-3",
-    "total_engagement":1066336
   },
   {
     "created_month":"2025-02",
@@ -1119,7 +1053,7 @@
     "created_month":"2025-02",
     "actor_type":"MEP",
     "narrative":"N-3",
-    "total_engagement":843649
+    "total_engagement":178272
   },
   {
     "created_month":"2025-02",
@@ -1137,7 +1071,7 @@
     "created_month":"2025-02",
     "actor_type":"US_Admin",
     "narrative":"N-3",
-    "total_engagement":2197988
+    "total_engagement":476819
   },
   {
     "created_month":"2025-03",
@@ -1155,7 +1089,7 @@
     "created_month":"2025-03",
     "actor_type":"MEP",
     "narrative":"N-3",
-    "total_engagement":1161780
+    "total_engagement":292565
   },
   {
     "created_month":"2025-03",
@@ -1173,7 +1107,7 @@
     "created_month":"2025-03",
     "actor_type":"US_Admin",
     "narrative":"N-3",
-    "total_engagement":3406322
+    "total_engagement":1153375
   },
   {
     "created_month":"2025-04",
@@ -1191,7 +1125,7 @@
     "created_month":"2025-04",
     "actor_type":"MEP",
     "narrative":"N-3",
-    "total_engagement":519770
+    "total_engagement":25298
   },
   {
     "created_month":"2025-04",
@@ -1203,6 +1137,6 @@
     "created_month":"2025-04",
     "actor_type":"US_Admin",
     "narrative":"N-3",
-    "total_engagement":2139309
+    "total_engagement":20027
   }
 ]

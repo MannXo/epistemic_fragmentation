@@ -9,7 +9,7 @@
     "created_month":"2022-02",
     "administration":"Biden",
     "narrative":"N-3",
-    "count":5
+    "count":4
   },
   {
     "created_month":"2022-03",
@@ -21,7 +21,7 @@
     "created_month":"2022-03",
     "administration":"Biden",
     "narrative":"N-3",
-    "count":45
+    "count":12
   },
   {
     "created_month":"2022-04",
@@ -39,7 +39,7 @@
     "created_month":"2022-04",
     "administration":"Biden",
     "narrative":"N-3",
-    "count":36
+    "count":6
   },
   {
     "created_month":"2022-05",
@@ -51,7 +51,7 @@
     "created_month":"2022-05",
     "administration":"Biden",
     "narrative":"N-3",
-    "count":35
+    "count":2
   },
   {
     "created_month":"2022-06",
@@ -63,7 +63,7 @@
     "created_month":"2022-06",
     "administration":"Biden",
     "narrative":"N-3",
-    "count":48
+    "count":3
   },
   {
     "created_month":"2022-07",
@@ -75,7 +75,7 @@
     "created_month":"2022-07",
     "administration":"Biden",
     "narrative":"N-3",
-    "count":33
+    "count":2
   },
   {
     "created_month":"2022-08",
@@ -87,7 +87,7 @@
     "created_month":"2022-08",
     "administration":"Biden",
     "narrative":"N-3",
-    "count":41
+    "count":2
   },
   {
     "created_month":"2022-09",
@@ -99,7 +99,7 @@
     "created_month":"2022-09",
     "administration":"Biden",
     "narrative":"N-3",
-    "count":34
+    "count":3
   },
   {
     "created_month":"2022-10",
@@ -111,7 +111,7 @@
     "created_month":"2022-10",
     "administration":"Biden",
     "narrative":"N-3",
-    "count":37
+    "count":6
   },
   {
     "created_month":"2022-11",
@@ -123,7 +123,7 @@
     "created_month":"2022-11",
     "administration":"Biden",
     "narrative":"N-3",
-    "count":43
+    "count":3
   },
   {
     "created_month":"2022-12",
@@ -135,19 +135,13 @@
     "created_month":"2022-12",
     "administration":"Biden",
     "narrative":"N-3",
-    "count":44
+    "count":4
   },
   {
     "created_month":"2023-01",
     "administration":"Biden",
     "narrative":"N-1",
     "count":40
-  },
-  {
-    "created_month":"2023-01",
-    "administration":"Biden",
-    "narrative":"N-3",
-    "count":30
   },
   {
     "created_month":"2023-02",
@@ -159,19 +153,13 @@
     "created_month":"2023-02",
     "administration":"Biden",
     "narrative":"N-3",
-    "count":52
+    "count":4
   },
   {
     "created_month":"2023-03",
     "administration":"Biden",
     "narrative":"N-1",
     "count":29
-  },
-  {
-    "created_month":"2023-03",
-    "administration":"Biden",
-    "narrative":"N-3",
-    "count":27
   },
   {
     "created_month":"2023-04",
@@ -183,7 +171,7 @@
     "created_month":"2023-04",
     "administration":"Biden",
     "narrative":"N-3",
-    "count":26
+    "count":1
   },
   {
     "created_month":"2023-05",
@@ -195,7 +183,7 @@
     "created_month":"2023-05",
     "administration":"Biden",
     "narrative":"N-3",
-    "count":41
+    "count":2
   },
   {
     "created_month":"2023-06",
@@ -207,7 +195,7 @@
     "created_month":"2023-06",
     "administration":"Biden",
     "narrative":"N-3",
-    "count":41
+    "count":2
   },
   {
     "created_month":"2023-07",
@@ -219,7 +207,7 @@
     "created_month":"2023-07",
     "administration":"Biden",
     "narrative":"N-3",
-    "count":67
+    "count":1
   },
   {
     "created_month":"2023-08",
@@ -231,7 +219,7 @@
     "created_month":"2023-08",
     "administration":"Biden",
     "narrative":"N-3",
-    "count":35
+    "count":2
   },
   {
     "created_month":"2023-09",
@@ -243,7 +231,7 @@
     "created_month":"2023-09",
     "administration":"Biden",
     "narrative":"N-3",
-    "count":41
+    "count":1
   },
   {
     "created_month":"2023-10",
@@ -255,18 +243,12 @@
     "created_month":"2023-10",
     "administration":"Biden",
     "narrative":"N-3",
-    "count":35
+    "count":2
   },
   {
     "created_month":"2023-11",
     "administration":"Biden",
     "narrative":"N-1",
-    "count":33
-  },
-  {
-    "created_month":"2023-11",
-    "administration":"Biden",
-    "narrative":"N-3",
     "count":33
   },
   {
@@ -279,19 +261,13 @@
     "created_month":"2023-12",
     "administration":"Biden",
     "narrative":"N-3",
-    "count":28
+    "count":1
   },
   {
     "created_month":"2024-01",
     "administration":"Biden",
     "narrative":"N-1",
     "count":14
-  },
-  {
-    "created_month":"2024-01",
-    "administration":"Biden",
-    "narrative":"N-3",
-    "count":24
   },
   {
     "created_month":"2024-02",
@@ -303,7 +279,7 @@
     "created_month":"2024-02",
     "administration":"Biden",
     "narrative":"N-3",
-    "count":20
+    "count":1
   },
   {
     "created_month":"2024-03",
@@ -321,7 +297,7 @@
     "created_month":"2024-03",
     "administration":"Biden",
     "narrative":"N-3",
-    "count":24
+    "count":2
   },
   {
     "created_month":"2024-04",
@@ -330,22 +306,10 @@
     "count":37
   },
   {
-    "created_month":"2024-04",
-    "administration":"Biden",
-    "narrative":"N-3",
-    "count":31
-  },
-  {
     "created_month":"2024-05",
     "administration":"Biden",
     "narrative":"N-1",
     "count":28
-  },
-  {
-    "created_month":"2024-05",
-    "administration":"Biden",
-    "narrative":"N-3",
-    "count":38
   },
   {
     "created_month":"2024-06",
@@ -357,19 +321,13 @@
     "created_month":"2024-06",
     "administration":"Biden",
     "narrative":"N-3",
-    "count":37
+    "count":1
   },
   {
     "created_month":"2024-07",
     "administration":"Trump",
     "narrative":"N-1",
     "count":27
-  },
-  {
-    "created_month":"2024-07",
-    "administration":"Trump",
-    "narrative":"N-3",
-    "count":46
   },
   {
     "created_month":"2024-08",
@@ -381,7 +339,7 @@
     "created_month":"2024-08",
     "administration":"Trump",
     "narrative":"N-3",
-    "count":27
+    "count":2
   },
   {
     "created_month":"2024-09",
@@ -396,12 +354,6 @@
     "count":2
   },
   {
-    "created_month":"2024-09",
-    "administration":"Trump",
-    "narrative":"N-3",
-    "count":29
-  },
-  {
     "created_month":"2024-10",
     "administration":"Trump",
     "narrative":"N-1",
@@ -417,7 +369,7 @@
     "created_month":"2024-10",
     "administration":"Trump",
     "narrative":"N-3",
-    "count":48
+    "count":1
   },
   {
     "created_month":"2024-11",
@@ -426,34 +378,16 @@
     "count":5
   },
   {
-    "created_month":"2024-11",
-    "administration":"Trump",
-    "narrative":"N-3",
-    "count":22
-  },
-  {
     "created_month":"2024-12",
     "administration":"Trump",
     "narrative":"N-1",
     "count":12
   },
   {
-    "created_month":"2024-12",
-    "administration":"Trump",
-    "narrative":"N-3",
-    "count":50
-  },
-  {
     "created_month":"2025-01",
     "administration":"Trump",
     "narrative":"N-1",
     "count":21
-  },
-  {
-    "created_month":"2025-01",
-    "administration":"Trump",
-    "narrative":"N-3",
-    "count":13
   },
   {
     "created_month":"2025-02",
@@ -471,7 +405,7 @@
     "created_month":"2025-02",
     "administration":"Trump",
     "narrative":"N-3",
-    "count":46
+    "count":6
   },
   {
     "created_month":"2025-03",
@@ -489,7 +423,7 @@
     "created_month":"2025-03",
     "administration":"Trump",
     "narrative":"N-3",
-    "count":44
+    "count":6
   },
   {
     "created_month":"2025-04",
@@ -501,6 +435,6 @@
     "created_month":"2025-04",
     "administration":"Trump",
     "narrative":"N-3",
-    "count":42
+    "count":2
   }
 ]

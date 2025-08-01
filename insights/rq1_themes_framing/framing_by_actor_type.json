@@ -2,38 +2,38 @@
   {
     "actor_type":"MEP",
     "framing":"F-1",
-    "count":24987,
-    "percent":16.79
+    "count":22880,
+    "percent":17.58
   },
   {
     "actor_type":"MEP",
     "framing":"F-2",
-    "count":22407,
-    "percent":15.06
+    "count":19984,
+    "percent":15.35
   },
   {
     "actor_type":"MEP",
     "framing":"F-3",
-    "count":44689,
-    "percent":30.03
+    "count":34455,
+    "percent":26.47
   },
   {
     "actor_type":"MEP",
     "framing":"F-4",
-    "count":30352,
-    "percent":20.39
+    "count":28166,
+    "percent":21.64
   },
   {
     "actor_type":"MEP",
     "framing":"F-5",
-    "count":14072,
-    "percent":9.46
+    "count":13875,
+    "percent":10.66
   },
   {
     "actor_type":"MEP",
     "framing":"F-6",
-    "count":12303,
-    "percent":8.27
+    "count":10807,
+    "percent":8.3
   },
   {
     "actor_type":"MEP",
@@ -56,37 +56,37 @@
   {
     "actor_type":"US_Admin",
     "framing":"F-1",
-    "count":616,
-    "percent":15.67
+    "count":598,
+    "percent":16.82
   },
   {
     "actor_type":"US_Admin",
     "framing":"F-2",
-    "count":1149,
-    "percent":29.22
+    "count":1026,
+    "percent":28.85
   },
   {
     "actor_type":"US_Admin",
     "framing":"F-3",
-    "count":961,
-    "percent":24.44
+    "count":796,
+    "percent":22.38
   },
   {
     "actor_type":"US_Admin",
     "framing":"F-4",
-    "count":330,
-    "percent":8.39
+    "count":312,
+    "percent":8.77
   },
   {
     "actor_type":"US_Admin",
     "framing":"F-5",
-    "count":637,
-    "percent":16.2
+    "count":593,
+    "percent":16.68
   },
   {
     "actor_type":"US_Admin",
     "framing":"F-6",
-    "count":239,
-    "percent":6.08
+    "count":231,
+    "percent":6.5
   }
 ]
