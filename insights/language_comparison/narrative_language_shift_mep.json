@@ -51,23 +51,6 @@
     }
   },
   {
-    "userName": "AnnaAsimakopoul",
-    "name": "Anna Michelle Asimakopoulou",
-    "native_lang": "el",
-    "country": NaN,
-    "politicalGroup": NaN,
-    "narrative_dist_en": {
-      "N-1": 54.2,
-      "N-2": 0.0,
-      "N-3": 45.800000000000004
-    },
-    "narrative_dist_native": {
-      "N-1": 29.099999999999998,
-      "N-2": 0.0,
-      "N-3": 70.89999999999999
-    }
-  },
-  {
     "userName": "AnnaZalewskaMEP",
     "name": "Anna Zalewska \ud83c\uddf5\ud83c\uddf1",
     "native_lang": "pl",
@@ -82,23 +65,6 @@
       "N-1": 60.9,
       "N-2": 12.2,
       "N-3": 26.900000000000002
-    }
-  },
-  {
-    "userName": "Ansip_EU",
-    "name": "Andrus Ansip",
-    "native_lang": "et",
-    "country": NaN,
-    "politicalGroup": NaN,
-    "narrative_dist_en": {
-      "N-1": 100.0,
-      "N-2": 0.0,
-      "N-3": 0.0
-    },
-    "narrative_dist_native": {
-      "N-1": 72.7,
-      "N-2": 9.1,
-      "N-3": 18.2
     }
   },
   {
@@ -119,23 +85,6 @@
     }
   },
   {
-    "userName": "ArnaudDanjean",
-    "name": "Arnaud Danjean",
-    "native_lang": "fr",
-    "country": NaN,
-    "politicalGroup": NaN,
-    "narrative_dist_en": {
-      "N-1": 100.0,
-      "N-2": 0.0,
-      "N-3": 0.0
-    },
-    "narrative_dist_native": {
-      "N-1": 72.2,
-      "N-2": 0.0,
-      "N-3": 27.800000000000004
-    }
-  },
-  {
     "userName": "AuroreLalucq",
     "name": "Aurore Lalucq \ud83c\uddea\ud83c\uddfa",
     "native_lang": "fr",
@@ -150,142 +99,6 @@
       "N-1": 80.7,
       "N-2": 0.0,
       "N-3": 19.3
-    }
-  },
-  {
-    "userName": "BalazsHidveghi",
-    "name": "Hidv\u00e9ghi Bal\u00e1zs",
-    "native_lang": "fr",
-    "country": NaN,
-    "politicalGroup": NaN,
-    "narrative_dist_en": {
-      "N-1": 16.1,
-      "N-2": 33.900000000000006,
-      "N-3": 50.0
-    },
-    "narrative_dist_native": {
-      "N-1": 11.1,
-      "N-2": 55.60000000000001,
-      "N-3": 33.300000000000004
-    }
-  },
-  {
-    "userName": "BeataKempa_MEP",
-    "name": "Beata Kempa",
-    "native_lang": "pl",
-    "country": NaN,
-    "politicalGroup": NaN,
-    "narrative_dist_en": {
-      "N-1": 100.0,
-      "N-2": 0.0,
-      "N-3": 0.0
-    },
-    "narrative_dist_native": {
-      "N-1": 79.4,
-      "N-2": 1.0,
-      "N-3": 19.6
-    }
-  },
-  {
-    "userName": "BenoitBiteau",
-    "name": "Beno\u00eet BITEAU",
-    "native_lang": "fr",
-    "country": NaN,
-    "politicalGroup": NaN,
-    "narrative_dist_en": {
-      "N-1": 100.0,
-      "N-2": 0.0,
-      "N-3": 0.0
-    },
-    "narrative_dist_native": {
-      "N-1": 63.3,
-      "N-2": 0.0,
-      "N-3": 36.7
-    }
-  },
-  {
-    "userName": "BernhardZimniok",
-    "name": "Bernhard Zimniok",
-    "native_lang": "de",
-    "country": NaN,
-    "politicalGroup": NaN,
-    "narrative_dist_en": {
-      "N-1": 11.799999999999999,
-      "N-2": 41.199999999999996,
-      "N-3": 47.099999999999994
-    },
-    "narrative_dist_native": {
-      "N-1": 2.5,
-      "N-2": 73.8,
-      "N-3": 23.7
-    }
-  },
-  {
-    "userName": "CHansenEU",
-    "name": "Christophe Hansen",
-    "native_lang": "de",
-    "country": NaN,
-    "politicalGroup": NaN,
-    "narrative_dist_en": {
-      "N-1": 87.5,
-      "N-2": 0.0,
-      "N-3": 12.5
-    },
-    "narrative_dist_native": {
-      "N-1": 60.0,
-      "N-2": 0.0,
-      "N-3": 40.0
-    }
-  },
-  {
-    "userName": "CiaranCuffe",
-    "name": "Ciar\u00e1n Cuffe",
-    "native_lang": "cy",
-    "country": NaN,
-    "politicalGroup": NaN,
-    "narrative_dist_en": {
-      "N-1": 78.60000000000001,
-      "N-2": 0.0,
-      "N-3": 21.4
-    },
-    "narrative_dist_native": {
-      "N-1": 100.0,
-      "N-2": 0.0,
-      "N-3": 0.0
-    }
-  },
-  {
-    "userName": "ClaraAguilera7",
-    "name": "CLARA AGUILERA",
-    "native_lang": "es",
-    "country": NaN,
-    "politicalGroup": NaN,
-    "narrative_dist_en": {
-      "N-1": 0.0,
-      "N-2": 0.0,
-      "N-3": 100.0
-    },
-    "narrative_dist_native": {
-      "N-1": 60.699999999999996,
-      "N-2": 0.0,
-      "N-3": 39.300000000000004
-    }
-  },
-  {
-    "userName": "ClaraPonsati",
-    "name": "Clara Ponsat\u00ed",
-    "native_lang": "ca",
-    "country": NaN,
-    "politicalGroup": NaN,
-    "narrative_dist_en": {
-      "N-1": 50.0,
-      "N-2": 0.0,
-      "N-3": 50.0
-    },
-    "narrative_dist_native": {
-      "N-1": 73.8,
-      "N-2": 0.0,
-      "N-3": 26.200000000000003
     }
   },
   {
@@ -306,23 +119,6 @@
     }
   },
   {
-    "userName": "ColmMarkey",
-    "name": "Colm Markey",
-    "native_lang": "qht",
-    "country": NaN,
-    "politicalGroup": NaN,
-    "narrative_dist_en": {
-      "N-1": 74.3,
-      "N-2": 0.0,
-      "N-3": 25.7
-    },
-    "narrative_dist_native": {
-      "N-1": 100.0,
-      "N-2": 0.0,
-      "N-3": 0.0
-    }
-  },
-  {
     "userName": "DarioNardella",
     "name": "Dario Nardella",
     "native_lang": "it",
@@ -337,40 +133,6 @@
       "N-1": 86.7,
       "N-2": 0.0,
       "N-3": 13.3
-    }
-  },
-  {
-    "userName": "DemPapadakis",
-    "name": "Demetris Papadakis",
-    "native_lang": "el",
-    "country": NaN,
-    "politicalGroup": NaN,
-    "narrative_dist_en": {
-      "N-1": 100.0,
-      "N-2": 0.0,
-      "N-3": 0.0
-    },
-    "narrative_dist_native": {
-      "N-1": 25.0,
-      "N-2": 0.0,
-      "N-3": 75.0
-    }
-  },
-  {
-    "userName": "E_Rafalska",
-    "name": "El\u017cbieta Rafalska",
-    "native_lang": "pl",
-    "country": NaN,
-    "politicalGroup": NaN,
-    "narrative_dist_en": {
-      "N-1": 0.0,
-      "N-2": 100.0,
-      "N-3": 0.0
-    },
-    "narrative_dist_native": {
-      "N-1": 66.0,
-      "N-2": 14.000000000000002,
-      "N-3": 20.0
     }
   },
   {
@@ -425,40 +187,6 @@
     }
   },
   {
-    "userName": "EricAndrieuEU",
-    "name": "Eric Andrieu",
-    "native_lang": "fr",
-    "country": NaN,
-    "politicalGroup": NaN,
-    "narrative_dist_en": {
-      "N-1": 100.0,
-      "N-2": 0.0,
-      "N-3": 0.0
-    },
-    "narrative_dist_native": {
-      "N-1": 66.7,
-      "N-2": 0.0,
-      "N-3": 33.300000000000004
-    }
-  },
-  {
-    "userName": "EugenJurzyca",
-    "name": "Eugen Jurzyca",
-    "native_lang": "und",
-    "country": NaN,
-    "politicalGroup": NaN,
-    "narrative_dist_en": {
-      "N-1": 100.0,
-      "N-2": 0.0,
-      "N-3": 0.0
-    },
-    "narrative_dist_native": {
-      "N-1": 33.300000000000004,
-      "N-2": 0.0,
-      "N-3": 66.7
-    }
-  },
-  {
     "userName": "FabioDeMasi",
     "name": "Fabio De Masi \ud83e\udda9",
     "native_lang": "de",
@@ -476,40 +204,6 @@
     }
   },
   {
-    "userName": "Fidias0",
-    "name": "Fidias Panayiotou",
-    "native_lang": "de",
-    "country": "Cyprus",
-    "politicalGroup": "Non-attached Members",
-    "narrative_dist_en": {
-      "N-1": 11.799999999999999,
-      "N-2": 11.799999999999999,
-      "N-3": 76.5
-    },
-    "narrative_dist_native": {
-      "N-1": 0.0,
-      "N-2": 0.0,
-      "N-3": 100.0
-    }
-  },
-  {
-    "userName": "Franc_Bogovic",
-    "name": "Franc Bogovi\u010d",
-    "native_lang": "sl",
-    "country": NaN,
-    "politicalGroup": NaN,
-    "narrative_dist_en": {
-      "N-1": 100.0,
-      "N-2": 0.0,
-      "N-3": 0.0
-    },
-    "narrative_dist_native": {
-      "N-1": 75.4,
-      "N-2": 0.0,
-      "N-3": 24.6
-    }
-  },
-  {
     "userName": "GPiperea",
     "name": "Gheorghe Piperea",
     "native_lang": "ro",
@@ -524,74 +218,6 @@
       "N-1": 15.4,
       "N-2": 30.8,
       "N-3": 53.800000000000004
-    }
-  },
-  {
-    "userName": "GeukingHelmut",
-    "name": "Helmut Geuking",
-    "native_lang": "de",
-    "country": NaN,
-    "politicalGroup": NaN,
-    "narrative_dist_en": {
-      "N-1": 75.0,
-      "N-2": 6.2,
-      "N-3": 18.8
-    },
-    "narrative_dist_native": {
-      "N-1": 57.099999999999994,
-      "N-2": 0.0,
-      "N-3": 42.9
-    }
-  },
-  {
-    "userName": "GiorgosKyrtsos",
-    "name": "\u0393\u03b9\u03ce\u03c1\u03b3\u03bf\u03c2 \u039a\u03cd\u03c1\u03c4\u03c3\u03bf\u03c2",
-    "native_lang": "el",
-    "country": NaN,
-    "politicalGroup": NaN,
-    "narrative_dist_en": {
-      "N-1": 96.3,
-      "N-2": 0.0,
-      "N-3": 3.6999999999999997
-    },
-    "narrative_dist_native": {
-      "N-1": 58.699999999999996,
-      "N-2": 3.5999999999999996,
-      "N-3": 37.6
-    }
-  },
-  {
-    "userName": "GyoriEniko",
-    "name": "Enik\u0151 Gy\u0151ri",
-    "native_lang": "es",
-    "country": "Hungary",
-    "politicalGroup": "Patriots for Europe Group",
-    "narrative_dist_en": {
-      "N-1": 23.0,
-      "N-2": 28.999999999999996,
-      "N-3": 48.0
-    },
-    "narrative_dist_native": {
-      "N-1": 100.0,
-      "N-2": 0.0,
-      "N-3": 0.0
-    }
-  },
-  {
-    "userName": "HerbertDorfmann",
-    "name": "Herbert Dorfmann",
-    "native_lang": "de",
-    "country": "Italy",
-    "politicalGroup": "Group of the European People's Party (Christian Democrats)",
-    "narrative_dist_en": {
-      "N-1": 100.0,
-      "N-2": 0.0,
-      "N-3": 0.0
-    },
-    "narrative_dist_native": {
-      "N-1": 75.0,
-      "N-2": 0.0,
-      "N-3": 25.0
     }
   },
   {
@@ -629,40 +255,6 @@
     }
   },
   {
-    "userName": "JPimentaLopes",
-    "name": "Jo\u00e3o Pimenta Lopes",
-    "native_lang": "pt",
-    "country": NaN,
-    "politicalGroup": NaN,
-    "narrative_dist_en": {
-      "N-1": 0.0,
-      "N-2": 100.0,
-      "N-3": 0.0
-    },
-    "narrative_dist_native": {
-      "N-1": 0.0,
-      "N-2": 56.2,
-      "N-3": 43.8
-    }
-  },
-  {
-    "userName": "JRBauza",
-    "name": "Jos\u00e9 Ram\u00f3n Bauz\u00e1",
-    "native_lang": "es",
-    "country": NaN,
-    "politicalGroup": NaN,
-    "narrative_dist_en": {
-      "N-1": 100.0,
-      "N-2": 0.0,
-      "N-3": 0.0
-    },
-    "narrative_dist_native": {
-      "N-1": 77.3,
-      "N-2": 2.3,
-      "N-3": 20.5
-    }
-  },
-  {
     "userName": "JaakMadison",
     "name": "Jaak Madison \ud83c\uddea\ud83c\uddea",
     "native_lang": "et",
@@ -677,91 +269,6 @@
       "N-1": 68.10000000000001,
       "N-2": 11.1,
       "N-3": 20.8
-    }
-  },
-  {
-    "userName": "JanOlbrycht",
-    "name": "Jan Olbrycht",
-    "native_lang": "pl",
-    "country": NaN,
-    "politicalGroup": NaN,
-    "narrative_dist_en": {
-      "N-1": 60.0,
-      "N-2": 0.0,
-      "N-3": 40.0
-    },
-    "narrative_dist_native": {
-      "N-1": 83.3,
-      "N-2": 0.0,
-      "N-3": 16.7
-    }
-  },
-  {
-    "userName": "JerkovicRomana",
-    "name": "Romana Jerkovi\u0107 Kralji\u0107 MEP",
-    "native_lang": "und",
-    "country": "Croatia",
-    "politicalGroup": "Group of the Progressive Alliance of Socialists and Democrats in the\n            European Parliament",
-    "narrative_dist_en": {
-      "N-1": 100.0,
-      "N-2": 0.0,
-      "N-3": 0.0
-    },
-    "narrative_dist_native": {
-      "N-1": 77.8,
-      "N-2": 0.0,
-      "N-3": 22.2
-    }
-  },
-  {
-    "userName": "Joachim_Kuhs",
-    "name": "Joachim Kuhs, MdEP iR",
-    "native_lang": "de",
-    "country": NaN,
-    "politicalGroup": NaN,
-    "narrative_dist_en": {
-      "N-1": 0.0,
-      "N-2": 0.0,
-      "N-3": 100.0
-    },
-    "narrative_dist_native": {
-      "N-1": 0.0,
-      "N-2": 40.0,
-      "N-3": 60.0
-    }
-  },
-  {
-    "userName": "Joerg_Meuthen",
-    "name": "J\u00f6rg Meuthen",
-    "native_lang": "de",
-    "country": NaN,
-    "politicalGroup": NaN,
-    "narrative_dist_en": {
-      "N-1": 0.0,
-      "N-2": 0.0,
-      "N-3": 100.0
-    },
-    "narrative_dist_native": {
-      "N-1": 100.0,
-      "N-2": 0.0,
-      "N-3": 0.0
-    }
-  },
-  {
-    "userName": "JohanNissinen",
-    "name": "Johan Nissinen",
-    "native_lang": "sv",
-    "country": NaN,
-    "politicalGroup": NaN,
-    "narrative_dist_en": {
-      "N-1": 100.0,
-      "N-2": 0.0,
-      "N-3": 0.0
-    },
-    "narrative_dist_native": {
-      "N-1": 57.099999999999994,
-      "N-2": 0.0,
-      "N-3": 42.9
     }
   },
   {
@@ -782,40 +289,6 @@
     }
   },
   {
-    "userName": "KGroselj",
-    "name": "Klemen Groselj",
-    "native_lang": "sl",
-    "country": NaN,
-    "politicalGroup": NaN,
-    "narrative_dist_en": {
-      "N-1": 100.0,
-      "N-2": 0.0,
-      "N-3": 0.0
-    },
-    "narrative_dist_native": {
-      "N-1": 32.9,
-      "N-2": 2.4,
-      "N-3": 64.7
-    }
-  },
-  {
-    "userName": "KRLS",
-    "name": "krls.eth / Carles Puigdemont",
-    "native_lang": "ca",
-    "country": NaN,
-    "politicalGroup": NaN,
-    "narrative_dist_en": {
-      "N-1": 100.0,
-      "N-2": 0.0,
-      "N-3": 0.0
-    },
-    "narrative_dist_native": {
-      "N-1": 65.60000000000001,
-      "N-2": 0.0,
-      "N-3": 34.4
-    }
-  },
-  {
     "userName": "KosmaZlotowski",
     "name": "Kosma Z\u0142otowski",
     "native_lang": "pl",
@@ -830,40 +303,6 @@
       "N-1": 78.5,
       "N-2": 0.0,
       "N-3": 21.5
-    }
-  },
-  {
-    "userName": "LauraHuhtasaari",
-    "name": "Laura Huhtasaari \ud83c\uddeb\ud83c\uddee kansanedustaja",
-    "native_lang": "fi",
-    "country": NaN,
-    "politicalGroup": NaN,
-    "narrative_dist_en": {
-      "N-1": 50.0,
-      "N-2": 50.0,
-      "N-3": 0.0
-    },
-    "narrative_dist_native": {
-      "N-1": 43.6,
-      "N-2": 16.0,
-      "N-3": 40.400000000000006
-    }
-  },
-  {
-    "userName": "LeszekMiller",
-    "name": "Leszek Miller",
-    "native_lang": "pl",
-    "country": NaN,
-    "politicalGroup": NaN,
-    "narrative_dist_en": {
-      "N-1": 0.0,
-      "N-2": 0.0,
-      "N-3": 100.0
-    },
-    "narrative_dist_native": {
-      "N-1": 30.099999999999998,
-      "N-2": 14.499999999999998,
-      "N-3": 55.300000000000004
     }
   },
   {
@@ -901,23 +340,6 @@
     }
   },
   {
-    "userName": "MPHoogeveen",
-    "name": "Michiel Hoogeveen",
-    "native_lang": "nl",
-    "country": NaN,
-    "politicalGroup": NaN,
-    "narrative_dist_en": {
-      "N-1": 50.0,
-      "N-2": 0.0,
-      "N-3": 50.0
-    },
-    "narrative_dist_native": {
-      "N-1": 18.2,
-      "N-2": 31.8,
-      "N-3": 50.0
-    }
-  },
-  {
     "userName": "ManonAubryFr",
     "name": "Manon Aubry",
     "native_lang": "fr",
@@ -932,57 +354,6 @@
       "N-1": 63.2,
       "N-2": 0.4,
       "N-3": 36.4
-    }
-  },
-  {
-    "userName": "Marcozanni86",
-    "name": "Marco Zanni",
-    "native_lang": "it",
-    "country": NaN,
-    "politicalGroup": NaN,
-    "narrative_dist_en": {
-      "N-1": 0.0,
-      "N-2": 0.0,
-      "N-3": 100.0
-    },
-    "narrative_dist_native": {
-      "N-1": 12.1,
-      "N-2": 8.799999999999999,
-      "N-3": 79.10000000000001
-    }
-  },
-  {
-    "userName": "MariaWalshEU",
-    "name": "Maria Walsh MEP",
-    "native_lang": "und",
-    "country": "Ireland",
-    "politicalGroup": "Group of the European People's Party (Christian Democrats)",
-    "narrative_dist_en": {
-      "N-1": 89.1,
-      "N-2": 0.0,
-      "N-3": 10.9
-    },
-    "narrative_dist_native": {
-      "N-1": 0.0,
-      "N-2": 0.0,
-      "N-3": 100.0
-    }
-  },
-  {
-    "userName": "MarianMarinescu",
-    "name": "Marian Marinescu",
-    "native_lang": "ro",
-    "country": NaN,
-    "politicalGroup": NaN,
-    "narrative_dist_en": {
-      "N-1": 93.8,
-      "N-2": 0.0,
-      "N-3": 6.2
-    },
-    "narrative_dist_native": {
-      "N-1": 33.300000000000004,
-      "N-2": 0.0,
-      "N-3": 66.7
     }
   },
   {
@@ -1071,40 +442,6 @@
     }
   },
   {
-    "userName": "Mdlabajova",
-    "name": "Martina Dlabajova",
-    "native_lang": "cs",
-    "country": NaN,
-    "politicalGroup": NaN,
-    "narrative_dist_en": {
-      "N-1": 50.0,
-      "N-2": 0.0,
-      "N-3": 50.0
-    },
-    "narrative_dist_native": {
-      "N-1": 88.2,
-      "N-2": 0.0,
-      "N-3": 11.799999999999999
-    }
-  },
-  {
-    "userName": "MilanUhrik",
-    "name": "Milan Uhrik MEP \u2022 Republika",
-    "native_lang": "und",
-    "country": "Slovakia",
-    "politicalGroup": "Europe of Sovereign Nations Group",
-    "narrative_dist_en": {
-      "N-1": 0.0,
-      "N-2": 50.0,
-      "N-3": 50.0
-    },
-    "narrative_dist_native": {
-      "N-1": 1.6,
-      "N-2": 88.2,
-      "N-3": 10.2
-    }
-  },
-  {
     "userName": "MounirSatouri",
     "name": "Mounir Satouri \ud83c\udf0d",
     "native_lang": "fr",
@@ -1136,23 +473,6 @@
       "N-1": 64.3,
       "N-2": 0.0,
       "N-3": 35.699999999999996
-    }
-  },
-  {
-    "userName": "NilsTorvalds",
-    "name": "Nils Torvalds",
-    "native_lang": "fi",
-    "country": NaN,
-    "politicalGroup": NaN,
-    "narrative_dist_en": {
-      "N-1": 60.0,
-      "N-2": 0.0,
-      "N-3": 40.0
-    },
-    "narrative_dist_native": {
-      "N-1": 92.30000000000001,
-      "N-2": 0.0,
-      "N-3": 7.7
     }
   },
   {
@@ -1241,23 +561,6 @@
     }
   },
   {
-    "userName": "RodriguezPinero",
-    "name": "I. Rodr\u00edguez-Pi\u00f1ero/\u2764\ufe0f",
-    "native_lang": "es",
-    "country": NaN,
-    "politicalGroup": NaN,
-    "narrative_dist_en": {
-      "N-1": 60.0,
-      "N-2": 0.0,
-      "N-3": 40.0
-    },
-    "narrative_dist_native": {
-      "N-1": 81.89999999999999,
-      "N-2": 0.0,
-      "N-3": 18.099999999999998
-    }
-  },
-  {
     "userName": "SerbanDSturdza",
     "name": "Serban Dimitrie Sturdza",
     "native_lang": "ro",
@@ -1289,23 +592,6 @@
       "N-1": 37.1,
       "N-2": 16.1,
       "N-3": 46.800000000000004
-    }
-  },
-  {
-    "userName": "TPicula",
-    "name": "Tonino Picula",
-    "native_lang": "und",
-    "country": "Croatia",
-    "politicalGroup": "Group of the Progressive Alliance of Socialists and Democrats in the\n            European Parliament",
-    "narrative_dist_en": {
-      "N-1": 100.0,
-      "N-2": 0.0,
-      "N-3": 0.0
-    },
-    "narrative_dist_native": {
-      "N-1": 79.5,
-      "N-2": 0.0,
-      "N-3": 20.5
     }
   },
   {
@@ -1357,23 +643,6 @@
       "N-1": 6.5,
       "N-2": 62.1,
       "N-3": 31.5
-    }
-  },
-  {
-    "userName": "ZahradilJan",
-    "name": "Jan Zahradil",
-    "native_lang": "cs",
-    "country": NaN,
-    "politicalGroup": NaN,
-    "narrative_dist_en": {
-      "N-1": 17.5,
-      "N-2": 2.5,
-      "N-3": 80.0
-    },
-    "narrative_dist_native": {
-      "N-1": 27.700000000000003,
-      "N-2": 16.6,
-      "N-3": 55.7
     }
   },
   {
@@ -1445,40 +714,6 @@
     }
   },
   {
-    "userName": "djambazki",
-    "name": "\u0414\u0436\u0430\u043c\u0431\u0430\u0437\u043a\u0438",
-    "native_lang": "bg",
-    "country": NaN,
-    "politicalGroup": NaN,
-    "narrative_dist_en": {
-      "N-1": 83.3,
-      "N-2": 6.7,
-      "N-3": 10.0
-    },
-    "narrative_dist_native": {
-      "N-1": 62.5,
-      "N-2": 12.5,
-      "N-3": 25.0
-    }
-  },
-  {
-    "userName": "echo_pbreyer",
-    "name": "Patrick Breyer #JoinMastodon",
-    "native_lang": "de",
-    "country": NaN,
-    "politicalGroup": NaN,
-    "narrative_dist_en": {
-      "N-1": 75.0,
-      "N-2": 0.0,
-      "N-3": 25.0
-    },
-    "narrative_dist_native": {
-      "N-1": 50.0,
-      "N-2": 9.1,
-      "N-3": 40.9
-    }
-  },
-  {
     "userName": "eugen_tomac",
     "name": "Eugen Tomac",
     "native_lang": "ro",
@@ -1544,23 +779,6 @@
       "N-1": 67.4,
       "N-2": 2.3,
       "N-3": 30.2
-    }
-  },
-  {
-    "userName": "ignaziocorrao",
-    "name": "Ignazio Corrao",
-    "native_lang": "it",
-    "country": NaN,
-    "politicalGroup": NaN,
-    "narrative_dist_en": {
-      "N-1": 86.7,
-      "N-2": 0.0,
-      "N-3": 13.3
-    },
-    "narrative_dist_native": {
-      "N-1": 60.6,
-      "N-2": 1.7000000000000002,
-      "N-3": 37.7
     }
   },
   {
@@ -1632,57 +850,6 @@
     }
   },
   {
-    "userName": "laszloan",
-    "name": "Andr\u00e1s L\u00c1SZL\u00d3 MEP \ud83c\udded\ud83c\uddfa",
-    "native_lang": "fr",
-    "country": "Hungary",
-    "politicalGroup": "Patriots for Europe Group",
-    "narrative_dist_en": {
-      "N-1": 1.7000000000000002,
-      "N-2": 40.9,
-      "N-3": 57.4
-    },
-    "narrative_dist_native": {
-      "N-1": 0.0,
-      "N-2": 0.0,
-      "N-3": 100.0
-    }
-  },
-  {
-    "userName": "lukeming",
-    "name": "Luke 'Ming' Flanagan",
-    "native_lang": "qht",
-    "country": "Ireland",
-    "politicalGroup": "The Left group in the European Parliament - GUE/NGL",
-    "narrative_dist_en": {
-      "N-1": 68.30000000000001,
-      "N-2": 7.7,
-      "N-3": 24.0
-    },
-    "narrative_dist_native": {
-      "N-1": 100.0,
-      "N-2": 0.0,
-      "N-3": 0.0
-    }
-  },
-  {
-    "userName": "maxsmeriglio",
-    "name": "Massimiliano Smeriglio",
-    "native_lang": "it",
-    "country": NaN,
-    "politicalGroup": NaN,
-    "narrative_dist_en": {
-      "N-1": 100.0,
-      "N-2": 0.0,
-      "N-3": 0.0
-    },
-    "narrative_dist_native": {
-      "N-1": 34.4,
-      "N-2": 0.0,
-      "N-3": 65.60000000000001
-    }
-  },
-  {
     "userName": "nicogoncas",
     "name": "Nicol\u00e1s Gonz\u00e1lez  Casares",
     "native_lang": "es",
@@ -1714,57 +881,6 @@
       "N-1": 92.0,
       "N-2": 0.0,
       "N-3": 8.0
-    }
-  },
-  {
-    "userName": "radacovskyMEP",
-    "name": "Miroslav RADA\u010cOVSK\u00dd, MEP",
-    "native_lang": "und",
-    "country": NaN,
-    "politicalGroup": NaN,
-    "narrative_dist_en": {
-      "N-1": 20.0,
-      "N-2": 60.0,
-      "N-3": 20.0
-    },
-    "narrative_dist_native": {
-      "N-1": 50.0,
-      "N-2": 50.0,
-      "N-3": 0.0
-    }
-  },
-  {
-    "userName": "rosadamato634",
-    "name": "Rosa D'Amato",
-    "native_lang": "it",
-    "country": NaN,
-    "politicalGroup": NaN,
-    "narrative_dist_en": {
-      "N-1": 25.0,
-      "N-2": 0.0,
-      "N-3": 75.0
-    },
-    "narrative_dist_native": {
-      "N-1": 37.5,
-      "N-2": 11.200000000000001,
-      "N-3": 51.2
-    }
-  },
-  {
-    "userName": "sara_saracerdas",
-    "name": "Sara Cerdas @saracerdas.bsky.social",
-    "native_lang": "pt",
-    "country": NaN,
-    "politicalGroup": NaN,
-    "narrative_dist_en": {
-      "N-1": 100.0,
-      "N-2": 0.0,
-      "N-3": 0.0
-    },
-    "narrative_dist_native": {
-      "N-1": 75.0,
-      "N-2": 0.0,
-      "N-3": 25.0
     }
   },
   {
